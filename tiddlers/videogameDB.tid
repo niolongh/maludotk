@@ -1,0 +1,17 @@
+created: 20150216153659182
+modified: 20150216154732915
+tags: 
+title: videogameDB
+type: text/vnd.tiddlywiki
+
+<$edit-text tiddler="$:/temp/videogameDBvideogameTemplateEdit" tag="input" type="text"/>
+<$button class=<<tv-config-toolbar-class>>>
+<$action-sendmessage
+  $message="tm-new-tiddler"
+  $param="videogameSkeleton"
+  title={{$:/temp/videogameDBvideogameTemplateEdit}}
+  tags="videogame" />
+{{$:/core/images/new-button}}
+</$button>
+
+<ul><$list filter="[tag[videogame]sort[title]]"><li>{{!!title||videogameEntry}}</li></$list></ul>

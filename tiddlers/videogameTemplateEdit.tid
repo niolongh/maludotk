@@ -1,0 +1,9 @@
+created: 20150216141855629
+modified: 20150216145745269
+tags: template
+title: videogameTemplateEdit
+type: text/vnd.tiddlywiki
+
+|!Fullname |<$edit field="fullname"/> |
+|!Shortname |<$edit field="shortname"/> |
+|!Developer |<$edit field="developer"/> |

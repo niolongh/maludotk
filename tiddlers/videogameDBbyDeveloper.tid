@@ -1,0 +1,12 @@
+created: 20150216155732534
+modified: 20150216160122117
+tags: 
+title: videogameDBbyDeveloper
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[videogame]!developer[]each[developer]sort[developer]]">
+! <$view field="developer"/>
+<ul><$list filter="[videogame{!!developer}]">
+<li>{{!!title||videogameEntry}}</li>
+</$list></ul>
+</$list>
