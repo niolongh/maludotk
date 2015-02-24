@@ -1,7 +1,7 @@
 created: 20150216155732534
-modified: 20150216160122117
+modified: 20150224150014081
 tags: 
-title: videogameDBbyDeveloper
+title: vg.DB.byDeveloper
 type: text/vnd.tiddlywiki
 
 <$list filter="[tag[videogame]!developer[]each[developer]sort[developer]]">

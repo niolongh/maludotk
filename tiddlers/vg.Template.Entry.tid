@@ -1,7 +1,7 @@
 created: 20150216142557791
-modified: 20150216150330621
+modified: 20150224145943665
 tags: template
-title: videogameEntry
+title: vg.Template.Entry
 type: text/vnd.tiddlywiki
 
 \define editbutton()

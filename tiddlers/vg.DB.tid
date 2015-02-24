@@ -1,14 +1,15 @@
 created: 20150216153659182
-modified: 20150216154732915
+modified: 20150224145822593
 tags: 
-title: videogameDB
+title: vg.DB
 type: text/vnd.tiddlywiki
 
 <$edit-text tiddler="$:/temp/videogameDBvideogameTemplateEdit" tag="input" type="text"/>
+
 <$button class=<<tv-config-toolbar-class>>>
 <$action-sendmessage
   $message="tm-new-tiddler"
-  $param="videogameSkeleton"
+  $param="vg.Skeleton"
   title={{$:/temp/videogameDBvideogameTemplateEdit}}
   tags="videogame" />
 {{$:/core/images/new-button}}

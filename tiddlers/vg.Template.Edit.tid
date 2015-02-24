@@ -1,7 +1,7 @@
 created: 20150216141855629
-modified: 20150216145745269
+modified: 20150224145931753
 tags: template
-title: videogameTemplateEdit
+title: vg.Template.Edit
 type: text/vnd.tiddlywiki
 
 |!Fullname |<$edit field="fullname"/> |
