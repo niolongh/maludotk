@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Heriswap
+app.title.short: Heriswap
+app.type: game
+created: 20150305161100000
+modifier: YourName
+pkg.filename: net.damsy.soupeaucaillou.heriswap
+pkg.source: fdroid
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: net.damsy.soupeaucaillou.heriswap
+type: text/x-tiddlywiki
+
+—

@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: PMix
+app.title.short: PMix
+app.type: non-game
+created: 20150305161300000
+modifier: YourName
+pkg.filename: org.pmix.ui
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]] [[audio player]] [[mpd client]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: org.pmix.ui
+type: text/x-tiddlywiki
+
+—

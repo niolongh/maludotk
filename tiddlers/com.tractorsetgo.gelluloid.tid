@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Gelluloid
+app.title.short: Gelluloid
+app.type: game
+created: 20150305160600000
+modifier: YourName
+pkg.filename: com.tractorsetgo.gelluloid
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: videogame [[realtime strategy]] galcon-like
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.tractorsetgo.gelluloid
+type: text/x-tiddlywiki
+
+—

@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: avast! Mobile Security
+app.title.short: avast! Mobile Security
+app.type: non-game
+created: 20150305155800000
+modifier: YourName
+pkg.filename: com.avast.android.mobilesecurity
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.avast.android.mobilesecurity
+type: text/x-tiddlywiki
+
+—

@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Retro Breaker
+app.title.short: Retro Breaker
+app.type: game
+created: 20150305155800000
+modifier: YourName
+pkg.filename: br.usp.ime.retrobreaker
+pkg.source: fdroid
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: br.usp.ime.retrobreaker
+type: text/x-tiddlywiki
+
+—

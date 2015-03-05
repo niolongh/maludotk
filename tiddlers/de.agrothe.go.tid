@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: GOdroid
+app.title.short: GOdroid
+app.type: game
+created: 20150305160800000
+modifier: YourName
+pkg.filename: de.agrothe.go
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: videogame [[boardgame conversion]] go
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: de.agrothe.go
+type: text/x-tiddlywiki
+
+—

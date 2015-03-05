@@ -1,0 +1,21 @@
+app.credits: Rookie001
+app.title.full: Perfect Viewer
+app.title.short: Perfect Viewer
+app.type: non-game
+created: 20150305160300000
+modifier: YourName
+pkg.filename: com.rookiestudio.perfectviewer
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: 5
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]] [[document viewer]] comics donationware
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.rookiestudio.perfectviewer
+type: text/x-tiddlywiki
+
+Excellent lecteur de BD (comic books) & PDF. Stabilité, rapidité, richesse de fonctionnalités : qualité d'affichage optimale grâce à différents filtres de rendu et contrôles, découpage de l'écran en multiples zones réactives, gère parfaitement les cb7 (en plus des habituels cbr et cbz), etc. Dommage cependant qu'il ne permettent pas de cacher la barre des tâches d'Android et qu'il n'accepte pas certains formats (cba, cbt, tiff…)

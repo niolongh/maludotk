@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Atoms
+app.title.short: Atoms
+app.type: game
+created: 20150305160700000
+modifier: YourName
+pkg.filename: com.wharfgames.atoms
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: videogame puzzle
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.wharfgames.atoms
+type: text/x-tiddlywiki
+
+—

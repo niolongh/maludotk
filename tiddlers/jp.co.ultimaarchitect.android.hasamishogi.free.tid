@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Hasami Shogi
+app.title.short: Hasami Shogi
+app.type: game
+created: 20150305161000000
+modifier: YourName
+pkg.filename: jp.co.ultimaarchitect.android.hasamishogi.free
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: videogame [[boardgame conversion]] shogi
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: jp.co.ultimaarchitect.android.hasamishogi.free
+type: text/x-tiddlywiki
+
+—

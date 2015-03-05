@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: RoboZZle Droid
+app.title.short: RoboZZle Droid
+app.type: game
+created: 20150305160500000
+modifier: YourName
+pkg.filename: com.team242.robozzle
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: videogame [[robot programming]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.team242.robozzle
+type: text/x-tiddlywiki
+
+—

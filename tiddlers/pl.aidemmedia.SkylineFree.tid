@@ -1,0 +1,21 @@
+app.credits: Aidem Media
+app.title.full: Skyline Free
+app.title.short: Skyline Free
+app.type: game
+created: 20150305161400000
+modifier: YourName
+pkg.filename: pl.aidemmedia.SkylineFree
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: 3
+review.status: juste importé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: pl.aidemmedia.SkylineFree
+type: text/x-tiddlywiki
+
+Sudoku-like agréable mais démo limitée. Puzzle où il faut remplir une pâté de bâtiments sous contraintes. L'apparence est léchée, l'ergonomie exemplaire et le concept sympa. Malheureusement cette démo est très courte.

@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: PressReader
+app.title.short: PressReader
+app.type: non-game
+created: 20150305160100000
+modifier: YourName
+pkg.filename: com.newspaperdirect.pressreader.android.hc
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.newspaperdirect.pressreader.android.hc
+type: text/x-tiddlywiki
+
+—

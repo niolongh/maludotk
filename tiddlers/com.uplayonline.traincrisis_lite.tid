@@ -1,0 +1,21 @@
+app.credits: U-Play Online
+app.title.full: Train Crisis HD Lite
+app.title.short: Train Crisis HD Lite
+app.type: game
+created: 20150305160600000
+modifier: YourName
+pkg.filename: com.uplayonline.traincrisis_lite
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: 3
+review.status: juste importé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.uplayonline.traincrisis_lite
+type: text/x-tiddlywiki
+
+Fun plumber-like, short demo.

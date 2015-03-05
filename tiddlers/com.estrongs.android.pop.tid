@@ -1,0 +1,21 @@
+app.credits: EStrongs Inc.
+app.title.full: —
+app.title.short: ES File Explorer
+app.type: non-game
+created: 20150305155900000
+modifier: YourName
+pkg.filename: com.estrongs.android.pop
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: 2
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.estrongs.android.pop
+type: text/x-tiddlywiki
+
+Correct mais gère mal les « merges ». Or je n'ai pas actuellement besoin de ses fonctionnalités avancées.

@@ -1,0 +1,21 @@
+app.credits: PalmerinTech
+app.title.full: EasyEyez Free
+app.title.short: EasyEyez Free
+app.type: non-game
+created: 20150305160200000
+modifier: YourName
+pkg.filename: com.palmerin.easyeyezfree
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: 1
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.palmerin.easyeyezfree
+type: text/x-tiddlywiki
+
+Très très limité. Dans la lignée des f.Lux et autres Redshift mais trop peu personnalisable.

@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Border Siege Lite
+app.title.short: Border Siege Lite
+app.type: game
+created: 20150305155900000
+modifier: YourName
+pkg.filename: com.game.drisk.free
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.game.drisk.free
+type: text/x-tiddlywiki
+
+—

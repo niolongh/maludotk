@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: jqt
+app.title.short: jqt
+app.type: non-game
+created: 20150305160000000
+modifier: YourName
+pkg.filename: com.jsoftware.android.qtide
+pkg.source: web=http://www.jsoftware.com/stable.htm
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]] programming
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.jsoftware.android.qtide
+type: text/x-tiddlywiki
+
+—

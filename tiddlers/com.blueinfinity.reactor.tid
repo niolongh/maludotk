@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Infinity reactor
+app.title.short: Infinity reactor
+app.type: game
+created: 20150305155800000
+modifier: YourName
+pkg.filename: com.blueinfinity.reactor
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: videogame [[two players]] reflex
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.blueinfinity.reactor
+type: text/x-tiddlywiki
+
+—

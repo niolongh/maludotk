@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Flock
+app.title.short: Flock
+app.type: non-game
+created: 20150305161200000
+modifier: YourName
+pkg.filename: org.anhonesteffort.flock
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: org.anhonesteffort.flock
+type: text/x-tiddlywiki
+
+—

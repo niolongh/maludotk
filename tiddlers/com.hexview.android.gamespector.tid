@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: GameSpector
+app.title.short: GameSpector
+app.type: non-game
+created: 20150305160000000
+modifier: YourName
+pkg.filename: com.hexview.android.gamespector
+pkg.source: web=http://www.aptoide.com/
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.hexview.android.gamespector
+type: text/x-tiddlywiki
+
+—

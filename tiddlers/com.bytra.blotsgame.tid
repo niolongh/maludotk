@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Blots
+app.title.short: Blots
+app.type: game
+created: 20150305155800000
+modifier: YourName
+pkg.filename: com.bytra.blotsgame
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: videogame [[boardgame conversion]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.bytra.blotsgame
+type: text/x-tiddlywiki
+
+—

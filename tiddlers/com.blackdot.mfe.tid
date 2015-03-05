@@ -1,0 +1,21 @@
+app.credits: Black Dot Mobile
+app.title.full: Fractal Explorer
+app.title.short: Fractal Explorer
+app.type: non-game
+created: 20150305155800000
+modifier: YourName
+pkg.filename: com.blackdot.mfe
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: 2
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.blackdot.mfe
+type: text/x-tiddlywiki
+
+Joli mais sans plus. Mandelbrot, c'est toujours sympa mais ce programme est trop limité pour éviter une lassitude rapide. Fractoid semble plus complet.

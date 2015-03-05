@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Droid MPD Client HD Free
+app.title.short: Droid MPD Client HD Free
+app.type: non-game
+created: 20150305160400000
+modifier: YourName
+pkg.filename: com.soreha.mpdclienthd.free
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]] [[audio player]] [[mpd client]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.soreha.mpdclienthd.free
+type: text/x-tiddlywiki
+
+—

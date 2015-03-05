@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Mupen64 Plus AE
+app.title.short: Mupen64 Plus AE
+app.type: game
+created: 20150305161400000
+modifier: YourName
+pkg.filename: paulscode.android.mupen64plusae
+pkg.source: fdroid
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: paulscode.android.mupen64plusae
+type: text/x-tiddlywiki
+
+—

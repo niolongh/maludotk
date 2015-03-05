@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Monad
+app.title.short: Monad
+app.type: game
+created: 20150305160900000
+modifier: YourName
+pkg.filename: fenris.game
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: fenris.game
+type: text/x-tiddlywiki
+
+—

@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Screen Dimmer
+app.title.short: Screen Dimmer
+app.type: non-game
+created: 20150305160300000
+modifier: YourName
+pkg.filename: com.sebmorand.brightcom
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]] [[display manager]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.sebmorand.brightcom
+type: text/x-tiddlywiki
+
+—

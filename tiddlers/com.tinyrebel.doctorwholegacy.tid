@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Doctor Who
+app.title.short: Doctor Who
+app.type: game
+created: 20150305160500000
+modifier: YourName
+pkg.filename: com.tinyrebel.doctorwholegacy
+pkg.source: humblebundle
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: videogame [[match three (or more)]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.tinyrebel.doctorwholegacy
+type: text/x-tiddlywiki
+
+—

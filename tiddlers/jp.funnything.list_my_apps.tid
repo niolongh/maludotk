@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: List My Apps
+app.title.short: List My Apps
+app.type: non-game
+created: 20150305161000000
+modifier: YourName
+pkg.filename: jp.funnything.list_my_apps
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]] [[application manager]] list
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: jp.funnything.list_my_apps
+type: text/x-tiddlywiki
+
+—

@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Xposed Installer
+app.title.short: Xposed Installer
+app.type: non-game
+created: 20150305160800000
+modifier: YourName
+pkg.filename: de.robv.android.xposed.installer
+pkg.source: web=http://repo.xposed.info/module/de.robv.android.xposed.installer
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]] store
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: de.robv.android.xposed.installer
+type: text/x-tiddlywiki
+
+—

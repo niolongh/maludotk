@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Heartbleed Scanner
+app.title.short: Heartbleed Scanner
+app.type: non-game
+created: 20150305155800000
+modifier: YourName
+pkg.filename: com.cleanmaster.security.heartbleed
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]] security
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.cleanmaster.security.heartbleed
+type: text/x-tiddlywiki
+
+—

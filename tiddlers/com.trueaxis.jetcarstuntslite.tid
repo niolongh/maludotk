@@ -1,0 +1,21 @@
+app.credits: True Axis
+app.title.full: Jet Car Stunts Lite
+app.title.short: Jet Car Stunts Lite
+app.type: game
+created: 20150305160600000
+modifier: YourName
+pkg.filename: com.trueaxis.jetcarstuntslite
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: 1
+review.status: juste importé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.trueaxis.jetcarstuntslite
+type: text/x-tiddlywiki
+
+Semble bien mais très peu ergonomique sur tablette.

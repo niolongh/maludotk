@@ -1,0 +1,21 @@
+app.credits: Tungsten Software
+app.title.full: Geostruct
+app.title.short: Geostruct
+app.type: game
+created: 20150305160600000
+modifier: YourName
+pkg.filename: com.tungsten.geostruct
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: 3
+review.status: juste importé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.tungsten.geostruct
+type: text/x-tiddlywiki
+
+Puzzle original, visualisation difficile. Objectif : Recréer des volumes en alignant correctement des groupes d'arêtes. Concept original. Profondeur difficile à visualiser : pourrait probablement être amélioré avec une sorte de brouillard léger.

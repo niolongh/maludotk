@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: GO Keyboard
+app.title.short: GO Keyboard
+app.type: non-game
+created: 20150305160000000
+modifier: YourName
+pkg.filename: com.jb.gokeyboard
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.jb.gokeyboard
+type: text/x-tiddlywiki
+
+—

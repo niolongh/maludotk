@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: DeaDBeeF Free Plugins
+app.title.short: DeaDBeeF Free Plugins
+app.type: non-game
+created: 20150305161200000
+modifier: YourName
+pkg.filename: org.deadbeef.android.freeplugins
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]] [[audio player]] extension
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: org.deadbeef.android.freeplugins
+type: text/x-tiddlywiki
+
+—

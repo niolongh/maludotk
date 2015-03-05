@@ -1,0 +1,21 @@
+app.credits: RebelNow.com
+app.title.full: Fingerboard Lite
+app.title.short: Fingerboard Lite
+app.type: game
+created: 20150305160300000
+modifier: YourName
+pkg.filename: com.rebelnow.fingerboard
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: 1
+review.status: juste importé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.rebelnow.fingerboard
+type: text/x-tiddlywiki
+
+Incontrôlable sur TFP.

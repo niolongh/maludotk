@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: App Categories
+app.title.short: App Categories
+app.type: non-game
+created: 20150305160600000
+modifier: YourName
+pkg.filename: com.tsanoff.appcategories
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: [[non-game software]] [[application manager]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.tsanoff.appcategories
+type: text/x-tiddlywiki
+
+—

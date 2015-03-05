@@ -1,0 +1,21 @@
+app.credits: Team Graviturn
+app.title.full: Graviturn Extended
+app.title.short: Graviturn Extended
+app.type: game
+created: 20150305155900000
+modifier: YourName
+pkg.filename: com.fheft.graviturnex.free
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: 1
+review.status: juste importé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.fheft.graviturnex.free
+type: text/x-tiddlywiki
+
+Ne fonctionne pas sur l'Asus Transformer Prime

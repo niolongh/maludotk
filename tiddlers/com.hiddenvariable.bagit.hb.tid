@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Bag It!
+app.title.short: Bag It!
+app.type: game
+created: 20150305160000000
+modifier: YourName
+pkg.filename: com.hiddenvariable.bagit.hb
+pkg.source: humblebundle
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: videogame puzzle
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: com.hiddenvariable.bagit.hb
+type: text/x-tiddlywiki
+
+—

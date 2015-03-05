@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: Frozen Bubble
+app.title.short: Frozen Bubble
+app.type: game
+created: 20150305161300000
+modifier: YourName
+pkg.filename: org.jfedor.frozenbubble
+pkg.source: fdroid
+pkg.version: —
+review.rating: —
+review.status: juste importé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: org.jfedor.frozenbubble
+type: text/x-tiddlywiki
+
+—

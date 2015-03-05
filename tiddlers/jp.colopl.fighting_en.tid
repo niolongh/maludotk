@@ -1,0 +1,21 @@
+app.credits: COLOPL, Inc.
+app.title.full: Battle Robots!
+app.title.short: Battle Robots!
+app.type: game
+created: 20150305161000000
+modifier: YourName
+pkg.filename: jp.colopl.fighting_en
+pkg.source: com.android.vending
+pkg.version: —
+review.rating: 1
+review.status: juste importé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+title: jp.colopl.fighting_en
+type: text/x-tiddlywiki
+
+Pas très beau et rapidement lassant. Principe : personnaliser son robot en utilisant les power-ups récolté lors des combats. Contrôles en combat rudimentaires. Graphisme moyen sur écran de tablette.
