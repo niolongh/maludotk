@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: pl.solidexplorer
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Période d'essai finie avant d'avoir pu l'utiliser ! Difficile de donner un avis (positif) à propos d'une démo qui expire avant même de l'avoir exécutée une fois !

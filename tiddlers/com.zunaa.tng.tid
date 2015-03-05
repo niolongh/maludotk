@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.zunaa.tng
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Injouable sur TFP. L'interface ne fonctionne pas correctement sur TFP. Impossible de jouer.

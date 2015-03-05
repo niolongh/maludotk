@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.twotribes.sns.humble
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Lite side-scrolling Warcraft-like. Excellente réalisation (graphisme, maniabilité…) au service d'une simplification des jeux de stratégie temps réel

@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.spryfox.tripletown
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Match-3 puzzler bien pensé, bien réalisé. Dommage qu'il ne soit pas tout à fait « gratuit ». Mais il reste correct en ne poussant pas à l'achat et surtout pas à des achats multiples.

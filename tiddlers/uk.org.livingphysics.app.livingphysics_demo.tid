@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: uk.org.livingphysics.app.livingphysics_demo
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Court, sympa, pas très joli. Principe sympatique, réalisation (graphisme et interface) bof, trop peu de niveaux disponibles dans cette démo.

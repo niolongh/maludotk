@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.trueaxis.jetcarstuntslite
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Semble bien mais très peu ergonomique sur tablette.

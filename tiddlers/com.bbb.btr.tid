@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.bbb.btr
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Original et sympa mais peu pratique sur TFP. Le principe de ce jeu est original. Sa réalisation est bonne. Malheureusement, sa jouabilité sur une tablette est faible. Il est en effet peu pratique de la tourner et retourner sans cesse. Doit probablement être nettement plus agréable à jouer sur un smartphone.

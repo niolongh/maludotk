@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.humblebundle.library
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Indispensable pour Humble Bundle mais perfectible. Plutôt lent (surtout pour la mise-à-jour de la librairie). Devrait permettre d'afficher les jeux d'un seul Humble Bundle à la fois car à force il devient difficile de repérer les nouveautés !!

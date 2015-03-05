@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.kerosenegames.bsep1hib
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Tap, tap, swipe, swipe, swipe : grobourinage. C'est beau, fluide mais finalement répétitif et peu gratifiant.

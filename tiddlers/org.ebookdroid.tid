@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: org.ebookdroid
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 TB lecteur PDF et autres. Stable. Plutôt rapide. Ouvre d'autres formats. Permet d'inverser l'affichage N/B pour les lectures de nuits. Permet de remodeler le flux de texte pour profiter au mieux de la taille de l'écran. (testé quasi uniquement sur des PDF)

@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.twodboy.worldofgoodemo
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Démo généreuse pour un très bon puzzler arcade. Joli, varié, avec une gradation de la difficulté bien menée et le passage au tactile rend Wog d'autant plus agréable à jouer. Pour ne rien gâcher cette démo est généreuse en niveaux !

@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.bigduckgames.flow
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Casse-tête simple et bien réalisé. Objectif : relier les paires de plots de couleurs. Difficulté augmentant très progressivement.

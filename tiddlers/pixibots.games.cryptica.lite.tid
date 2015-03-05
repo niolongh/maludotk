@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: pixibots.games.cryptica.lite
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Sliding-block puzzler. Fun, assez joli, difficulté croissante, démo généreuse.

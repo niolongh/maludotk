@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.niasoft.alchemyclassichd
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Alchemy Classic, en plus joli encore. Suggère les objectifs atteignables, ce qui permet plus de réflexion et moins de hasard, rendant ainsi le jeu plus intéressant. De plus, il possède de plus beaux graphismes.

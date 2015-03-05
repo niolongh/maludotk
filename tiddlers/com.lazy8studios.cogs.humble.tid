@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.lazy8studios.cogs.humble
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 À peine plus passionant que le puzzle traditionnel. Version 3D plutôt bien réalisée du classique "sliding puzzle". Pas ma tasse de thé.

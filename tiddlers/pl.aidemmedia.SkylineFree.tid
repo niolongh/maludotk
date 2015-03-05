@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: pl.aidemmedia.SkylineFree
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Sudoku-like agréable mais démo limitée. Puzzle où il faut remplir une pâté de bâtiments sous contraintes. L'apparence est léchée, l'ergonomie exemplaire et le concept sympa. Malheureusement cette démo est très courte.

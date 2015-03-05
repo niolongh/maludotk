@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.entwicklerx.dodgetheseballsfree
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Utilisation minimaliste du gyroscope interne. Règle simplissime, graphisme correct, jouabilité correcte, frustrant mais avec un goût de reviens-y… Par contre, pas de quoi y passer la nuit, ni y jouer tous les jours.

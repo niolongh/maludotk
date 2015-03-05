@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: byrne.fractal
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Joli, varié mais on se lasse vite. Mandelbrot, Julia, etc. c'est toujours sympa. Meilleur que Fractal Explorer. Intéressant de découvrir une variété d'équations. Mais l'exploration des fractals reste trop passive et on se lasse.

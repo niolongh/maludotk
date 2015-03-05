@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.hemispheregames.osmosdemo
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Arcade puzzler original, beau et bien réalisé. Dommage que la démo soit si courte. Enfin, c'est le principe de la démo ;-)

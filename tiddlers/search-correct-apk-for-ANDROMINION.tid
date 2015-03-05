@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: search-correct-apk-for-ANDROMINION
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 JeuSoc Dominion. Ai toujours hésité à acheter les extensions de ce JeuSoc… Grâce à AndroMinion, je peux enfin les tester avant de me décider. Certes l'apparence est austère mais on peut vivre avec. L'IA est correcte.

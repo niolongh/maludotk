@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.cipherprime.splice.humble
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Un puzzler original, agréable et bien réalisé. La concision extrême du "manuel" est compensée par une difficulté très progressive. Très léger bémol sur l'apparence graphique.

@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.djinnworks.stickstuntbikerlite
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Aaah que je regrette Elasto-mania ! Niveaux trop linéaires et limités en nombre. Courbe de difficulté trop abrupte.

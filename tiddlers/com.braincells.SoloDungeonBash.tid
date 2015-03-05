@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.braincells.SoloDungeonBash
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Aucun intérêt. À peine plus de décisions et à peine moins de hasard que de simplement lancer un dé et espérer ne pas tirer un 6.

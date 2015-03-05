@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.trendy.ddapp
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 TowerDefense-like 3D : injouable sur TFP. Quasiment impossible de contrôler le héros sur la Transformer Prime … donc difficile de jouer à ce jeu.

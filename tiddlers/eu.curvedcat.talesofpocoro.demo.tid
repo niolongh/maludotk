@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: eu.curvedcat.talesofpocoro.demo
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Step-on-every-tile puzzler simpliste. Pas mal de niveau dans la démo mais c'est tellement simple qu'elle dure 15 minutes. Et puis, pourquoi des gfx si petits ?

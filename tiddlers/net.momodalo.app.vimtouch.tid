@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: net.momodalo.app.vimtouch
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Très bonne implémentation de Vim à un détail près… Serait parfait si ce n'est un défaut particulièrement ennuyeux : la présence du raccourci « :Q! », juste à côté de « Esc » !! NB : ne pas oublier d'installer VimTouch Full Runtime pour bénéficier de l'aide en ligne et de nombreux autres aspects pratique de Vim.

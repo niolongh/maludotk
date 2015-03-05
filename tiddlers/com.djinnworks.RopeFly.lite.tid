@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.djinnworks.RopeFly.lite
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Tarzan au pays des gratte-ciel. C'est marrant, ça dure une minute, il y a un goût de reviens-y et c'est bien implémenté. Par contre, pas de quoi y passer la nuit, ni y jouer tous les jours. Démo assez courte mais bonne rejouabilité.

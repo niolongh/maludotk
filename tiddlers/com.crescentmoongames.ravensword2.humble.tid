@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.crescentmoongames.ravensword2.humble
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Daggerfall-like (?) peu maniable sur tablette. Trop peu maniable pour y jouer assez et donner un avis sur le jeu proprement dit.

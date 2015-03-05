@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.grapecom.epta
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Sympa, sans plus. Certains disent qu'une stratégie se dégage à force d'y jouer… Malheureusement, rien ne pousse à vouloir y rejouer assez que pour en arriver à ce stade.

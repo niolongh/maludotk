@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.spidweb.avadon.humble
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Ultima-like : un jour peut-être. JDR/RPG ancienne mode en 3D isométrique. Pas particulièrement joli mais semble vaste et long, trop pour moi maintenant…

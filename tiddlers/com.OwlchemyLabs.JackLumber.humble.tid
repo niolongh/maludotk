@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.OwlchemyLabs.JackLumber.humble
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Swipe junkies only. Couper des bûches à coup de swipe, c'est marrant un temps mais une fois le jeu quitté, on n'y revient plus. Trop casual.

@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: net.stfj.spelltower
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Dans la lignée de Bookworm. Semble plus difficile que BW. Trop de hasard dans les lettres posées ? À rejouer si une version francisée voit le jour ! D'ici là…

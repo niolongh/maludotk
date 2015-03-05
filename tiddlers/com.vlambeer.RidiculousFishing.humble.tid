@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.vlambeer.RidiculousFishing.humble
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Urthwurm vertical utilisant le gyroscope du device. Pêche saugrenue et fun par petites doses. Mais rien de génial… J'y rejouerai probablement trois-quatre fois mais pas au-delà. Trop casual pour son bien.

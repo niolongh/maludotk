@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.entwicklerx.shuffleboard
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Needs to be improved. The background image doesn't fit the TFP screen! A multiplayer mode would be cool.

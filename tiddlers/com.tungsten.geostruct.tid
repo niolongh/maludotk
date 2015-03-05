@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.tungsten.geostruct
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Puzzle original, visualisation difficile. Objectif : Recréer des volumes en alignant correctement des groupes d'arêtes. Concept original. Profondeur difficile à visualiser : pourrait probablement être amélioré avec une sorte de brouillard léger.

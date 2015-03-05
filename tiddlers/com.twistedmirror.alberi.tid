@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.twistedmirror.alberi
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Sudoku-like simple et graphiquement moyen. Prenant mais trop simple et pas très joli.

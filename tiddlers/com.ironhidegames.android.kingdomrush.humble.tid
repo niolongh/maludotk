@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.ironhidegames.android.kingdomrush.humble
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Et un tower defense de plus, un … Parait qu'il est excellent. Me suis lassé avant de pouvoir le vérifier visiblement. Dommage !

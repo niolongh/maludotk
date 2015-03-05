@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.tigerstylegames.spider.humble
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 … sans la difficulté et sans intérêt. À moins que ça ne devienne intéressant au-delà du cinquième niveau … Trop tard pour moi ! Une fois de plus casual rime avec ennui.

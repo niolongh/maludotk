@@ -6,7 +6,7 @@ server.page.revision: 200911240513
 server.type: file
 tags: html
 title: CreateTiddlersFromCSV
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 /%
 |Name|CreateTiddlersFromCSV|

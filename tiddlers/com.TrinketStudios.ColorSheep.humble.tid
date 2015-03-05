@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.TrinketStudios.ColorSheep.humble
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Sans intérêt et très peu ergonomique sur tablette. Peut-être pour apprendre aux enfants les mélanges de couleurs ?? Mais sinon, ronfl !

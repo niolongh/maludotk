@@ -16,6 +16,6 @@ test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
 title: com.beardedEye.baamsAway
-type: text/x-tiddlywiki
+type: text/vnd.tiddlywiki
 
 Point'n'shoot arcade with exploding sheeps. Cute but not for me.
