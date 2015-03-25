@@ -1,17 +1,43 @@
 created: 20150216142557791
-modified: 20150224145943665
+modified: 20150323205318900
 tags: template
 title: vg.Template.Entry
 type: text/vnd.tiddlywiki
 
 \define editbutton()
-<span title="edit details"><$button set="$:/temp/videogameDBvideogameTemplateEdit" setTo={{!!title}} class="btn-invisible">{{$:/core/images/edit-button}}</$button></span>
+<span title="edit details">
+<$button 
+  set="$:/temp/vg.DB_vg.Template.Edit" 
+  setTo={{!!title}} 
+  class="btn-invisible"
+>
+{{$:/core/images/edit-button}}
+</$button>
+</span>
 \end
 
 \define editfield()
-<$reveal state="$:/temp/videogameDBvideogameTemplateEdit" text={{!!title}} type="match">
-{{!!title||videogameTemplateEdit}}
-<$button set="$:/temp/videogameDBvideogameTemplateEdit" setTo="" class="btn-invisible">{{$:/core/images/done-button}}</$button>&nbsp;<$button param={{$:/temp/videogameDBvideogameTemplateEdit}} message="tw-delete-tiddler" class="btn-invisible">{{$:/core/images/delete-button}}</$button>
+<$reveal 
+  state="$:/temp/vg.DB_vg.Template.Edit" 
+  text={{!!title}} 
+  type="match"
+>
+{{!!title||vg.Template.Edit}}
+<$button 
+  set="$:/temp/vg.DB_vg.Template.Edit" 
+  setTo="" 
+  class="btn-invisible"
+>
+{{$:/core/images/done-button}}
+</$button>
+&nbsp;
+<$button 
+  param={{$:/temp/vg.DB_vg.Template.Edit}} 
+  message="tw-delete-tiddler" 
+  class="btn-invisible"
+>
+{{$:/core/images/delete-button}}
+</$button>
 </$reveal>
 \end
 
