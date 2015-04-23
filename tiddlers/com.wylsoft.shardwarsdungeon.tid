@@ -3,7 +3,7 @@ app.title.full: ShardWars Dungeon
 app.title.short: ShardWars Dungeon
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.wylsoft.shardwarsdungeon
 pkg.source: com.android.vending
 pkg.version: —

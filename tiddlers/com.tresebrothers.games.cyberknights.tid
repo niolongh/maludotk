@@ -3,7 +3,7 @@ app.title.full: Cyber Knights RPG
 app.title.short: Cyber Knights RPG
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.tresebrothers.games.cyberknights
 pkg.source: com.android.vending
 pkg.version: —

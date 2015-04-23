@@ -3,7 +3,7 @@ app.title.full: VPlayer
 app.title.short: VPlayer
 app.type: non-game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: me.abitno.vplayer.t
 pkg.source: com.android.vending
 pkg.version: —

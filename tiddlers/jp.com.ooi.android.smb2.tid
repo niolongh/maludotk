@@ -3,7 +3,7 @@ app.title.full: SMB2-SE
 app.title.short: SMB2-SE
 app.type: game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: jp.com.ooi.android.smb2
 pkg.source: humblebundle
 pkg.version: —

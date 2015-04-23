@@ -3,7 +3,7 @@ app.title.full: Clockwork Tales (Full)
 app.title.short: Clockwork Tales (Full)
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.artifexmundi.clockwork.amzn.full
 pkg.source: com.amazon.venezia
 pkg.version: —

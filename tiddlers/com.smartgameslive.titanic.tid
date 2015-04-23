@@ -3,7 +3,7 @@ app.title.full: Titanic Lite
 app.title.short: Titanic Lite
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.smartgameslive.titanic
 pkg.source: com.android.vending
 pkg.version: —

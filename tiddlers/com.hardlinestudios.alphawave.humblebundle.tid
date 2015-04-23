@@ -3,7 +3,7 @@ app.title.full: Alpha Wave
 app.title.short: Alpha Wave
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.hardlinestudios.alphawave.humblebundle
 pkg.source: humblebundle
 pkg.version: —

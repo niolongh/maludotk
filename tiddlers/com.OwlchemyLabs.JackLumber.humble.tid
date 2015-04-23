@@ -3,7 +3,7 @@ app.title.full: Jack Lumber
 app.title.short: Jack Lumber
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.OwlchemyLabs.JackLumber.humble
 pkg.source: humblebundle
 pkg.version: —

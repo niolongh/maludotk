@@ -3,7 +3,7 @@ app.title.full: PvM
 app.title.short: PvM
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.RunnerGames.game.PumpkinsVsMonster_AD
 pkg.source: com.android.vending
 pkg.version: —

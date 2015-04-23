@@ -3,7 +3,7 @@ app.title.full: Popies Lite
 app.title.short: Popies Lite
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.sillycube.android.popieslite
 pkg.source: com.android.vending
 pkg.version: —

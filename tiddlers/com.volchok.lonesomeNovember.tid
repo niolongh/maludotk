@@ -3,7 +3,7 @@ app.title.full: Choose to Survive
 app.title.short: Choose to Survive
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.volchok.lonesomeNovember
 pkg.source: com.android.vending
 pkg.version: —

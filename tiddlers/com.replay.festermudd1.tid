@@ -3,7 +3,7 @@ app.title.full: Fester Mudd
 app.title.short: Fester Mudd
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.replay.festermudd1
 pkg.source: com.android.vending
 pkg.version: —

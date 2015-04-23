@@ -3,7 +3,7 @@ app.title.full: ABBYY BCR
 app.title.short: ABBYY BCR
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.abbyy.mobile.bcr.full.amazon
 pkg.source: com.amazon.venezia
 pkg.version: —

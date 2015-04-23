@@ -3,7 +3,7 @@ app.title.full: Mystery Castle HD - Episode 1
 app.title.short: Mystery Castle HD - Episode 1
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.runestonegames.mysterycastle.episode1
 pkg.source: com.amazon.venezia
 pkg.version: —

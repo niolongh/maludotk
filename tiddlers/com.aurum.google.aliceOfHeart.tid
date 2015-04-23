@@ -3,7 +3,7 @@ app.title.full: Alice of Hearts
 app.title.short: Alice of Hearts
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.aurum.google.aliceOfHeart
 pkg.source: com.android.vending
 pkg.version: —

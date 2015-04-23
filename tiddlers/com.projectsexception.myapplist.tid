@@ -3,7 +3,7 @@ app.title.full: My App List
 app.title.short: My App List
 app.type: non-game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.projectsexception.myapplist
 pkg.source: com.android.vending
 pkg.version: —

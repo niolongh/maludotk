@@ -3,7 +3,7 @@ app.title.full: Ixquick
 app.title.short: Ixquick
 app.type: non-game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ixquick.mobile
 pkg.source: com.android.vending
 pkg.version: —

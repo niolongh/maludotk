@@ -3,7 +3,7 @@ app.title.full: ShaqDown 2
 app.title.short: ShaqDown 2
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.onespear.shaqdown2
 pkg.source: com.amazon.venezia
 pkg.version: —

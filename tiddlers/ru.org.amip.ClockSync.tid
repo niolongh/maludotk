@@ -3,7 +3,7 @@ app.title.full: ClockSync
 app.title.short: ClockSync
 app.type: non-game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: ru.org.amip.ClockSync
 pkg.source: com.android.vending
 pkg.version: —

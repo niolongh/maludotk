@@ -3,7 +3,7 @@ app.title.full: Deflektor Classic
 app.title.short: Deflektor Classic
 app.type: game
 created: 20150305161400000
-modifier: YourName
+modifier: niol
 pkg.filename: pro.oneredpixel.deflektorclassic
 pkg.source: com.android.vending
 pkg.version: —

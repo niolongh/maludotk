@@ -3,7 +3,7 @@ app.title.full: Boolitaire
 app.title.short: Boolitaire
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: at.impossibru.boolitaire
 pkg.source: com.android.vending
 pkg.version: —

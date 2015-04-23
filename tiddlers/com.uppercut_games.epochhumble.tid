@@ -3,7 +3,7 @@ app.title.full: EPOCH
 app.title.short: EPOCH
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.uppercut_games.epochhumble
 pkg.source: humblebundle
 pkg.version: —

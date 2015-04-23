@@ -3,7 +3,7 @@ app.title.full: attack on titan
 app.title.short: attack on titan
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.supp.app.shingekirittaieng
 pkg.source: com.android.vending
 pkg.version: —

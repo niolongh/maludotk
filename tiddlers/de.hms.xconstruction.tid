@@ -3,7 +3,7 @@ app.title.full: X Construction Lite
 app.title.short: X Construction Lite
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: de.hms.xconstruction
 pkg.source: com.android.vending
 pkg.version: —

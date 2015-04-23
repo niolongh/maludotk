@@ -3,7 +3,7 @@ app.title.full: Refraction Lite
 app.title.short: Refraction Lite
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.textualindices.refractionlite
 pkg.source: com.android.vending
 pkg.version: —

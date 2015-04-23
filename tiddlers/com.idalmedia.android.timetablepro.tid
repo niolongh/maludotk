@@ -3,7 +3,7 @@ app.title.full: Quick TimeTable
 app.title.short: Quick TimeTable
 app.type: non-game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.idalmedia.android.timetablepro
 pkg.source: com.amazon.venezia
 pkg.version: —

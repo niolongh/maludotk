@@ -3,7 +3,7 @@ app.title.full: Train Crisis HD Lite
 app.title.short: Train Crisis HD Lite
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.uplayonline.traincrisis_lite
 pkg.source: com.android.vending
 pkg.version: —

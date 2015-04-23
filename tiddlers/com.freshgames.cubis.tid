@@ -3,7 +3,7 @@ app.title.full: Cubis
 app.title.short: Cubis
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.freshgames.cubis
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Ultimate Hangman HD
 app.title.short: Ultimate Hangman HD
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ensenasoft.ultimatehngmhd
 pkg.source: com.amazon.venezia
 pkg.version: —

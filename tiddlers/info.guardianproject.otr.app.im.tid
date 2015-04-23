@@ -3,7 +3,7 @@ app.title.full: ChatSecure
 app.title.short: ChatSecure
 app.type: non-game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: info.guardianproject.otr.app.im
 pkg.source: com.android.vending
 pkg.version: —

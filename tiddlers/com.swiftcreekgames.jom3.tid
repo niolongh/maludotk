@@ -3,7 +3,7 @@ app.title.full: Sleepy Hollow
 app.title.short: Sleepy Hollow
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.swiftcreekgames.jom3
 pkg.source: com.android.vending
 pkg.version: —

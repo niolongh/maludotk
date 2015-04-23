@@ -3,7 +3,7 @@ app.title.full: Hexiano
 app.title.short: Hexiano
 app.type: non-game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.gitorious.jamesjrh.isokeys
 pkg.source: com.android.vending
 pkg.version: —

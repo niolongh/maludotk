@@ -3,7 +3,7 @@ app.title.full: SpellTower
 app.title.short: SpellTower
 app.type: game
 created: 20150305161200000
-modifier: YourName
+modifier: niol
 pkg.filename: net.stfj.spelltower
 pkg.source: humblebundle
 pkg.version: —

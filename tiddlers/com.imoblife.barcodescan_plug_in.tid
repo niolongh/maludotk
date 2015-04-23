@@ -3,7 +3,7 @@ app.title.full: QR and Barcode Scanner
 app.title.short: QR and Barcode Scanner
 app.type: non-game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.imoblife.barcodescan_plug_in
 pkg.source: com.android.vending
 pkg.version: —

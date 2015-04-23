@@ -3,7 +3,7 @@ app.title.full: Neutron (Eval)
 app.title.short: Neutron (Eval)
 app.type: non-game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.neutroncode.mpeval
 pkg.source: com.android.vending
 pkg.version: —

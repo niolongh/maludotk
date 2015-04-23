@@ -3,7 +3,7 @@ app.title.full: Wifi Remote Play
 app.title.short: Wifi Remote Play
 app.type: non-game
 created: 20150305161200000
-modifier: YourName
+modifier: niol
 pkg.filename: net.sourceforge.wifiremoteplay
 pkg.source: f-droid
 pkg.version: —

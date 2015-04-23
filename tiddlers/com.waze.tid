@@ -3,7 +3,7 @@ app.title.full: Waze
 app.title.short: Waze
 app.type: non-game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.waze
 pkg.source: com.android.vending
 pkg.version: —

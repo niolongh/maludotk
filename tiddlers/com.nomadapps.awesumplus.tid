@@ -3,7 +3,7 @@ app.title.full: AWEsum Plus
 app.title.short: AWEsum Plus
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.nomadapps.awesumplus
 pkg.source: com.amazon.venezia
 pkg.version: —

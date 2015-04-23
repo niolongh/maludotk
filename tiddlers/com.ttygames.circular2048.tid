@@ -3,7 +3,7 @@ app.title.full: Circular 2048
 app.title.short: Circular 2048
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ttygames.circular2048
 pkg.source: com.android.vending
 pkg.version: —

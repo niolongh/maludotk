@@ -3,7 +3,7 @@ app.title.full: InstaFusion
 app.title.short: InstaFusion
 app.type: non-game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.techbla.instafusionpaid
 pkg.source: com.amazon.venezia
 pkg.version: —

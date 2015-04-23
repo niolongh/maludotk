@@ -3,7 +3,7 @@ app.title.full: SphereTones
 app.title.short: SphereTones
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: cc.openframeworks.SphereTones
 pkg.source: com.android.vending
 pkg.version: —

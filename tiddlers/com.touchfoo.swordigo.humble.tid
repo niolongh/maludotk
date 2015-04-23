@@ -3,7 +3,7 @@ app.title.full: Swordigo
 app.title.short: Swordigo
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.touchfoo.swordigo.humble
 pkg.source: humblebundle
 pkg.version: —

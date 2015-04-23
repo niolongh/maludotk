@@ -3,7 +3,7 @@ app.title.full: Virtua Tennis Challenge
 app.title.short: Virtua Tennis Challenge
 app.type: game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: jp.co.sega.vtc.OneApk
 pkg.source: humblebundle
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Escaping Droids
 app.title.short: Escaping Droids
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.appspot.escapingdroids.beta
 pkg.source: com.android.vending
 pkg.version: —

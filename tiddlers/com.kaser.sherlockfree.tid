@@ -3,7 +3,7 @@ app.title.full: Sherlock Free
 app.title.short: Sherlock Free
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.kaser.sherlockfree
 pkg.source: com.android.vending
 pkg.version: —

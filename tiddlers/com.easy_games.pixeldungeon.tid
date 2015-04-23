@@ -3,7 +3,7 @@ app.title.full: Easy Dungeon
 app.title.short: Easy Dungeon
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.easy_games.pixeldungeon
 pkg.source: com.android.vending
 pkg.version: —

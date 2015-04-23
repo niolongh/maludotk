@@ -3,7 +3,7 @@ app.title.full: Stick Stunt Biker (Free)
 app.title.short: Stick Stunt Biker (Free)
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.djinnworks.stickstuntbikerlite
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Learn Music Notes
 app.title.short: Learn Music Notes
 app.type: non-game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.fercanet.LNM
 pkg.source: fdroid
 pkg.version: —

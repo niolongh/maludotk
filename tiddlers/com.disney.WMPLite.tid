@@ -3,7 +3,7 @@ app.title.full: Perry? Free
 app.title.short: Perry? Free
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.disney.WMPLite
 pkg.source: com.android.vending
 pkg.version: —

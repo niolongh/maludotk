@@ -3,7 +3,7 @@ app.title.full: Ravensword: Shadowlands
 app.title.short: Ravensword: Shadowlands
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.crescentmoongames.ravensword2.humble
 pkg.source: humblebundle
 pkg.version: —

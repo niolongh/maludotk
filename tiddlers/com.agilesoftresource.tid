@@ -3,7 +3,7 @@ app.title.full: AndroZip File Manager
 app.title.short: AndroZip File Manager
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.agilesoftresource
 pkg.source: com.android.vending
 pkg.version: —

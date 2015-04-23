@@ -3,7 +3,7 @@ app.title.full: Clojure REPL
 app.title.short: Clojure REPL
 app.type: non-game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.sattvik.clojure_repl
 pkg.source: com.android.vending
 pkg.version: —

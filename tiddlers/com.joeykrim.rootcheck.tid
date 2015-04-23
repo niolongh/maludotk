@@ -3,7 +3,7 @@ app.title.full: Root Checker Basic
 app.title.short: Root Checker Basic
 app.type: non-game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.joeykrim.rootcheck
 pkg.source: com.android.vending
 pkg.version: —

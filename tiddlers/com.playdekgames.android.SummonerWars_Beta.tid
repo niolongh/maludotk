@@ -3,7 +3,7 @@ app.title.full: Summoner Wars
 app.title.short: Summoner Wars
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.playdekgames.android.SummonerWars_Beta
 pkg.source: com.android.vending
 pkg.version: —

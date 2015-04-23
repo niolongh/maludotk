@@ -3,7 +3,7 @@ app.title.full: McPixel
 app.title.short: McPixel
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.gd.sos.mcpixel.humble
 pkg.source: humblebundle
 pkg.version: —

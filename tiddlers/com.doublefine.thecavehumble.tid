@@ -3,7 +3,7 @@ app.title.full: The Cave
 app.title.short: The Cave
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.doublefine.thecavehumble
 pkg.source: humblebundle
 pkg.version: —

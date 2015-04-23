@@ -3,7 +3,7 @@ app.title.full: Majesty: Fantasy Kingdom Lite
 app.title.short: Majesty: Fantasy Kingdom Lite
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.herocraft.game.majesty.lite
 pkg.source: com.android.vending
 pkg.version: —

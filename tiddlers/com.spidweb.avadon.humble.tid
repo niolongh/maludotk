@@ -3,7 +3,7 @@ app.title.full: Avadon: The Black Fortress HD
 app.title.short: Avadon: The Black Fortress HD
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.spidweb.avadon.humble
 pkg.source: humblebundle
 pkg.version: —

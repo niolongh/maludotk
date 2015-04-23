@@ -3,7 +3,7 @@ app.title.full: All About Root
 app.title.short: All About Root
 app.type: non-game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.joeykrim.allaboutroot
 pkg.source: com.android.vending
 pkg.version: —

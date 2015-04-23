@@ -3,7 +3,7 @@ app.title.full: ChuChu Rocket
 app.title.short: ChuChu Rocket
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ccr
 pkg.source: humblebundle
 pkg.version: —

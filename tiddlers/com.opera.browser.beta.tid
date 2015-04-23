@@ -4,7 +4,7 @@ app.title.short: Opera Beta
 app.type: non-game
 created: 20150305160200000
 modified: 20150305164512014
-modifier: YourName
+modifier: niol
 pkg.filename: com.opera.browser.beta
 pkg.source: com.android.vending
 pkg.version: —

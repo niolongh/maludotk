@@ -3,7 +3,7 @@ app.title.full: Force Collection
 app.title.short: Force Collection
 app.type: game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: jp.konami.swfc
 pkg.source: com.android.vending
 pkg.version: —

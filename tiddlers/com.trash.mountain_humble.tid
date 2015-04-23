@@ -3,7 +3,7 @@ app.title.full: Mountain
 app.title.short: Mountain
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.trash.mountain_humble
 pkg.source: humblebundle
 pkg.version: —

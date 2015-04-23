@@ -3,7 +3,7 @@ app.title.full: Endless Reach
 app.title.short: Endless Reach
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.Soverance.EndlessReach
 pkg.source: com.amazon.venezia
 pkg.version: —

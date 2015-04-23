@@ -3,7 +3,7 @@ app.title.full: Perfect keyboard free
 app.title.short: Perfect keyboard free
 app.type: non-game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: free.inputmethod.latin.perfectkeyboard
 pkg.source: com.android.vending
 pkg.version: —

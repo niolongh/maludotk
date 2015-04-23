@@ -3,7 +3,7 @@ app.title.full: 2 Players Touch
 app.title.short: 2 Players Touch
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.com.dongba.doori
 pkg.source: com.android.vending
 pkg.version: —

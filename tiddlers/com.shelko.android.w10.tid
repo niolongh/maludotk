@@ -3,7 +3,7 @@ app.title.full: W10 Keyboard
 app.title.short: W10 Keyboard
 app.type: non-game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.shelko.android.w10
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Aralon HD
 app.title.short: Aralon HD
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.crescentmoongames.aralonhumble
 pkg.source: humblebundle
 pkg.version: —

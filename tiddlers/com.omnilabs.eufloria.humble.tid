@@ -3,7 +3,7 @@ app.title.full: Eufloria HD
 app.title.short: Eufloria HD
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.omnilabs.eufloria.humble
 pkg.source: humblebundle
 pkg.version: —

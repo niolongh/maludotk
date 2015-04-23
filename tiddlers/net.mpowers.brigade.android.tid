@@ -3,7 +3,7 @@ app.title.full: Brigade
 app.title.short: Brigade
 app.type: game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.mpowers.brigade.android
 pkg.source: com.android.vending
 pkg.version: —

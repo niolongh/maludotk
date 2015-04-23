@@ -3,7 +3,7 @@ app.title.full: Sky Hiking
 app.title.short: Sky Hiking
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.rachum.amir.skyhiking.android
 pkg.source: com.android.vending
 pkg.version: —

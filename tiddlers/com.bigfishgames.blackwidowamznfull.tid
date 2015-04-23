@@ -3,7 +3,7 @@ app.title.full: Black Widow
 app.title.short: Black Widow
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.bigfishgames.blackwidowamznfull
 pkg.source: com.amazon.venezia
 pkg.version: —

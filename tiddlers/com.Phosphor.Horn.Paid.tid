@@ -3,7 +3,7 @@ app.title.full: Horn
 app.title.short: Horn
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.Phosphor.Horn.Paid
 pkg.source: humblebundle
 pkg.version: —

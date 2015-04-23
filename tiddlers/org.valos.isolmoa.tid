@@ -3,7 +3,7 @@ app.title.full: Isolmoa
 app.title.short: Isolmoa
 app.type: game
 created: 20150305161400000
-modifier: YourName
+modifier: niol
 pkg.filename: org.valos.isolmoa
 pkg.source: fdroid
 pkg.version: —

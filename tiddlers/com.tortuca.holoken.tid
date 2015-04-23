@@ -3,7 +3,7 @@ app.title.full: HoloKen
 app.title.short: HoloKen
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.tortuca.holoken
 pkg.source: fdroid
 pkg.version: —

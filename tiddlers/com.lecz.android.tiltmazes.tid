@@ -3,7 +3,7 @@ app.title.full: TiltMazes
 app.title.short: TiltMazes
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.lecz.android.tiltmazes
 pkg.source: fdroid
 pkg.version: —

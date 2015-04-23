@@ -3,7 +3,7 @@ app.title.full: Shogun Hex
 app.title.short: Shogun Hex
 app.type: game
 created: 20150305161400000
-modifier: YourName
+modifier: niol
 pkg.filename: pl.hexmind.shogun
 pkg.source: com.android.vending
 pkg.version: —

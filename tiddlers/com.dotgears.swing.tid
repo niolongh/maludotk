@@ -3,7 +3,7 @@ app.title.full: Swing Copters
 app.title.short: Swing Copters
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dotgears.swing
 pkg.source: com.android.vending
 pkg.version: —

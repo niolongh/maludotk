@@ -3,7 +3,7 @@ app.title.full: Network Info II
 app.title.short: Network Info II
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: aws.apps.networkInfoIi
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Ultimate Cook Timer
 app.title.short: Ultimate Cook Timer
 app.type: non-game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: cook.timer
 pkg.source: com.android.vending
 pkg.version: —

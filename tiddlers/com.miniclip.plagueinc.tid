@@ -3,7 +3,7 @@ app.title.full: Plague Inc
 app.title.short: Plague Inc
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.miniclip.plagueinc
 pkg.source: com.android.vending
 pkg.version: —

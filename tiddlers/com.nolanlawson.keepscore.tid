@@ -3,7 +3,7 @@ app.title.full: KeepScore
 app.title.short: KeepScore
 app.type: non-game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.nolanlawson.keepscore
 pkg.source: fdroid
 pkg.version: —

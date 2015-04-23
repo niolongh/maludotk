@@ -3,7 +3,7 @@ app.title.full: Marvel Comics
 app.title.short: Marvel Comics
 app.type: non-game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.marvel.comics
 pkg.source: com.android.vending
 pkg.version: —

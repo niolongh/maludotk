@@ -3,7 +3,7 @@ app.title.full: Creator Islands
 app.title.short: Creator Islands
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.lego.creator.creatorislands
 pkg.source: com.android.vending
 pkg.version: —

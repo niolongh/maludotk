@@ -3,7 +3,7 @@ app.title.full: Rope'n'Fly 3 - From Dusk (Free)
 app.title.short: Rope'n'Fly 3 - From Dusk (Free)
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.djinnworks.RopeFly.lite
 pkg.source: com.android.vending
 pkg.version: —

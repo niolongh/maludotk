@@ -3,7 +3,7 @@ app.title.full: Simple Spreadsheet(Free)
 app.title.short: Simple Spreadsheet(Free)
 app.type: non-game
 created: 20150305161400000
-modifier: YourName
+modifier: niol
 pkg.filename: org.thetomahawk.spreadsheet
 pkg.source: com.android.vending
 pkg.version: —

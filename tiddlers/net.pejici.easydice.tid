@@ -3,7 +3,7 @@ app.title.full: Easy Dice
 app.title.short: Easy Dice
 app.type: game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.pejici.easydice
 pkg.source: fdroid
 pkg.version: —

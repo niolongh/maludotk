@@ -3,7 +3,7 @@ app.title.full: Hopeless
 app.title.short: Hopeless
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.upopa.hopeless
 pkg.source: com.android.vending
 pkg.version: —

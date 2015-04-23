@@ -3,7 +3,7 @@ app.title.full: Battery Booster Lite
 app.title.short: Battery Booster Lite
 app.type: non-game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: imoblife.batterybooster
 pkg.source: com.android.vending
 pkg.version: —

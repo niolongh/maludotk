@@ -3,7 +3,7 @@ app.title.full: 80 Days
 app.title.short: 80 Days
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.inkle.eightydays
 pkg.source: com.amazon.venezia
 pkg.version: —

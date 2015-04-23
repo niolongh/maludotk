@@ -3,7 +3,7 @@ app.title.full: Zebra Puzzle
 app.title.short: Zebra Puzzle
 app.type: game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: ms.game
 pkg.source: com.android.vending
 pkg.version: —

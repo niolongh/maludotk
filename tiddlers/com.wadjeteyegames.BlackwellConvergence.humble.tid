@@ -3,7 +3,7 @@ app.title.full: BlackwellConvergence
 app.title.short: BlackwellConvergence
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.wadjeteyegames.BlackwellConvergence.humble
 pkg.source: humblebundle
 pkg.version: —

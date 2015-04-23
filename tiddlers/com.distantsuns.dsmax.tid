@@ -3,7 +3,7 @@ app.title.full: Distant Suns (max)
 app.title.short: Distant Suns (max)
 app.type: non-game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.distantsuns.dsmax
 pkg.source: com.amazon.venezia
 pkg.version: —

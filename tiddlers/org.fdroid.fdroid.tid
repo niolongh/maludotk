@@ -3,7 +3,7 @@ app.title.full: F-Droid
 app.title.short: F-Droid
 app.type: non-game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.fdroid.fdroid
 pkg.source: web=https://f-droid.org/
 pkg.version: —

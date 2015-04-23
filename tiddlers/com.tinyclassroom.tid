@@ -3,7 +3,7 @@ app.title.full: Tiny Classroom
 app.title.short: Tiny Classroom
 app.type: non-game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.tinyclassroom
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: BubbleDozer Free
 app.title.short: BubbleDozer Free
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.mangopub.bubbledozer
 pkg.source: com.android.vending
 pkg.version: —

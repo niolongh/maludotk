@@ -3,7 +3,7 @@ app.title.full: Dudo
 app.title.short: Dudo
 app.type: game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: it.ecosw.dudo
 pkg.source: fdroid
 pkg.version: —

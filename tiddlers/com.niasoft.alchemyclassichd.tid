@@ -3,7 +3,7 @@ app.title.full: Alchemy Classic HD
 app.title.short: Alchemy Classic HD
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.niasoft.alchemyclassichd
 pkg.source: com.android.vending
 pkg.version: —

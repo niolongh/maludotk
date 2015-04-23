@@ -3,7 +3,7 @@ app.title.full: Anodyne
 app.title.short: Anodyne
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.Anodyne.humble
 pkg.source: humblebundle
 pkg.version: —

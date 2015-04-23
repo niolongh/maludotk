@@ -3,7 +3,7 @@ app.title.full: ConnectZ
 app.title.short: ConnectZ
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: de.weblantis.connectz
 pkg.source: com.amazon.venezia
 pkg.version: —

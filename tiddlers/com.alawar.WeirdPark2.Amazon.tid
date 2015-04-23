@@ -3,7 +3,7 @@ app.title.full: Weird park: Scary tales
 app.title.short: Weird park: Scary tales
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.alawar.WeirdPark2.Amazon
 pkg.source: com.amazon.venezia
 pkg.version: —

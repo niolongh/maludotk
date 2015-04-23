@@ -3,7 +3,7 @@ app.title.full: Starlink
 app.title.short: Starlink
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.Tasharen.SG
 pkg.source: com.android.vending
 pkg.version: —

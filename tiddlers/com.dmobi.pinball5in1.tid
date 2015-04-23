@@ -3,7 +3,7 @@ app.title.full: Pinball
 app.title.short: Pinball
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dmobi.pinball5in1
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Einstein's Logic Lite
 app.title.short: Einstein's Logic Lite
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.agent0013.einsteinlite
 pkg.source: com.android.vending
 pkg.version: —

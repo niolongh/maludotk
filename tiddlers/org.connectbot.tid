@@ -3,7 +3,7 @@ app.title.full: ConnectBot
 app.title.short: ConnectBot
 app.type: non-game
 created: 20150305161200000
-modifier: YourName
+modifier: niol
 pkg.filename: org.connectbot
 pkg.source: fdroid
 pkg.version: —

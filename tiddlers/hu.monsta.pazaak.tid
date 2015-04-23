@@ -3,7 +3,7 @@ app.title.full: Absolute Pazaak
 app.title.short: Absolute Pazaak
 app.type: game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: hu.monsta.pazaak
 pkg.source: com.android.vending
 pkg.version: —

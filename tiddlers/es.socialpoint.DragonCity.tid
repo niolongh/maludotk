@@ -3,7 +3,7 @@ app.title.full: DragonCity
 app.title.short: DragonCity
 app.type: game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: es.socialpoint.DragonCity
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: PhatPad Lite
 app.title.short: PhatPad Lite
 app.type: non-game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.phatware.phatpad_android_lite
 pkg.source: com.android.vending
 pkg.version: —

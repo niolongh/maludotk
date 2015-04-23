@@ -3,7 +3,7 @@ app.title.full: Color Switch
 app.title.short: Color Switch
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.neverjustbecause.colorswitch
 pkg.source: com.amazon.venezia
 pkg.version: —

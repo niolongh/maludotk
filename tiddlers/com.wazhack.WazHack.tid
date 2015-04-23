@@ -3,7 +3,7 @@ app.title.full: WazHack
 app.title.short: WazHack
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.wazhack.WazHack
 pkg.source: com.android.vending
 pkg.version: —

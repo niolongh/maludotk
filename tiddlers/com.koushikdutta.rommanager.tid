@@ -3,7 +3,7 @@ app.title.full: ROM Manager
 app.title.short: ROM Manager
 app.type: non-game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.koushikdutta.rommanager
 pkg.source: com.android.vending
 pkg.version: —

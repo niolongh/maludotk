@@ -3,7 +3,7 @@ app.title.full: Line Runner
 app.title.short: Line Runner
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.djinnworks.linerunnerfree
 pkg.source: com.android.vending
 pkg.version: —

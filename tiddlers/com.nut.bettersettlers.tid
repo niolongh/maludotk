@@ -3,7 +3,7 @@ app.title.full: Better Settlers
 app.title.short: Better Settlers
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.nut.bettersettlers
 pkg.source: com.android.vending
 pkg.version: —

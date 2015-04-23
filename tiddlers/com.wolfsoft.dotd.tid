@@ -3,7 +3,7 @@ app.title.full: DOTD
 app.title.short: DOTD
 app.type: non-game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.wolfsoft.dotd
 pkg.source: com.android.vending
 pkg.version: —

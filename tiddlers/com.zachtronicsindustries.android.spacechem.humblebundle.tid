@@ -3,7 +3,7 @@ app.title.full: SpaceChem
 app.title.short: SpaceChem
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.zachtronicsindustries.android.spacechem.humblebundle
 pkg.source: humblebundle
 pkg.version: —

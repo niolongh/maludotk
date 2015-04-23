@@ -3,7 +3,7 @@ app.title.full: Beat Hazard Ultra
 app.title.short: Beat Hazard Ultra
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.coldbeamgames.beathazardultrahumblefull
 pkg.source: humblebundle
 pkg.version: —

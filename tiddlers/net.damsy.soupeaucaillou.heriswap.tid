@@ -3,7 +3,7 @@ app.title.full: Heriswap
 app.title.short: Heriswap
 app.type: game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.damsy.soupeaucaillou.heriswap
 pkg.source: fdroid
 pkg.version: —

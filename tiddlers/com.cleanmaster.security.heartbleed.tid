@@ -3,7 +3,7 @@ app.title.full: Heartbleed Scanner
 app.title.short: Heartbleed Scanner
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.cleanmaster.security.heartbleed
 pkg.source: com.android.vending
 pkg.version: —

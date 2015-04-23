@@ -3,7 +3,7 @@ app.title.full: Happy Go
 app.title.short: Happy Go
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.weizoo.game.go.HappyGo
 pkg.source: com.android.vending
 pkg.version: —

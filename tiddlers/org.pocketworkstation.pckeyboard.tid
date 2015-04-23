@@ -3,7 +3,7 @@ app.title.full: Hacker's Keyboard
 app.title.short: Hacker's Keyboard
 app.type: non-game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.pocketworkstation.pckeyboard
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: World of Goo
 app.title.short: World of Goo
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.twodboy.worldofgoofull
 pkg.source: com.amazon.venezia
 pkg.version: —

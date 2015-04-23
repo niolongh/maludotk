@@ -3,7 +3,7 @@ app.title.full: Bag It!
 app.title.short: Bag It!
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.hiddenvariable.bagit.hb
 pkg.source: humblebundle
 pkg.version: —

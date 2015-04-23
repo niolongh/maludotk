@@ -3,7 +3,7 @@ app.title.full: FIFA 14
 app.title.short: FIFA 14
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ea.game.fifa14_row
 pkg.source: com.android.vending
 pkg.version: —

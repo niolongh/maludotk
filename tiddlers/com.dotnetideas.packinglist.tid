@@ -3,7 +3,7 @@ app.title.full: Packing List Lite
 app.title.short: Packing List Lite
 app.type: non-game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dotnetideas.packinglist
 pkg.source: com.android.vending
 pkg.version: —

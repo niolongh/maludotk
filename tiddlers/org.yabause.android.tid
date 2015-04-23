@@ -3,7 +3,7 @@ app.title.full: Yabause
 app.title.short: Yabause
 app.type: game
 created: 20150305161400000
-modifier: YourName
+modifier: niol
 pkg.filename: org.yabause.android
 pkg.source: fdroid
 pkg.version: —

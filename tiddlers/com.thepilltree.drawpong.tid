@@ -3,7 +3,7 @@ app.title.full: Chalk Ball Lite
 app.title.short: Chalk Ball Lite
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.thepilltree.drawpong
 pkg.source: com.android.vending
 pkg.version: —

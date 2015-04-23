@@ -3,7 +3,7 @@ app.title.full: WonderDroid
 app.title.short: WonderDroid
 app.type: game
 created: 20150305161600000
-modifier: YourName
+modifier: niol
 pkg.filename: uk.org.cardboardbox.wonderdroid
 pkg.source: fdroid
 pkg.version: —

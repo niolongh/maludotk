@@ -3,7 +3,7 @@ app.title.full: ClusterMaster
 app.title.short: ClusterMaster
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.tribeflame.cluster_master
 pkg.source: com.android.vending
 pkg.version: —

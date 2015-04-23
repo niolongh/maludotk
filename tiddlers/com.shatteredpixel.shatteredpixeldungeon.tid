@@ -3,7 +3,7 @@ app.title.full: Shattered Pixel Dungeon
 app.title.short: Shattered Pixel Dungeon
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.shatteredpixel.shatteredpixeldungeon
 pkg.source: com.android.vending
 pkg.version: —

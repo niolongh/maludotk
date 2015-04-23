@@ -3,7 +3,7 @@ app.title.full: Totemo Lite
 app.title.short: Totemo Lite
 app.type: game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.hexage.totemo.lite
 pkg.source: com.android.vending
 pkg.version: —

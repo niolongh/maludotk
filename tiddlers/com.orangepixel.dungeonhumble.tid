@@ -3,7 +3,7 @@ app.title.full: Heroes of Loot
 app.title.short: Heroes of Loot
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.orangepixel.dungeonhumble
 pkg.source: humblebundle
 pkg.version: —

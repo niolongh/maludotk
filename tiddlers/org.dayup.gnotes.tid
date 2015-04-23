@@ -3,7 +3,7 @@ app.title.full: GNotes
 app.title.short: GNotes
 app.type: non-game
 created: 20150305161200000
-modifier: YourName
+modifier: niol
 pkg.filename: org.dayup.gnotes
 pkg.source: com.android.vending
 pkg.version: —

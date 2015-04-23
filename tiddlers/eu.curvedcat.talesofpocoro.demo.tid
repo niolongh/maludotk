@@ -3,7 +3,7 @@ app.title.full: Tales of Pocoro Demo
 app.title.short: Tales of Pocoro Demo
 app.type: game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: eu.curvedcat.talesofpocoro.demo
 pkg.source: com.android.vending
 pkg.version: —

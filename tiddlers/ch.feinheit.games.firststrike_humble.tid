@@ -3,7 +3,7 @@ app.title.full: FirstStrike
 app.title.short: FirstStrike
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: ch.feinheit.games.firststrike_humble
 pkg.source: humblebundle
 pkg.version: —

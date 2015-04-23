@@ -3,7 +3,7 @@ app.title.full: Unroll Ball
 app.title.short: Unroll Ball
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.all4game.unrollball
 pkg.source: com.android.vending
 pkg.version: —

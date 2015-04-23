@@ -3,7 +3,7 @@ app.title.full: Devious Dungeon
 app.title.short: Devious Dungeon
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.noodlecake.deviousdungeon.humble
 pkg.source: humblebundle
 pkg.version: —

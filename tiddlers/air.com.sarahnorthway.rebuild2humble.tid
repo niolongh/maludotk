@@ -3,7 +3,7 @@ app.title.full: Rebuild
 app.title.short: Rebuild
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.com.sarahnorthway.rebuild2humble
 pkg.source: humblebundle
 pkg.version: —

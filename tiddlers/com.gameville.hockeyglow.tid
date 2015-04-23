@@ -3,7 +3,7 @@ app.title.full: Air Hockey Glow 2
 app.title.short: Air Hockey Glow 2
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.gameville.hockeyglow
 pkg.source: com.android.vending
 pkg.version: —

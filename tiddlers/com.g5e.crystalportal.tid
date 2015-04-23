@@ -3,7 +3,7 @@ app.title.full: The Mystery of the Crystal Portal
 app.title.short: The Mystery of the Crystal Portal
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.g5e.crystalportal
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Air Hockey Speed
 app.title.short: Air Hockey Speed
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.hyperkani.airhockey
 pkg.source: com.android.vending
 pkg.version: —

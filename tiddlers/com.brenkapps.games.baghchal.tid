@@ -3,7 +3,7 @@ app.title.full: BaghChal
 app.title.short: BaghChal
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.brenkapps.games.baghchal
 pkg.source: com.android.vending
 pkg.version: —

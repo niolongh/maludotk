@@ -3,7 +3,7 @@ app.title.full: Breach and Clear
 app.title.short: Breach and Clear
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.gun.bnc.humble
 pkg.source: humblebundle
 pkg.version: —

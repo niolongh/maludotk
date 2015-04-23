@@ -3,7 +3,7 @@ app.title.full: Plasma Sound
 app.title.short: Plasma Sound
 app.type: non-game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.rj.processing.plasmasoundhd
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: 20 Minute Meals
 app.title.short: 20 Minute Meals
 app.type: non-game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.zolmo.twentymm
 pkg.source: com.amazon.venezia
 pkg.version: —

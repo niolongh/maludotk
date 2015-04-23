@@ -3,7 +3,7 @@ app.title.full: GNU Go
 app.title.short: GNU Go
 app.type: game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: lrstudios.games.gnugo
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Buddy & Me
 app.title.short: Buddy & Me
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.sunbreakgames.buddyandme_humble
 pkg.source: humblebundle
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Skiing Fred
 app.title.short: Skiing Fred
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dedalordnorth.skiingfred
 pkg.source: com.android.vending
 pkg.version: —

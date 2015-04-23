@@ -3,7 +3,7 @@ app.title.full: Asqare
 app.title.short: Asqare
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.alfray.asqare
 pkg.source: fdroid
 pkg.version: —

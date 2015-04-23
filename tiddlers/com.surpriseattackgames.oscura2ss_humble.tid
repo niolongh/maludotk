@@ -3,7 +3,7 @@ app.title.full: Oscura Second Shadow
 app.title.short: Oscura Second Shadow
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.surpriseattackgames.oscura2ss_humble
 pkg.source: humblebundle
 pkg.version: —

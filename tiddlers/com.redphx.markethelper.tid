@@ -3,7 +3,7 @@ app.title.full: Market Helper
 app.title.short: Market Helper
 app.type: non-game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.redphx.markethelper
 pkg.source: web=http://codekiem.com/2013/02/13/market-helper/
 pkg.version: —

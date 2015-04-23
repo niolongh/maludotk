@@ -3,7 +3,7 @@ app.title.full: Catan Dice Game
 app.title.short: Catan Dice Game
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ridgelineapps.resdicegame
 pkg.source: fdroid
 pkg.version: —

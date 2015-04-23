@@ -3,7 +3,7 @@ app.title.full: Akinator
 app.title.short: Akinator
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.digidust.elokence.akinator.paid
 pkg.source: com.amazon.venezia
 pkg.version: —

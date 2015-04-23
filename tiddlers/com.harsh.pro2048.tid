@@ -3,7 +3,7 @@ app.title.full: 2048 Pro
 app.title.short: 2048 Pro
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.harsh.pro2048
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Hanafuda KOI KOI(Free)
 app.title.short: Hanafuda KOI KOI(Free)
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.thresholdjp.hanafudafree
 pkg.source: com.android.vending
 pkg.version: —

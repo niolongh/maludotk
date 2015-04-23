@@ -3,7 +3,7 @@ app.title.full: 8BitGames
 app.title.short: 8BitGames
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: dalama.achtBitGamesQuartett
 pkg.source: com.android.vending
 pkg.version: —

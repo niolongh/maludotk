@@ -3,7 +3,7 @@ app.title.full: Unabridged
 app.title.short: Unabridged
 app.type: non-game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.slovoed.noreg.merriam_webster.english_english_unabridged
 pkg.source: com.amazon.venezia
 pkg.version: —

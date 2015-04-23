@@ -3,7 +3,7 @@ app.title.full: Everlands Free
 app.title.short: Everlands Free
 app.type: game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.hexage.everlands.lite
 pkg.source: com.android.vending
 pkg.version: —

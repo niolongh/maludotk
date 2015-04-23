@@ -3,7 +3,7 @@ app.title.full: Excit Demo
 app.title.short: Excit Demo
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ludocrazy.excit_demo
 pkg.source: com.android.vending
 pkg.version: —

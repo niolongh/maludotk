@@ -3,7 +3,7 @@ app.title.full: Crossy Road
 app.title.short: Crossy Road
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.yodo1.crossyroad
 pkg.source: com.android.vending
 pkg.version: —

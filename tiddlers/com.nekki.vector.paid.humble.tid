@@ -3,7 +3,7 @@ app.title.full: Vector
 app.title.short: Vector
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.nekki.vector.paid.humble
 pkg.source: humblebundle
 pkg.version: —

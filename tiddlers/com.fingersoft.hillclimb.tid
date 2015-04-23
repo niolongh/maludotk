@@ -3,7 +3,7 @@ app.title.full: Hill Climb Racing
 app.title.short: Hill Climb Racing
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.fingersoft.hillclimb
 pkg.source: com.android.vending
 pkg.version: —

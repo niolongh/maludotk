@@ -3,7 +3,7 @@ app.title.full: Blokish
 app.title.short: Blokish
 app.type: game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.scoutant.blokish
 pkg.source: fdroid
 pkg.version: —

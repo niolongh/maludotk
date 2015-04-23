@@ -3,7 +3,7 @@ app.title.full: Splashy Fish
 app.title.short: Splashy Fish
 app.type: game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: it.junglestudios.splashyfish
 pkg.source: com.android.vending
 pkg.version: —

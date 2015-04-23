@@ -3,7 +3,7 @@ app.title.full: Dungelot Lite
 app.title.short: Dungelot Lite
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.rws.dungelotFree
 pkg.source: com.android.vending
 pkg.version: —

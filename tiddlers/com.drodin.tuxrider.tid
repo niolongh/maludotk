@@ -3,7 +3,7 @@ app.title.full: Tux Rider
 app.title.short: Tux Rider
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.drodin.tuxrider
 pkg.source: fdroid
 pkg.version: —

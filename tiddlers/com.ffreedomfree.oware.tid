@@ -3,7 +3,7 @@ app.title.full: Mancala Four Pack Free
 app.title.short: Mancala Four Pack Free
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ffreedomfree.oware
 pkg.source: com.android.vending
 pkg.version: —

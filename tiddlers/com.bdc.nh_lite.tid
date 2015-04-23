@@ -3,7 +3,7 @@ app.title.full: NHex Lite
 app.title.short: NHex Lite
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.bdc.nh_lite
 pkg.source: com.android.vending
 pkg.version: —

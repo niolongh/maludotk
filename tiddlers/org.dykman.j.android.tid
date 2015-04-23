@@ -3,7 +3,7 @@ app.title.full: J Console
 app.title.short: J Console
 app.type: non-game
 created: 20150305161200000
-modifier: YourName
+modifier: niol
 pkg.filename: org.dykman.j.android
 pkg.source: web=https://github.com/mdykman/jconsole_for_android
 pkg.version: —

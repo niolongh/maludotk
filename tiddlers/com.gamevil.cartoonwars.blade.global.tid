@@ -3,7 +3,7 @@ app.title.full: CW: Blade
 app.title.short: CW: Blade
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.gamevil.cartoonwars.blade.global
 pkg.source: com.android.vending
 pkg.version: —

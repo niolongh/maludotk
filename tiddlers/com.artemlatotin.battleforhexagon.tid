@@ -3,7 +3,7 @@ app.title.full: Battle for Hexagon
 app.title.short: Battle for Hexagon
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.artemlatotin.battleforhexagon
 pkg.source: com.android.vending
 pkg.version: —

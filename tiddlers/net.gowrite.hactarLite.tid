@@ -3,7 +3,7 @@ app.title.full: Hactar Go Lite
 app.title.short: Hactar Go Lite
 app.type: game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.gowrite.hactarLite
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Uninstaller
 app.title.short: Uninstaller
 app.type: non-game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.rootuninstaller.uninstaller
 pkg.source: com.android.vending
 pkg.version: —

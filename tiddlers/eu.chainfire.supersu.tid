@@ -3,7 +3,7 @@ app.title.full: SuperSU
 app.title.short: SuperSU
 app.type: non-game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: eu.chainfire.supersu
 pkg.source: com.android.vending
 pkg.version: —

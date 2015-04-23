@@ -3,7 +3,7 @@ app.title.full: Scheme Droid
 app.title.short: Scheme Droid
 app.type: non-game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.meltingwax.schemedroid
 pkg.source: com.android.vending
 pkg.version: —

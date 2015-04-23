@@ -3,7 +3,7 @@ app.title.full: TraqueHack
 app.title.short: TraqueHack
 app.type: game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: jp.ne.gate.traque.hack
 pkg.source: com.android.vending
 pkg.version: —

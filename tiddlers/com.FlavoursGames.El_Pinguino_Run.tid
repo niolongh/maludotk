@@ -3,7 +3,7 @@ app.title.full: El Pinguino Run
 app.title.short: El Pinguino Run
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.FlavoursGames.El_Pinguino_Run
 pkg.source: com.android.vending
 pkg.version: —

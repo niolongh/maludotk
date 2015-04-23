@@ -3,7 +3,7 @@ app.title.full: @vibe Fun Center
 app.title.short: @vibe Fun Center
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.cn.asus.vibe
 pkg.source: Asus
 pkg.version: —

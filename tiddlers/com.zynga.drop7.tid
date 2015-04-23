@@ -3,7 +3,7 @@ app.title.full: Drop7
 app.title.short: Drop7
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.zynga.drop7
 pkg.source: com.android.vending
 pkg.version: —

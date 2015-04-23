@@ -3,7 +3,7 @@ app.title.full: Time Surfer
 app.title.short: Time Surfer
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.kumobius.android.carpet.humble
 pkg.source: humblebundle
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Broken Sword II
 app.title.short: Broken Sword II
 app.type: game
 created: 20150305161600000
-modifier: YourName
+modifier: niol
 pkg.filename: uk.co.revolution.BSII.humblebundle
 pkg.source: humblebundle
 pkg.version: —

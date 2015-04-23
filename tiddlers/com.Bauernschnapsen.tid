@@ -3,7 +3,7 @@ app.title.full: Bauern schnapsen
 app.title.short: Bauern schnapsen
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.Bauernschnapsen
 pkg.source: com.android.vending
 pkg.version: —

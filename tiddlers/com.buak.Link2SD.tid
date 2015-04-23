@@ -3,7 +3,7 @@ app.title.full: Link2SD
 app.title.short: Link2SD
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.buak.Link2SD
 pkg.source: com.android.vending
 pkg.version: —

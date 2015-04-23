@@ -3,7 +3,7 @@ app.title.full: SotM Sidekick
 app.title.short: SotM Sidekick
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: appinventor.ai_jwhiting7.SotMSidekick
 pkg.source: com.android.vending
 pkg.version: —

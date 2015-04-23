@@ -3,7 +3,7 @@ app.title.full: Color Match Pro
 app.title.short: Color Match Pro
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.parudi.colormatch2048.pro
 pkg.source: com.amazon.venezia
 pkg.version: —

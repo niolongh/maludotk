@@ -3,7 +3,7 @@ app.title.full: Syder Arcade HD
 app.title.short: Syder Arcade HD
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.studioevil.syderarcadehdhumble
 pkg.source: humblebundle
 pkg.version: —

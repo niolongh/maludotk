@@ -3,7 +3,7 @@ app.title.full: Waking Mars
 app.title.short: Waking Mars
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.tigerstylegames.wakingmars.humble
 pkg.source: humblebundle
 pkg.version: —

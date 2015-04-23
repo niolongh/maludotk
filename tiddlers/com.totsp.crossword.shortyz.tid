@@ -3,7 +3,7 @@ app.title.full: Shortyz
 app.title.short: Shortyz
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.totsp.crossword.shortyz
 pkg.source: fdroid
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Worms 2: Armageddon
 app.title.short: Worms 2: Armageddon
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.worms2armageddon.app.humble
 pkg.source: humblebundle
 pkg.version: —

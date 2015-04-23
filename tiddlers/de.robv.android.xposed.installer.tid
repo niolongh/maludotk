@@ -3,7 +3,7 @@ app.title.full: Xposed Installer
 app.title.short: Xposed Installer
 app.type: non-game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: de.robv.android.xposed.installer
 pkg.source: web=http://repo.xposed.info/module/de.robv.android.xposed.installer
 pkg.version: —

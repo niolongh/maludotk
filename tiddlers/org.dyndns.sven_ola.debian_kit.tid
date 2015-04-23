@@ -3,7 +3,7 @@ app.title.full: Debian Kit
 app.title.short: Debian Kit
 app.type: non-game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.dyndns.sven_ola.debian_kit
 pkg.source: fdroid
 pkg.version: —

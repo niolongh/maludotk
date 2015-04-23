@@ -3,7 +3,7 @@ app.title.full: So Long, Oregon!
 app.title.short: So Long, Oregon!
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.captaingames.oregon_humble
 pkg.source: humblebundle
 pkg.version: —

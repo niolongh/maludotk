@@ -3,7 +3,7 @@ app.title.full: Alberi
 app.title.short: Alberi
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.twistedmirror.alberi
 pkg.source: com.android.vending
 pkg.version: —

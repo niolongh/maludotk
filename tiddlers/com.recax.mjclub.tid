@@ -3,7 +3,7 @@ app.title.full: 雀王會館
 app.title.short: 雀王會館
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.recax.mjclub
 pkg.source: com.android.vending
 pkg.version: —

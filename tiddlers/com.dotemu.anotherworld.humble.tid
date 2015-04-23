@@ -3,7 +3,7 @@ app.title.full: Another World
 app.title.short: Another World
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dotemu.anotherworld.humble
 pkg.source: humblebundle
 pkg.version: —

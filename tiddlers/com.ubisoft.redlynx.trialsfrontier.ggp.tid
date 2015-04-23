@@ -3,7 +3,7 @@ app.title.full: Trials Frontier
 app.title.short: Trials Frontier
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ubisoft.redlynx.trialsfrontier.ggp
 pkg.source: com.android.vending
 pkg.version: —

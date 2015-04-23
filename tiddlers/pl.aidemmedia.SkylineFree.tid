@@ -3,7 +3,7 @@ app.title.full: Skyline Free
 app.title.short: Skyline Free
 app.type: game
 created: 20150305161400000
-modifier: YourName
+modifier: niol
 pkg.filename: pl.aidemmedia.SkylineFree
 pkg.source: com.android.vending
 pkg.version: —

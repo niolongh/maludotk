@@ -3,7 +3,7 @@ app.title.full: Snake Defender
 app.title.short: Snake Defender
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.spokdev.snakedefender
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Bardbarian - Humble Bundle Edition
 app.title.short: Bardbarian - Humble Bundle Edition
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.com.treefortress.Bardbarian.HumbleBundle
 pkg.source: humblebundle
 pkg.version: —

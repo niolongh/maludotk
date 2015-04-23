@@ -3,7 +3,7 @@ app.title.full: Rescue Roby
 app.title.short: Rescue Roby
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.missingames.rescueroby
 pkg.source: com.amazon.venezia
 pkg.version: —

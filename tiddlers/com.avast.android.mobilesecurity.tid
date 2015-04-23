@@ -3,7 +3,7 @@ app.title.full: avast! Mobile Security
 app.title.short: avast! Mobile Security
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.avast.android.mobilesecurity
 pkg.source: com.android.vending
 pkg.version: —

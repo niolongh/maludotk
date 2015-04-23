@@ -3,7 +3,7 @@ app.title.full: OI File Manager
 app.title.short: OI File Manager
 app.type: non-game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.openintents.filemanager
 pkg.source: com.android.vending
 pkg.version: —

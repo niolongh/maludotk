@@ -3,7 +3,7 @@ app.title.full: Masterwork Tools: Pathfinder Open Reference
 app.title.short: Masterwork Tools: Pathfinder Open Reference
 app.type: game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.evilsoft.pathfinder.reference
 pkg.source: fdroid
 pkg.version: —

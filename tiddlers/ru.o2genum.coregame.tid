@@ -3,7 +3,7 @@ app.title.full: Core
 app.title.short: Core
 app.type: game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: ru.o2genum.coregame
 pkg.source: fdroid
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Blendoku
 app.title.short: Blendoku
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.lonelyfew.blendoku
 pkg.source: com.android.vending
 pkg.version: —

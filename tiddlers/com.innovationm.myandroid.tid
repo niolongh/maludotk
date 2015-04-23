@@ -3,7 +3,7 @@ app.title.full: My Android
 app.title.short: My Android
 app.type: non-game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.innovationm.myandroid
 pkg.source: com.android.vending
 pkg.version: —

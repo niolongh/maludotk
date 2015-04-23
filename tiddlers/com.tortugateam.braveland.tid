@@ -3,7 +3,7 @@ app.title.full: Braveland
 app.title.short: Braveland
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.tortugateam.braveland
 pkg.source: com.amazon.venezia
 pkg.version: —

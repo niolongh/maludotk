@@ -3,7 +3,7 @@ app.title.full: App Cache Cleaner
 app.title.short: App Cache Cleaner
 app.type: non-game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: mobi.infolife.cache
 pkg.source: com.android.vending
 pkg.version: —

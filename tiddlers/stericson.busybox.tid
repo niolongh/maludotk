@@ -3,7 +3,7 @@ app.title.full: BusyBox Free
 app.title.short: BusyBox Free
 app.type: non-game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: stericson.busybox
 pkg.source: com.android.vending
 pkg.version: —

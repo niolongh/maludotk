@@ -3,7 +3,7 @@ app.title.full: Gish Reloaded FREE
 app.title.short: Gish Reloaded FREE
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.hardwire.gishreloaded.free_mg
 pkg.source: com.android.vending
 pkg.version: —

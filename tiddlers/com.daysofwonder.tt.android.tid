@@ -3,7 +3,7 @@ app.title.full: Ticket to Ride
 app.title.short: Ticket to Ride
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.daysofwonder.tt.android
 pkg.source: humblebundle
 pkg.version: —

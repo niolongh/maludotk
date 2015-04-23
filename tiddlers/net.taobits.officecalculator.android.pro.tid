@@ -3,7 +3,7 @@ app.title.full: Office Calculator Pro
 app.title.short: Office Calculator Pro
 app.type: non-game
 created: 20150305161200000
-modifier: YourName
+modifier: niol
 pkg.filename: net.taobits.officecalculator.android.pro
 pkg.source: com.amazon.venezia
 pkg.version: —

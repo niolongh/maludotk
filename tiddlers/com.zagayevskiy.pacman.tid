@@ -3,7 +3,7 @@ app.title.full: Pyroman: Jaws of Fire
 app.title.short: Pyroman: Jaws of Fire
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.zagayevskiy.pacman
 pkg.source: fdroid
 pkg.version: —

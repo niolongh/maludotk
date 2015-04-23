@@ -3,7 +3,7 @@ app.title.full: Punch Quest
 app.title.short: Punch Quest
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.noodlecake.punchquest.humble
 pkg.source: humblebundle
 pkg.version: —

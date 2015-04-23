@@ -3,7 +3,7 @@ app.title.full: SonicJump
 app.title.short: SonicJump
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.sonicjump.sonicjump
 pkg.source: com.amazon.venezia
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Neon Shadow
 app.title.short: Neon Shadow
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.crescentmoongames.neonshadow
 pkg.source: humblebundle
 pkg.version: —

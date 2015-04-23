@@ -3,7 +3,7 @@ app.title.full: ElyGo Lite
 app.title.short: ElyGo Lite
 app.type: game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: lrstudios.games.ego.lite
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Hidden Objects Lost Worlds
 app.title.short: Hidden Objects Lost Worlds
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.beansprites.hiddenobjectslostworlds
 pkg.source: com.amazon.venezia
 pkg.version: —

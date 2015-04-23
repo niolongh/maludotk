@@ -3,7 +3,7 @@ app.title.full: Strata
 app.title.short: Strata
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.graveck.strata
 pkg.source: humblebundle
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Frodo C64
 app.title.short: Frodo C64
 app.type: non-game
 created: 20150305161200000
-modifier: YourName
+modifier: niol
 pkg.filename: org.ab.c64
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Galaxy Factions
 app.title.short: Galaxy Factions
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.faceroll.dev.inu
 pkg.source: com.android.vending
 pkg.version: —

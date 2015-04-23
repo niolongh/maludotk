@@ -3,7 +3,7 @@ app.title.full: Oware
 app.title.short: Oware
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.luciangames.oware
 pkg.source: com.android.vending
 pkg.version: —

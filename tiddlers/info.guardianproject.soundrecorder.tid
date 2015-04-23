@@ -3,7 +3,7 @@ app.title.full: ChatSecureVoicePlugin
 app.title.short: ChatSecureVoicePlugin
 app.type: non-game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: info.guardianproject.soundrecorder
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Qais Quest Trial
 app.title.short: Qais Quest Trial
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ENKSoft.QaisQuest
 pkg.source: com.amazon.venezia
 pkg.version: —

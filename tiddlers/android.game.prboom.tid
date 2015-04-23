@@ -3,7 +3,7 @@ app.title.full: PrBoom For Android
 app.title.short: PrBoom For Android
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: android.game.prboom
 pkg.source: fdroid
 pkg.version: —

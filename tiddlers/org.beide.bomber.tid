@@ -3,7 +3,7 @@ app.title.full: Bomber
 app.title.short: Bomber
 app.type: game
 created: 20150305161200000
-modifier: YourName
+modifier: niol
 pkg.filename: org.beide.bomber
 pkg.source: fdroid
 pkg.version: —

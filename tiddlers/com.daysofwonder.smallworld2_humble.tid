@@ -3,7 +3,7 @@ app.title.full: Small World 2
 app.title.short: Small World 2
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.daysofwonder.smallworld2_humble
 pkg.source: humblebundle
 pkg.version: —

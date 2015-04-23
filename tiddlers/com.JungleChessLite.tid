@@ -3,7 +3,7 @@ app.title.full: Jungle Chess Lite
 app.title.short: Jungle Chess Lite
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.JungleChessLite
 pkg.source: com.android.vending
 pkg.version: —

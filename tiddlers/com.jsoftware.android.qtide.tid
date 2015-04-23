@@ -3,7 +3,7 @@ app.title.full: jqt
 app.title.short: jqt
 app.type: non-game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.jsoftware.android.qtide
 pkg.source: web=http://www.jsoftware.com/stable.htm
 pkg.version: —

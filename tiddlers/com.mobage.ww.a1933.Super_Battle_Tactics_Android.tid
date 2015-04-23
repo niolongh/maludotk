@@ -3,7 +3,7 @@ app.title.full: Battle Tactics
 app.title.short: Battle Tactics
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.mobage.ww.a1933.Super_Battle_Tactics_Android
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Untappd
 app.title.short: Untappd
 app.type: non-game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.untappdllc.app
 pkg.source: com.android.vending
 pkg.version: —

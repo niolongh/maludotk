@@ -3,7 +3,7 @@ app.title.full: TimeChaos
 app.title.short: TimeChaos
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.timechaos.engine
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Auto App Category
 app.title.short: Auto App Category
 app.type: non-game
 created: 20150305161200000
-modifier: YourName
+modifier: niol
 pkg.filename: net.zalio.android.autoappsort
 pkg.source: com.android.vending
 pkg.version: —

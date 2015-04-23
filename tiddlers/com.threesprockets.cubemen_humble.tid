@@ -3,7 +3,7 @@ app.title.full: Cubemen
 app.title.short: Cubemen
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.threesprockets.cubemen_humble
 pkg.source: humblebundle
 pkg.version: —

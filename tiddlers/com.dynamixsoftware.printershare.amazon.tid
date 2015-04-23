@@ -3,7 +3,7 @@ app.title.full: PrinterShare
 app.title.short: PrinterShare
 app.type: non-game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dynamixsoftware.printershare.amazon
 pkg.source: com.amazon.venezia
 pkg.version: —

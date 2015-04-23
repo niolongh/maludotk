@@ -3,7 +3,7 @@ app.title.full: Mini Warriors
 app.title.short: Mini Warriors
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.trinitigame.android.miniwarriors
 pkg.source: com.android.vending
 pkg.version: —

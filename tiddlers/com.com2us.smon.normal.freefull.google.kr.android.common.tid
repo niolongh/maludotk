@@ -3,7 +3,7 @@ app.title.full: Summoners War
 app.title.short: Summoners War
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.com2us.smon.normal.freefull.google.kr.android.common
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: GPS Lite
 app.title.short: GPS Lite
 app.type: game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.kairosoft.android.paddock_enL
 pkg.source: com.android.vending
 pkg.version: —

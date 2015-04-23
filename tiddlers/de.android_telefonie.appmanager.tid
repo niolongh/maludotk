@@ -3,7 +3,7 @@ app.title.full: AppMonster Free
 app.title.short: AppMonster Free
 app.type: non-game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: de.android_telefonie.appmanager
 pkg.source: com.android.vending
 pkg.version: —

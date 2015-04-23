@@ -3,7 +3,7 @@ app.title.full: Gobandroid
 app.title.short: Gobandroid
 app.type: game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.ligi.gobandroid_hd
 pkg.source: fdroid
 pkg.version: —

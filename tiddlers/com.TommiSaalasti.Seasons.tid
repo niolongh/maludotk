@@ -3,7 +3,7 @@ app.title.full: Seasons
 app.title.short: Seasons
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.TommiSaalasti.Seasons
 pkg.source: com.android.vending
 pkg.version: —

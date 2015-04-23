@@ -3,7 +3,7 @@ app.title.full: Puzzles
 app.title.short: Puzzles
 app.type: game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: name.boyle.chris.sgtpuzzles
 pkg.source: fdroid
 pkg.version: —

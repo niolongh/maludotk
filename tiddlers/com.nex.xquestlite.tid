@@ -3,7 +3,7 @@ app.title.full: Arcane Quest
 app.title.short: Arcane Quest
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.nex.xquestlite
 pkg.source: com.android.vending
 pkg.version: —

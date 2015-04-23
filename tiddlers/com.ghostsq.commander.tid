@@ -3,7 +3,7 @@ app.title.full: Ghost Commander
 app.title.short: Ghost Commander
 app.type: non-game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ghostsq.commander
 pkg.source: com.android.vending
 pkg.version: —

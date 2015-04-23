@@ -3,7 +3,7 @@ app.title.full: Incredipede
 app.title.short: Incredipede
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.com.northwaygames.Incredipede.humble
 pkg.source: humblebundle
 pkg.version: —

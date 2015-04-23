@@ -3,7 +3,7 @@ app.title.full: Wingsuit Stickman (Free)
 app.title.short: Wingsuit Stickman (Free)
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.djinnworks.WingsuitStickman.lite
 pkg.source: com.android.vending
 pkg.version: —

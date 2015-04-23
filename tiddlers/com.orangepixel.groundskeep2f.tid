@@ -3,7 +3,7 @@ app.title.full: Groundskeeper2 Free
 app.title.short: Groundskeeper2 Free
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.orangepixel.groundskeep2f
 pkg.source: com.android.vending
 pkg.version: —

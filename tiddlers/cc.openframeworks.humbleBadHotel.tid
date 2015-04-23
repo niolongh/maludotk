@@ -3,7 +3,7 @@ app.title.full: Bad Hotel
 app.title.short: Bad Hotel
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: cc.openframeworks.humbleBadHotel
 pkg.source: humblebundle
 pkg.version: —

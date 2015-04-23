@@ -3,7 +3,7 @@ app.title.full: JFrotz
 app.title.short: JFrotz
 app.type: non-game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.whj1972.jfrotz
 pkg.source: com.android.vending
 pkg.version: —

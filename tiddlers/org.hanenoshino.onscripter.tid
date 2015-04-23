@@ -3,7 +3,7 @@ app.title.full: ONScripter
 app.title.short: ONScripter
 app.type: game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.hanenoshino.onscripter
 pkg.source: fdroid
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Archmage LITE
 app.title.short: Archmage LITE
 app.type: game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: ru.freecode.lite
 pkg.source: com.android.vending
 pkg.version: —

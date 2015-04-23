@@ -3,7 +3,7 @@ app.title.full: Einstein's Riddle
 app.title.short: Einstein's Riddle
 app.type: game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: gr.sullenart.games.einsteinsriddle
 pkg.source: com.android.vending
 pkg.version: —

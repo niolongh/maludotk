@@ -3,7 +3,7 @@ app.title.full: Cut the Rope: Experiments FREE
 app.title.short: Cut the Rope: Experiments FREE
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.zeptolab.ctrexperiments.ads
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Urban Rivals
 app.title.short: Urban Rivals
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.com.boostr.Air
 pkg.source: com.android.vending
 pkg.version: —

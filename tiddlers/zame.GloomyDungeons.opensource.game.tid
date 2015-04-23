@@ -3,7 +3,7 @@ app.title.full: Gloomy Dungeons 3D
 app.title.short: Gloomy Dungeons 3D
 app.type: game
 created: 20150305161600000
-modifier: YourName
+modifier: niol
 pkg.filename: zame.GloomyDungeons.opensource.game
 pkg.source: fdroid
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Maze!
 app.title.short: Maze!
 app.type: game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: fr.opena.maze
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Eye Protection
 app.title.short: Eye Protection
 app.type: non-game
 created: 20150305161400000
-modifier: YourName
+modifier: niol
 pkg.filename: protect.eye
 pkg.source: com.android.vending
 pkg.version: —

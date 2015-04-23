@@ -3,7 +3,7 @@ app.title.full: MPDroid
 app.title.short: MPDroid
 app.type: non-game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.namelessdev.mpdroid
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: 2 Player Reactor
 app.title.short: 2 Player Reactor
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: coolcherrytrees.games.reactor
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Leo's Fortune
 app.title.short: Leo's Fortune
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.leosfortune.hb
 pkg.source: humblebundle
 pkg.version: —

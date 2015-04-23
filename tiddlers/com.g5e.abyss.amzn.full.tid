@@ -3,7 +3,7 @@ app.title.full: Abyss
 app.title.short: Abyss
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.g5e.abyss.amzn.full
 pkg.source: com.amazon.venezia
 pkg.version: —

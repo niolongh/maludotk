@@ -3,7 +3,7 @@ app.title.full: Abduction!
 app.title.short: Abduction!
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: au.com.phil
 pkg.source: com.android.vending
 pkg.version: —

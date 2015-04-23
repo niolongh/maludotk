@@ -3,7 +3,7 @@ app.title.full: Space Chicks
 app.title.short: Space Chicks
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.spacechicks.humble
 pkg.source: humblebundle
 pkg.version: —

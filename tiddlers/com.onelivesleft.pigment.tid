@@ -3,7 +3,7 @@ app.title.full: Pigment
 app.title.short: Pigment
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.onelivesleft.pigment
 pkg.source: com.amazon.venezia
 pkg.version: —

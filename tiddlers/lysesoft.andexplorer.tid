@@ -3,7 +3,7 @@ app.title.full: AndExplorer
 app.title.short: AndExplorer
 app.type: non-game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: lysesoft.andexplorer
 pkg.source: com.android.vending
 pkg.version: —

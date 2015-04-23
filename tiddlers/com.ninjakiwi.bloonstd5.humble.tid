@@ -3,7 +3,7 @@ app.title.full: Bloons TD 5
 app.title.short: Bloons TD 5
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ninjakiwi.bloonstd5.humble
 pkg.source: humblebundle
 pkg.version: —

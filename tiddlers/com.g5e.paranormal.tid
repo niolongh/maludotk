@@ -3,7 +3,7 @@ app.title.full: Paranormal Agency
 app.title.short: Paranormal Agency
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.g5e.paranormal
 pkg.source: com.android.vending
 pkg.version: —

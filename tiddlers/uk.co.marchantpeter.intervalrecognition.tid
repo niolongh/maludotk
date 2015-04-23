@@ -3,7 +3,7 @@ app.title.full: Interval Recognition
 app.title.short: Interval Recognition
 app.type: non-game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: uk.co.marchantpeter.intervalrecognition
 pkg.source: com.android.vending
 pkg.version: —

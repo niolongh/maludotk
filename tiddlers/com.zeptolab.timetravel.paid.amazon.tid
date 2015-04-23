@@ -3,7 +3,7 @@ app.title.full: Cut the Rope Time Travel HD
 app.title.short: Cut the Rope Time Travel HD
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.zeptolab.timetravel.paid.amazon
 pkg.source: com.amazon.venezia
 pkg.version: —

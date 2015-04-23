@@ -3,7 +3,7 @@ app.title.full: Tap & Drag
 app.title.short: Tap & Drag
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.onhost.skuska
 pkg.source: com.android.vending
 pkg.version: —

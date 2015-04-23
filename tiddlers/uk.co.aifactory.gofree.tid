@@ -3,7 +3,7 @@ app.title.full: Go Free
 app.title.short: Go Free
 app.type: game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: uk.co.aifactory.gofree
 pkg.source: com.android.vending
 pkg.version: —

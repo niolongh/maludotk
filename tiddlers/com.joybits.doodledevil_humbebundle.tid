@@ -3,7 +3,7 @@ app.title.full: Doodle Devil
 app.title.short: Doodle Devil
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.joybits.doodledevil_humbebundle
 pkg.source: humblebundle
 pkg.version: —

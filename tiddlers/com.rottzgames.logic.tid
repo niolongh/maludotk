@@ -3,7 +3,7 @@ app.title.full: Real Einstein Puzzle
 app.title.short: Real Einstein Puzzle
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.rottzgames.logic
 pkg.source: com.android.vending
 pkg.version: —

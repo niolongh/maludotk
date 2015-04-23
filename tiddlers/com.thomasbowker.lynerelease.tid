@@ -3,7 +3,7 @@ app.title.full: LYNE
 app.title.short: LYNE
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.thomasbowker.lynerelease
 pkg.source: humblebundle
 pkg.version: —

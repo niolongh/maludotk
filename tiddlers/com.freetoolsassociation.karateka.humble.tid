@@ -3,7 +3,7 @@ app.title.full: Karateka Classic
 app.title.short: Karateka Classic
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.freetoolsassociation.karateka.humble
 pkg.source: humblebundle
 pkg.version: —

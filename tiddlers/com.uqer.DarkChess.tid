@@ -3,7 +3,7 @@ app.title.full: Dark Chess Online
 app.title.short: Dark Chess Online
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.uqer.DarkChess
 pkg.source: com.android.vending
 pkg.version: —

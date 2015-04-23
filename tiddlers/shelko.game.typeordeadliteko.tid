@@ -3,7 +3,7 @@ app.title.full: Type Or Dead Lite
 app.title.short: Type Or Dead Lite
 app.type: game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: shelko.game.typeordeadliteko
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Fractal
 app.title.short: Fractal
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.cipherprime.fractal.humble
 pkg.source: humblebundle
 pkg.version: —

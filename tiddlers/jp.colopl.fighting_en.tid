@@ -3,7 +3,7 @@ app.title.full: Battle Robots!
 app.title.short: Battle Robots!
 app.type: game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: jp.colopl.fighting_en
 pkg.source: com.android.vending
 pkg.version: —

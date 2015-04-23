@@ -3,7 +3,7 @@ app.title.full: VS MODE - Block Pang
 app.title.short: VS MODE - Block Pang
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.artfactory.vsmode
 pkg.source: com.android.vending
 pkg.version: —

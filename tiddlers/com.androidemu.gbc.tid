@@ -3,7 +3,7 @@ app.title.full: GBCoid
 app.title.short: GBCoid
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.androidemu.gbc
 pkg.source: fdroid
 pkg.version: —

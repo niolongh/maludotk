@@ -3,7 +3,7 @@ app.title.full: Sonic Racing
 app.title.short: Sonic Racing
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.sega.ssasrsa
 pkg.source: humblebundle
 pkg.version: —

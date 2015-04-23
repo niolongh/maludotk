@@ -3,7 +3,7 @@ app.title.full: Slow It!
 app.title.short: Slow It!
 app.type: game
 created: 20150305161200000
-modifier: YourName
+modifier: niol
 pkg.filename: org.androidsoft.games.slowit
 pkg.source: fdroid
 pkg.version: —

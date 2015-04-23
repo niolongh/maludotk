@@ -3,7 +3,7 @@ app.title.full: Plants Vs Zombies
 app.title.short: Plants Vs Zombies
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.popcap.pvz_humblebundle
 pkg.source: humblebundle
 pkg.version: —

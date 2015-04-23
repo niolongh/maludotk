@@ -3,7 +3,7 @@ app.title.full: GamePad
 app.title.short: GamePad
 app.type: non-game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.fishstix.gameboard
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Muffin Knight
 app.title.short: Muffin Knight
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.angrymobgames.muffinknight3rdparty
 pkg.source: com.amazon.venezia
 pkg.version: —

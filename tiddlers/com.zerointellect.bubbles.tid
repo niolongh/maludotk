@@ -3,7 +3,7 @@ app.title.full: Bubbles
 app.title.short: Bubbles
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.zerointellect.bubbles
 pkg.source: com.android.vending
 pkg.version: —

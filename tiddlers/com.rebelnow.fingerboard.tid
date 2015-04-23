@@ -3,7 +3,7 @@ app.title.full: Fingerboard Lite
 app.title.short: Fingerboard Lite
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.rebelnow.fingerboard
 pkg.source: com.android.vending
 pkg.version: —

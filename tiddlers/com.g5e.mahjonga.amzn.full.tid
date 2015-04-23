@@ -3,7 +3,7 @@ app.title.full: Mahjong Artifacts
 app.title.short: Mahjong Artifacts
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.g5e.mahjonga.amzn.full
 pkg.source: com.amazon.venezia
 pkg.version: —

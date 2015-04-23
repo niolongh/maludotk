@@ -3,7 +3,7 @@ app.title.full: 5-Tiles Pro
 app.title.short: 5-Tiles Pro
 app.type: non-game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: touchKeyboard.five
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: TowerMadness 2
 app.title.short: TowerMadness 2
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.limbic.towermadness2.humble
 pkg.source: humblebundle
 pkg.version: —

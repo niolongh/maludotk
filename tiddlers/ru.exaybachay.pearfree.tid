@@ -3,7 +3,7 @@ app.title.full: Perfect Ear
 app.title.short: Perfect Ear
 app.type: non-game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: ru.exaybachay.pearfree
 pkg.source: com.android.vending
 pkg.version: —

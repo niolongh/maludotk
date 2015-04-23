@@ -3,7 +3,7 @@ app.title.full: Unolingo
 app.title.short: Unolingo
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.equazi.unolingo
 pkg.source: com.amazon.venezia
 pkg.version: —

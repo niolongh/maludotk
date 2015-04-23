@@ -3,7 +3,7 @@ app.title.full: Zen Pinball HD
 app.title.short: Zen Pinball HD
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.zenstudios.ZenPinball
 pkg.source: com.android.vending
 pkg.version: —

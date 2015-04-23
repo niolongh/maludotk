@@ -3,7 +3,7 @@ app.title.full: Dice Heroes
 app.title.short: Dice Heroes
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.vlaaad.dice
 pkg.source: com.android.vending
 pkg.version: —

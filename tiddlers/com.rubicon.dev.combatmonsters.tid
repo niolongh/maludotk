@@ -3,7 +3,7 @@ app.title.full: Combat Monsters
 app.title.short: Combat Monsters
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.rubicon.dev.combatmonsters
 pkg.source: com.android.vending
 pkg.version: —

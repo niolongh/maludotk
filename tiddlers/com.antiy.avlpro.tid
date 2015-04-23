@@ -3,7 +3,7 @@ app.title.full: AVL Pro
 app.title.short: AVL Pro
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.antiy.avlpro
 pkg.source: com.android.vending
 pkg.version: —

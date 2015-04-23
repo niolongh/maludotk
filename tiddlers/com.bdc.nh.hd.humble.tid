@@ -3,7 +3,7 @@ app.title.full: NHex HD Humble Bundle
 app.title.short: NHex HD Humble Bundle
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.bdc.nh.hd.humble
 pkg.source: humblebundle
 pkg.version: —

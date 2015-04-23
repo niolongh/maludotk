@@ -3,7 +3,7 @@ app.title.full: Graviturn Extended
 app.title.short: Graviturn Extended
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.fheft.graviturnex.free
 pkg.source: com.android.vending
 pkg.version: —

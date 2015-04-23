@@ -3,7 +3,7 @@ app.title.full: Quell Memento
 app.title.short: Quell Memento
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.fallentreegames.amazon.quellmemento
 pkg.source: com.amazon.venezia
 pkg.version: —

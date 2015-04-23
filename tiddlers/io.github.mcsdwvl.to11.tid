@@ -3,7 +3,7 @@ app.title.full: to11
 app.title.short: to11
 app.type: game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: io.github.mcsdwvl.to11
 pkg.source: com.android.vending
 pkg.version: —

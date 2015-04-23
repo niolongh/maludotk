@@ -3,7 +3,7 @@ app.title.full: Kobo
 app.title.short: Kobo
 app.type: non-game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.kobobooks.android
 pkg.source: com.android.vending
 pkg.version: —

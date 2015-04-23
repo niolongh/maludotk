@@ -3,7 +3,7 @@ app.title.full: Doodle Kingdom
 app.title.short: Doodle Kingdom
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.joybits.doodlekingdom
 pkg.source: com.amazon.venezia
 pkg.version: —

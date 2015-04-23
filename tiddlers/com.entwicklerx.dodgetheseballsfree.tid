@@ -3,7 +3,7 @@ app.title.full: Dodge These Balls
 app.title.short: Dodge These Balls
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.entwicklerx.dodgetheseballsfree
 pkg.source: com.android.vending
 pkg.version: —

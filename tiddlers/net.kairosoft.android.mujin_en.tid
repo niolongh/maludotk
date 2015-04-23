@@ -3,7 +3,7 @@ app.title.full: Beastie Bay
 app.title.short: Beastie Bay
 app.type: game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.kairosoft.android.mujin_en
 pkg.source: com.android.vending
 pkg.version: —

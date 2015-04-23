@@ -3,7 +3,7 @@ app.title.full: Fruit Ninja
 app.title.short: Fruit Ninja
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.halfbrick.fruitninja
 pkg.source: com.amazon.venezia
 pkg.version: —

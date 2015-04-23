@@ -3,7 +3,7 @@ app.title.full: robotfindskitten
 app.title.short: robotfindskitten
 app.type: game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: info.staticfree.android.robotfindskitten
 pkg.source: fdroid
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Hasami Shogi
 app.title.short: Hasami Shogi
 app.type: game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: jp.co.ultimaarchitect.android.hasamishogi.free
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Stickman Games: Summer (Free)
 app.title.short: Stickman Games: Summer (Free)
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.djinnworks.StickmanGames.lite
 pkg.source: com.android.vending
 pkg.version: —

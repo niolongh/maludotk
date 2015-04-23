@@ -3,7 +3,7 @@ app.title.full: Drudgery
 app.title.short: Drudgery
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: de.onyxbits.drudgery
 pkg.source: fdroid
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: DC Comics
 app.title.short: DC Comics
 app.type: non-game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dccomics.comics
 pkg.source: com.android.vending
 pkg.version: —

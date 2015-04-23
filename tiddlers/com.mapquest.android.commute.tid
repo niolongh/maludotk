@@ -3,7 +3,7 @@ app.title.full: Commute
 app.title.short: Commute
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.mapquest.android.commute
 pkg.source: com.amazon.venezia
 pkg.version: —

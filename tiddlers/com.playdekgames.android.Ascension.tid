@@ -3,7 +3,7 @@ app.title.full: Ascension
 app.title.short: Ascension
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.playdekgames.android.Ascension
 pkg.source: com.android.vending
 pkg.version: —

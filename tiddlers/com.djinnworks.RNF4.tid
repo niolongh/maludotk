@@ -3,7 +3,7 @@ app.title.full: RNF4
 app.title.short: RNF4
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.djinnworks.RNF4
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: HyperRogue III
 app.title.short: HyperRogue III
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.roguetemple.hyperroid
 pkg.source: fdroid
 pkg.version: —

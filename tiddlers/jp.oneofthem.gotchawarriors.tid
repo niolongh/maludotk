@@ -3,7 +3,7 @@ app.title.full: G.W.X
 app.title.short: G.W.X
 app.type: game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: jp.oneofthem.gotchawarriors
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Llamas with Hats
 app.title.short: Llamas with Hats
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.filmcow.llamaswithhatshumble
 pkg.source: humblebundle
 pkg.version: —

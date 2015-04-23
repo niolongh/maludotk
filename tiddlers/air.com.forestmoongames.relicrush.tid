@@ -3,7 +3,7 @@ app.title.full: Relic Rush
 app.title.short: Relic Rush
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.com.forestmoongames.relicrush
 pkg.source: humblebundle
 pkg.version: —

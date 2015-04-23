@@ -3,7 +3,7 @@ app.title.full: Back to Bed
 app.title.short: Back to Bed
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.bedtime.backtobed
 pkg.source: com.amazon.venezia
 pkg.version: —

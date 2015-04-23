@@ -3,7 +3,7 @@ app.title.full: Rail Maze
 app.title.short: Rail Maze
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.spookyhousestudios.railmaze
 pkg.source: com.android.vending
 pkg.version: —

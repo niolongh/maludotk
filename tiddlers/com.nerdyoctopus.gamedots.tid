@@ -3,7 +3,7 @@ app.title.full: dots
 app.title.short: dots
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.nerdyoctopus.gamedots
 pkg.source: com.android.vending
 pkg.version: —

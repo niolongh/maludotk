@@ -3,7 +3,7 @@ app.title.full: Mighty Dungeons DEMO
 app.title.short: Mighty Dungeons DEMO
 app.type: game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: games.laylio.mightydungeons.demo
 pkg.source: com.android.vending
 pkg.version: —

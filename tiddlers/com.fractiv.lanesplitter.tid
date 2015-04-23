@@ -3,7 +3,7 @@ app.title.full: Lane Splitter
 app.title.short: Lane Splitter
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.fractiv.lanesplitter
 pkg.source: com.android.vending
 pkg.version: —

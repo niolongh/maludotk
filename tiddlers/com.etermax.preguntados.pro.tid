@@ -3,7 +3,7 @@ app.title.full: Trivia Crack
 app.title.short: Trivia Crack
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.etermax.preguntados.pro
 pkg.source: com.amazon.venezia
 pkg.version: —

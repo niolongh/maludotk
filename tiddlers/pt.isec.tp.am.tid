@@ -3,7 +3,7 @@ app.title.full: Free Fall
 app.title.short: Free Fall
 app.type: game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: pt.isec.tp.am
 pkg.source: fdroid
 pkg.version: —

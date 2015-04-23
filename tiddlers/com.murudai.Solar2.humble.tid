@@ -3,7 +3,7 @@ app.title.full: Solar 2
 app.title.short: Solar 2
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.murudai.Solar2.humble
 pkg.source: humblebundle
 pkg.version: —

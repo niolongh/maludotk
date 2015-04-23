@@ -3,7 +3,7 @@ app.title.full: Blood and Glory
 app.title.short: Blood and Glory
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.glu.gladiator
 pkg.source: com.android.vending
 pkg.version: —

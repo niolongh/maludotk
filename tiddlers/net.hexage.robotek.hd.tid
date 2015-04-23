@@ -3,7 +3,7 @@ app.title.full: Robotek
 app.title.short: Robotek
 app.type: game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.hexage.robotek.hd
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Dynamite Jack
 app.title.short: Dynamite Jack
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.galcon.dynamitejack.humble
 pkg.source: humblebundle
 pkg.version: —

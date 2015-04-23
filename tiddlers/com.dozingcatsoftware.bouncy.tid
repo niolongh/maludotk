@@ -3,7 +3,7 @@ app.title.full: Vector Pinball
 app.title.short: Vector Pinball
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dozingcatsoftware.bouncy
 pkg.source: fdroid
 pkg.version: —

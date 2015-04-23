@@ -3,7 +3,7 @@ app.title.full: Pool Break Lite
 app.title.short: Pool Break Lite
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.kb.Carrom3D
 pkg.source: com.android.vending
 pkg.version: —

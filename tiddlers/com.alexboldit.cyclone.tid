@@ -3,7 +3,7 @@ app.title.full: Cyclone
 app.title.short: Cyclone
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.alexboldit.cyclone
 pkg.source: com.amazon.venezia
 pkg.version: —

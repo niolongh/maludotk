@@ -3,7 +3,7 @@ app.title.full: Bonza
 app.title.short: Bonza
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.au.com.minimega.bonza
 pkg.source: com.android.vending
 pkg.version: —

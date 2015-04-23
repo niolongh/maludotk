@@ -3,7 +3,7 @@ app.title.full: GSam Battery Monitor
 app.title.short: GSam Battery Monitor
 app.type: non-game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.gsamlabs.bbm
 pkg.source: com.android.vending
 pkg.version: —

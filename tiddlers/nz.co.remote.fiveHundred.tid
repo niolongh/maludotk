@@ -3,7 +3,7 @@ app.title.full: fivehundred
 app.title.short: fivehundred
 app.type: game
 created: 20150305161200000
-modifier: YourName
+modifier: niol
 pkg.filename: nz.co.remote.fiveHundred
 pkg.source: com.android.vending
 pkg.version: —

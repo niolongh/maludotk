@@ -3,7 +3,7 @@ app.title.full: DeadlyAbyss2
 app.title.short: DeadlyAbyss2
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.sbcgames.deadlyabyss2
 pkg.source: com.amazon.venezia
 pkg.version: —

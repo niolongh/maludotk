@@ -3,7 +3,7 @@ app.title.full: Circulets Free
 app.title.short: Circulets Free
 app.type: game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: in.hashstash.circuletsfree
 pkg.source: com.android.vending
 pkg.version: —

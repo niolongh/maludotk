@@ -3,7 +3,7 @@ app.title.full: Droid MPD Client HD Free
 app.title.short: Droid MPD Client HD Free
 app.type: non-game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.soreha.mpdclienthd.free
 pkg.source: com.android.vending
 pkg.version: —

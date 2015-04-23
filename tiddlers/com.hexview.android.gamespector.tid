@@ -3,7 +3,7 @@ app.title.full: GameSpector
 app.title.short: GameSpector
 app.type: non-game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.hexview.android.gamespector
 pkg.source: web=http://www.aptoide.com/
 pkg.version: —

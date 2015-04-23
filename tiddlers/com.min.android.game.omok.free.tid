@@ -3,7 +3,7 @@ app.title.full: Gomoku+
 app.title.short: Gomoku+
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.min.android.game.omok.free
 pkg.source: com.android.vending
 pkg.version: —

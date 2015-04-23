@@ -3,7 +3,7 @@ app.title.full: My Apps
 app.title.short: My Apps
 app.type: non-game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: mlc.myapps
 pkg.source: com.android.vending
 pkg.version: —

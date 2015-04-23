@@ -3,7 +3,7 @@ app.title.full: Timberman
 app.title.short: Timberman
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dm.timber
 pkg.source: com.android.vending
 pkg.version: —

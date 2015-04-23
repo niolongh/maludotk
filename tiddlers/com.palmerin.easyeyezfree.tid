@@ -3,7 +3,7 @@ app.title.full: EasyEyez Free
 app.title.short: EasyEyez Free
 app.type: non-game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.palmerin.easyeyezfree
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Velox 3D Free
 app.title.short: Velox 3D Free
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.galakau.veloxfree
 pkg.source: com.android.vending
 pkg.version: —

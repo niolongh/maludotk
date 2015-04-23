@@ -3,7 +3,7 @@ app.title.full: MindMeister
 app.title.short: MindMeister
 app.type: non-game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.meisterlabs.mindmeister
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Tiger and Goat
 app.title.short: Tiger and Goat
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.zunaa.tng
 pkg.source: com.android.vending
 pkg.version: —

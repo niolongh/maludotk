@@ -3,7 +3,7 @@ app.title.full: Oxford Dictionary of English
 app.title.short: Oxford Dictionary of English
 app.type: non-game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish.full
 pkg.source: com.amazon.venezia
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: CN Superstar Soccer
 app.title.short: CN Superstar Soccer
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.turner.copatoon
 pkg.source: humblebundle
 pkg.version: —

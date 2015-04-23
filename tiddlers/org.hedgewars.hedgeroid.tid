@@ -3,7 +3,7 @@ app.title.full: Hedgewars
 app.title.short: Hedgewars
 app.type: game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.hedgewars.hedgeroid
 pkg.source: com.android.vending
 pkg.version: —

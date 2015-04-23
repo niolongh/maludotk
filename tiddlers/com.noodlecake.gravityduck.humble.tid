@@ -3,7 +3,7 @@ app.title.full: Gravity Duck
 app.title.short: Gravity Duck
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.noodlecake.gravityduck.humble
 pkg.source: humblebundle
 pkg.version: —

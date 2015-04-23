@@ -3,7 +3,7 @@ app.title.full: Clash of Balls
 app.title.short: Clash of Balls
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.sapos_aplastados.game.clash_of_balls
 pkg.source: fdroid
 pkg.version: —

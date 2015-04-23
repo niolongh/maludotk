@@ -3,7 +3,7 @@ app.title.full: Best Park
 app.title.short: Best Park
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.turner.bestparkintheuniverse
 pkg.source: humblebundle
 pkg.version: —

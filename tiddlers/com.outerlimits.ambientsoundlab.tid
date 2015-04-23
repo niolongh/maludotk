@@ -3,7 +3,7 @@ app.title.full: Ambient Sound Lab
 app.title.short: Ambient Sound Lab
 app.type: non-game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.outerlimits.ambientsoundlab
 pkg.source: com.android.vending
 pkg.version: —

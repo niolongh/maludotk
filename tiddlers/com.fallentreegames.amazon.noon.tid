@@ -3,7 +3,7 @@ app.title.full: .NOON.
 app.title.short: .NOON.
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.fallentreegames.amazon.noon
 pkg.source: com.amazon.venezia
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Carcassonne
 app.title.short: Carcassonne
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.exozet.game.carcassonne
 pkg.source: humblebundle
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Geometri Destroyer
 app.title.short: Geometri Destroyer
 app.type: game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: se.danielj.geometridestroyer
 pkg.source: fdroid
 pkg.version: —

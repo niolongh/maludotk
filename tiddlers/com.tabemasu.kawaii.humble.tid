@@ -3,7 +3,7 @@ app.title.full: Kawaii Killer
 app.title.short: Kawaii Killer
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.tabemasu.kawaii.humble
 pkg.source: humblebundle
 pkg.version: —

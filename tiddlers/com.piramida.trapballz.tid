@@ -3,7 +3,7 @@ app.title.full: Trap Balls
 app.title.short: Trap Balls
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.piramida.trapballz
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Gobliiins Trilogy
 app.title.short: Gobliiins Trilogy
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dotemu.gobliiins
 pkg.source: com.amazon.venezia
 pkg.version: —

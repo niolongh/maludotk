@@ -3,7 +3,7 @@ app.title.full: Repix
 app.title.short: Repix
 app.type: non-game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: it.repix.android
 pkg.source: com.amazon.venezia
 pkg.version: —

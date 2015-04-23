@@ -3,7 +3,7 @@ app.title.full: KickTheCritter
 app.title.short: KickTheCritter
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.vg.kickthecritter
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: IsoKeys
 app.title.short: IsoKeys
 app.type: non-game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.tuningbell.isokeys
 pkg.source: com.android.vending
 pkg.version: —

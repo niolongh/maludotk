@@ -3,7 +3,7 @@ app.title.full: Schedule Planner
 app.title.short: Schedule Planner
 app.type: non-game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.intersog.android.schedule
 pkg.source: com.amazon.venezia
 pkg.version: —

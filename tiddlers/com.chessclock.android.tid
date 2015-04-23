@@ -3,7 +3,7 @@ app.title.full: Simple Chess Clock
 app.title.short: Simple Chess Clock
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.chessclock.android
 pkg.source: fdroid
 pkg.version: —

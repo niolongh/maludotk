@@ -3,7 +3,7 @@ app.title.full: Paper War for 2 player
 app.title.short: Paper War for 2 player
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.sillycube.android.paperwar2player
 pkg.source: com.android.vending
 pkg.version: —

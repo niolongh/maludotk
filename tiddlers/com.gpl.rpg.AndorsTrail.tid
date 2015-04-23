@@ -3,7 +3,7 @@ app.title.full: Andor's Trail
 app.title.short: Andor's Trail
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.gpl.rpg.AndorsTrail
 pkg.source: fdroid
 pkg.version: —

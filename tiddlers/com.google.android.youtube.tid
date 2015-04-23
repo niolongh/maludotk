@@ -3,7 +3,7 @@ app.title.full: YouTube
 app.title.short: YouTube
 app.type: non-game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.google.android.youtube
 pkg.source: com.android.vending
 pkg.version: —

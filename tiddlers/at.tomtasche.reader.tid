@@ -3,7 +3,7 @@ app.title.full: OpenDocument Reader
 app.title.short: OpenDocument Reader
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: at.tomtasche.reader
 pkg.source: com.amazon.venezia
 pkg.version: —

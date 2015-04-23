@@ -3,7 +3,7 @@ app.title.full: Wind-up Knight
 app.title.short: Wind-up Knight
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.robotinvader.knightmare
 pkg.source: com.android.vending
 pkg.version: —

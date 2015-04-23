@@ -3,7 +3,7 @@ app.title.full: Loa Free
 app.title.short: Loa Free
 app.type: game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: teddydroid.app.loa.free
 pkg.source: com.android.vending
 pkg.version: —

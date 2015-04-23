@@ -3,7 +3,7 @@ app.title.full: Profiteer Lite
 app.title.short: Profiteer Lite
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.roksoft.profiteer
 pkg.source: com.android.vending
 pkg.version: —

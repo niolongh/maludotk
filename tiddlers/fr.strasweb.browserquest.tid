@@ -3,7 +3,7 @@ app.title.full: BrowserQuest
 app.title.short: BrowserQuest
 app.type: game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: fr.strasweb.browserquest
 pkg.source: fdroid
 pkg.version: —

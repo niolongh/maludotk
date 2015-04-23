@@ -3,7 +3,7 @@ app.title.full: King of Opera
 app.title.short: King of Opera
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.tuokio.kingofopera
 pkg.source: com.android.vending
 pkg.version: —

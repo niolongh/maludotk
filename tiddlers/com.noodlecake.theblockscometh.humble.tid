@@ -3,7 +3,7 @@ app.title.full: Blocks
 app.title.short: Blocks
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.noodlecake.theblockscometh.humble
 pkg.source: humblebundle
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Aquaria
 app.title.short: Aquaria
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.bit_blot.aquaria_humble
 pkg.source: humblebundle
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Animal Shogi
 app.title.short: Animal Shogi
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.animalshogi
 pkg.source: com.android.vending
 pkg.version: —

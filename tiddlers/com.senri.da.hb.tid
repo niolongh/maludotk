@@ -3,7 +3,7 @@ app.title.full: Devil's Attorney
 app.title.short: Devil's Attorney
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.senri.da.hb
 pkg.source: humblebundle
 pkg.version: —

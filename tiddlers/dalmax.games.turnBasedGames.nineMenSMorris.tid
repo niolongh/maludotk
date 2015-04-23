@@ -3,7 +3,7 @@ app.title.full: Dalmax Men's Morris
 app.title.short: Dalmax Men's Morris
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: dalmax.games.turnBasedGames.nineMenSMorris
 pkg.source: com.android.vending
 pkg.version: —

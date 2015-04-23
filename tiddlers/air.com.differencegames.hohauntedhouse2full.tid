@@ -3,7 +3,7 @@ app.title.full: Hidden Object - Haunted House 2
 app.title.short: Hidden Object - Haunted House 2
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.com.differencegames.hohauntedhouse2full
 pkg.source: com.amazon.venezia
 pkg.version: —

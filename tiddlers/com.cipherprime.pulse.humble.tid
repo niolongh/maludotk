@@ -3,7 +3,7 @@ app.title.full: Pulse
 app.title.short: Pulse
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.cipherprime.pulse.humble
 pkg.source: humblebundle
 pkg.version: —

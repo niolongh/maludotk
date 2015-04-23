@@ -3,7 +3,7 @@ app.title.full: ApoSimpleSmart
 app.title.short: ApoSimpleSmart
 app.type: game
 created: 20150305161200000
-modifier: YourName
+modifier: niol
 pkg.filename: org.apogames.simple
 pkg.source: com.android.vending
 pkg.version: —

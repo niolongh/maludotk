@@ -3,7 +3,7 @@ app.title.full: Taps Of Fire
 app.title.short: Taps Of Fire
 app.type: game
 created: 20150305161400000
-modifier: YourName
+modifier: niol
 pkg.filename: org.tof
 pkg.source: fdroid
 pkg.version: —

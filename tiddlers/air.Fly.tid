@@ -3,7 +3,7 @@ app.title.full: Fly
 app.title.short: Fly
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.Fly
 pkg.source: com.android.vending
 pkg.version: —

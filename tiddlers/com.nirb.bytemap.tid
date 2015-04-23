@@ -3,7 +3,7 @@ app.title.full: Byte map
 app.title.short: Byte map
 app.type: non-game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.nirb.bytemap
 pkg.source: com.android.vending
 pkg.version: —

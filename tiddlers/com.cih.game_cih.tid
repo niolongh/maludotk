@@ -3,7 +3,7 @@ app.title.full: GameCIH
 app.title.short: GameCIH
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.cih.game_cih
 pkg.source: web=http://www.cih.com.tw/gamecih.html
 pkg.version: —

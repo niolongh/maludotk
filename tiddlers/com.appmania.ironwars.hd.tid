@@ -3,7 +3,7 @@ app.title.full: IronWars
 app.title.short: IronWars
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.appmania.ironwars.hd
 pkg.source: com.android.vending
 pkg.version: —

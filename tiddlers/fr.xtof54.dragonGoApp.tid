@@ -3,7 +3,7 @@ app.title.full: DragonGoApp
 app.title.short: DragonGoApp
 app.type: game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: fr.xtof54.dragonGoApp
 pkg.source: fdroid
 pkg.version: —

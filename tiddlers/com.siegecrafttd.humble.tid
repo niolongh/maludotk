@@ -3,7 +3,7 @@ app.title.full: Siegecraft Defender
 app.title.short: Siegecraft Defender
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.siegecrafttd.humble
 pkg.source: humblebundle
 pkg.version: —

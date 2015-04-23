@@ -3,7 +3,7 @@ app.title.full: Bushido Blocks
 app.title.short: Bushido Blocks
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.sandeel.bushidoblocks
 pkg.source: fdroid
 pkg.version: —

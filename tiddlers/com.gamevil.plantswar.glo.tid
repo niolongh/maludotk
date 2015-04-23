@@ -3,7 +3,7 @@ app.title.full: Plants War
 app.title.short: Plants War
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.gamevil.plantswar.glo
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: TypeRider
 app.title.short: TypeRider
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.bulkypix.typerider.humble
 pkg.source: humblebundle
 pkg.version: —

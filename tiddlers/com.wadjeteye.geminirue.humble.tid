@@ -3,7 +3,7 @@ app.title.full: GeminiRue
 app.title.short: GeminiRue
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.wadjeteye.geminirue.humble
 pkg.source: humblebundle
 pkg.version: —

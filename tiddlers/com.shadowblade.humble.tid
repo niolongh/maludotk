@@ -3,7 +3,7 @@ app.title.full: Shadow Blade
 app.title.short: Shadow Blade
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.shadowblade.humble
 pkg.source: humblebundle
 pkg.version: —

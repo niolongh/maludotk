@@ -3,7 +3,7 @@ app.title.full: ChampRummy
 app.title.short: ChampRummy
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dqsoft.ChampRummy
 pkg.source: com.android.vending
 pkg.version: —

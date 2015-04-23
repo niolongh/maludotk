@@ -3,7 +3,7 @@ app.title.full: Five Nights at Freddys
 app.title.short: Five Nights at Freddys
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.scottgames.fivenights_humble
 pkg.source: humblebundle
 pkg.version: —

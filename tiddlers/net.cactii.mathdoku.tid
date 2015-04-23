@@ -3,7 +3,7 @@ app.title.full: MathDoku
 app.title.short: MathDoku
 app.type: game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.cactii.mathdoku
 pkg.source: fdroid
 pkg.version: —

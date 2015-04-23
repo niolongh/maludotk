@@ -3,7 +3,7 @@ app.title.full: Dungeon 18
 app.title.short: Dungeon 18
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.qqhouse.dungeon18
 pkg.source: com.android.vending
 pkg.version: —

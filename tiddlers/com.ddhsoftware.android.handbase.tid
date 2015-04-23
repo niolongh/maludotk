@@ -3,7 +3,7 @@ app.title.full: HanDBase
 app.title.short: HanDBase
 app.type: non-game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ddhsoftware.android.handbase
 pkg.source: com.amazon.venezia
 pkg.version: —

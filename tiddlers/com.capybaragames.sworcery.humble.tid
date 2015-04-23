@@ -3,7 +3,7 @@ app.title.full: Superbrothers Sword & Sworcery
 app.title.short: Superbrothers Sword & Sworcery
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.capybaragames.sworcery.humble
 pkg.source: humblebundle
 pkg.version: —

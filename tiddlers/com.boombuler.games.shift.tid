@@ -3,7 +3,7 @@ app.title.full: Shift
 app.title.short: Shift
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.boombuler.games.shift
 pkg.source: fdroid
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Gridrunner
 app.title.short: Gridrunner
 app.type: game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: uk.co.llamasoft.donationware.gridrunner
 pkg.source: web:
 pkg.version: —

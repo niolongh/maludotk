@@ -3,7 +3,7 @@ app.title.full: Bladeslinger
 app.title.short: Bladeslinger
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.kerosenegames.bsep1hib
 pkg.source: humblebundle
 pkg.version: —

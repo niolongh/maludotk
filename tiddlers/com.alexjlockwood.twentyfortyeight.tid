@@ -3,7 +3,7 @@ app.title.full: 2048++
 app.title.short: 2048++
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.alexjlockwood.twentyfortyeight
 pkg.source: com.android.vending
 pkg.version: —

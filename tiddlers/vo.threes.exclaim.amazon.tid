@@ -3,7 +3,7 @@ app.title.full: Threes
 app.title.short: Threes
 app.type: game
 created: 20150305161600000
-modifier: YourName
+modifier: niol
 pkg.filename: vo.threes.exclaim.amazon
 pkg.source: com.amazon.venezia
 pkg.version: —

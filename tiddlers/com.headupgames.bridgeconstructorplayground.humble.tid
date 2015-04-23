@@ -3,7 +3,7 @@ app.title.full: BC Playground
 app.title.short: BC Playground
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.headupgames.bridgeconstructorplayground.humble
 pkg.source: humblebundle
 pkg.version: —

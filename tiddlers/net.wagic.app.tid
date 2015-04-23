@@ -3,7 +3,7 @@ app.title.full: Wagic
 app.title.short: Wagic
 app.type: game
 created: 20150305161200000
-modifier: YourName
+modifier: niol
 pkg.filename: net.wagic.app
 pkg.source: web=http://wololo.net/download/
 pkg.version: —

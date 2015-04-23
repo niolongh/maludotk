@@ -3,7 +3,7 @@ app.title.full: Mind Map Memo
 app.title.short: Mind Map Memo
 app.type: non-game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.takahicorp.MindMap
 pkg.source: com.android.vending
 pkg.version: —

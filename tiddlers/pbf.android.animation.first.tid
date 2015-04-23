@@ -3,7 +3,7 @@ app.title.full: Friction Mobile
 app.title.short: Friction Mobile
 app.type: game
 created: 20150305161400000
-modifier: YourName
+modifier: niol
 pkg.filename: pbf.android.animation.first
 pkg.source: com.android.vending
 pkg.version: —

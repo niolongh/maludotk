@@ -3,7 +3,7 @@ app.title.full: MicroPuzzle
 app.title.short: MicroPuzzle
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.eatstuf.micropuzzle
 pkg.source: com.android.vending
 pkg.version: —

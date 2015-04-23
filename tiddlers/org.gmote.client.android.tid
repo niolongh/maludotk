@@ -3,7 +3,7 @@ app.title.full: Gmote
 app.title.short: Gmote
 app.type: non-game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.gmote.client.android
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Metal Slug 3
 app.title.short: Metal Slug 3
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dotemu.neogeo.mslug3.humble
 pkg.source: humblebundle
 pkg.version: —

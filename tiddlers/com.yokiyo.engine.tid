@@ -3,7 +3,7 @@ app.title.full: Yokiyo FREE
 app.title.short: Yokiyo FREE
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.yokiyo.engine
 pkg.source: com.android.vending
 pkg.version: —

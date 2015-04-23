@@ -3,7 +3,7 @@ app.title.full: Duet Premium
 app.title.short: Duet Premium
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.kumobius.android.duet.humble
 pkg.source: humblebundle
 pkg.version: —

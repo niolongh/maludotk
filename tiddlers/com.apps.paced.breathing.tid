@@ -3,7 +3,7 @@ app.title.full: Paced Breathing
 app.title.short: Paced Breathing
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.apps.paced.breathing
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Cerberus
 app.title.short: Cerberus
 app.type: non-game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.lsdroid.cerberus
 pkg.source: com.android.vending
 pkg.version: —

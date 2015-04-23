@@ -3,7 +3,7 @@ app.title.full: Containment
 app.title.short: Containment
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.bootsnakegames.containmentgame
 pkg.source: humblebundle
 pkg.version: —

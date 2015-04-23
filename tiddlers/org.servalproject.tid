@@ -3,7 +3,7 @@ app.title.full: Serval Mesh
 app.title.short: Serval Mesh
 app.type: non-game
 created: 20150305161400000
-modifier: YourName
+modifier: niol
 pkg.filename: org.servalproject
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Alchemy~Genetics
 app.title.short: Alchemy~Genetics
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.creativem.geneticsfull
 pkg.source: com.android.vending
 pkg.version: —

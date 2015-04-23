@@ -3,7 +3,7 @@ app.title.full: Hero Academy
 app.title.short: Hero Academy
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.robotentertainment.heroacademy
 pkg.source: humblebundle
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Combo Crew
 app.title.short: Combo Crew
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.thegamebakers.combocrew
 pkg.source: humblebundle
 pkg.version: —

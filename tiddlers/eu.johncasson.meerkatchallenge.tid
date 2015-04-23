@@ -3,7 +3,7 @@ app.title.full: Meerkat Challenge
 app.title.short: Meerkat Challenge
 app.type: game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: eu.johncasson.meerkatchallenge
 pkg.source: fdroid
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Frozen Bubble
 app.title.short: Frozen Bubble
 app.type: game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.jfedor.frozenbubble
 pkg.source: fdroid
 pkg.version: —

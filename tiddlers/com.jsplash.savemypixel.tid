@@ -3,7 +3,7 @@ app.title.full: Save Pixel
 app.title.short: Save Pixel
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.jsplash.savemypixel
 pkg.source: com.android.vending
 pkg.version: —

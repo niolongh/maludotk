@@ -3,7 +3,7 @@ app.title.full: Classic Football
 app.title.short: Classic Football
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.vistapps.classicfootball
 pkg.source: com.amazon.venezia
 pkg.version: —

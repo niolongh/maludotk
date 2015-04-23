@@ -3,7 +3,7 @@ app.title.full: TeeWorlds
 app.title.short: TeeWorlds
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.teeworlds
 pkg.source: com.android.vending
 pkg.version: —

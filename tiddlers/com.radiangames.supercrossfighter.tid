@@ -3,7 +3,7 @@ app.title.full: Super CF
 app.title.short: Super CF
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.radiangames.supercrossfighter
 pkg.source: com.amazon.venezia
 pkg.version: —

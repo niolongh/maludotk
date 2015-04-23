@@ -3,7 +3,7 @@ app.title.full: Sorcery!
 app.title.short: Sorcery!
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.inkle.humble.sorcery1
 pkg.source: humblebundle
 pkg.version: —

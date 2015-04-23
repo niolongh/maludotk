@@ -3,7 +3,7 @@ app.title.full: Sonic CD
 app.title.short: Sonic CD
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.sega.soniccd
 pkg.source: humblebundle
 pkg.version: —

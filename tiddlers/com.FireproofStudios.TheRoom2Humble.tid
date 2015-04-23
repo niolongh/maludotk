@@ -3,7 +3,7 @@ app.title.full: The Room Two
 app.title.short: The Room Two
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.FireproofStudios.TheRoom2Humble
 pkg.source: humblebundle
 pkg.version: —

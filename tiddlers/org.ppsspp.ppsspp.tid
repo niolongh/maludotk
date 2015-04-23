@@ -3,7 +3,7 @@ app.title.full: PPSSPP
 app.title.short: PPSSPP
 app.type: non-game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.ppsspp.ppsspp
 pkg.source: fdroid
 pkg.version: —

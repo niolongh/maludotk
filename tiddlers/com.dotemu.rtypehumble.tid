@@ -3,7 +3,7 @@ app.title.full: R-TYPE
 app.title.short: R-TYPE
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dotemu.rtypehumble
 pkg.source: humblebundle
 pkg.version: —

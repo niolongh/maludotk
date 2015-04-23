@@ -3,7 +3,7 @@ app.title.full: Fitz: Match 3 Puzzle
 app.title.short: Fitz: Match 3 Puzzle
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.com.absolutist.fitzhd
 pkg.source: com.amazon.venezia
 pkg.version: —

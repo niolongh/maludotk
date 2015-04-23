@@ -3,7 +3,7 @@ app.title.full: Explode!
 app.title.short: Explode!
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: de.sistance.android.explode
 pkg.source: com.android.vending
 pkg.version: —

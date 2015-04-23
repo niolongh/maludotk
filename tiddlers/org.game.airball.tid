@@ -3,7 +3,7 @@ app.title.full: Airball
 app.title.short: Airball
 app.type: game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.game.airball
 pkg.source: com.android.vending
 pkg.version: —

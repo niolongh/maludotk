@@ -3,7 +3,7 @@ app.title.full: Advanced Task Manager
 app.title.short: Advanced Task Manager
 app.type: non-game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: mobi.infolife.taskmanager
 pkg.source: com.android.vending
 pkg.version: —

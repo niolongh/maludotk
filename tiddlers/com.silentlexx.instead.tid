@@ -3,7 +3,7 @@ app.title.full: Instead
 app.title.short: Instead
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.silentlexx.instead
 pkg.source: fdroid
 pkg.version: —

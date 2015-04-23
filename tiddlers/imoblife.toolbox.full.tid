@@ -3,7 +3,7 @@ app.title.full: All-In-One Toolbox
 app.title.short: All-In-One Toolbox
 app.type: non-game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: imoblife.toolbox.full
 pkg.source: com.android.vending
 pkg.version: —

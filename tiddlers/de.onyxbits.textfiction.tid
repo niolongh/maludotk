@@ -3,7 +3,7 @@ app.title.full: Text Fiction
 app.title.short: Text Fiction
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: de.onyxbits.textfiction
 pkg.source: fdroid
 pkg.version: —

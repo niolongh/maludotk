@@ -3,7 +3,7 @@ app.title.full: Delicious
 app.title.short: Delicious
 app.type: non-game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: se.alexanderblom.delicious
 pkg.source: com.android.vending
 pkg.version: —

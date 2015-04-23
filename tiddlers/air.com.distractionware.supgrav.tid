@@ -3,7 +3,7 @@ app.title.full: Super Gravitron
 app.title.short: Super Gravitron
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.com.distractionware.supgrav
 pkg.source: com.android.vending
 pkg.version: —

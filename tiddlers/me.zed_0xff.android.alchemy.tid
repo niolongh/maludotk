@@ -3,7 +3,7 @@ app.title.full: Alchemy
 app.title.short: Alchemy
 app.type: game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: me.zed_0xff.android.alchemy
 pkg.source: com.android.vending
 pkg.version: —

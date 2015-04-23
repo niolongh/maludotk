@@ -3,7 +3,7 @@ app.title.full: DynamoKid Touch Free
 app.title.short: DynamoKid Touch Free
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dkrunlite.engine
 pkg.source: com.android.vending
 pkg.version: —

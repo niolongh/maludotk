@@ -3,7 +3,7 @@ app.title.full: Alphabet Aquarium
 app.title.short: Alphabet Aquarium
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.cz.cfc.androidam.ToddlerAquarium
 pkg.source: com.amazon.venezia
 pkg.version: —

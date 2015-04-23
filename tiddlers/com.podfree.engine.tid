@@ -3,7 +3,7 @@ app.title.full: POD Free
 app.title.short: POD Free
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.podfree.engine
 pkg.source: com.android.vending
 pkg.version: —

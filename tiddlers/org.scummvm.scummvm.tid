@@ -3,7 +3,7 @@ app.title.full: ScummVM
 app.title.short: ScummVM
 app.type: non-game
 created: 20150305161400000
-modifier: YourName
+modifier: niol
 pkg.filename: org.scummvm.scummvm
 pkg.source: fdroid
 pkg.version: —

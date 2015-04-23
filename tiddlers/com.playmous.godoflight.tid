@@ -3,7 +3,7 @@ app.title.full: God of Light
 app.title.short: God of Light
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.playmous.godoflight
 pkg.source: com.android.vending
 pkg.version: —

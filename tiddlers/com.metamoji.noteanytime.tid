@@ -3,7 +3,7 @@ app.title.full: MetaMoJi Note
 app.title.short: MetaMoJi Note
 app.type: non-game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.metamoji.noteanytime
 pkg.source: com.android.vending
 pkg.version: —

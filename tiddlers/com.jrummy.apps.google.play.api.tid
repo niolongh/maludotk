@@ -3,7 +3,7 @@ app.title.full: Google Play API
 app.title.short: Google Play API
 app.type: non-game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.jrummy.apps.google.play.api
 pkg.source: com.android.vending
 pkg.version: —

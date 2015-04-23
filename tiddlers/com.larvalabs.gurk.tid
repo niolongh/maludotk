@@ -3,7 +3,7 @@ app.title.full: Gurk
 app.title.short: Gurk
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.larvalabs.gurk
 pkg.source: com.android.vending
 pkg.version: —

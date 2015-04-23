@@ -3,7 +3,7 @@ app.title.full: SpinArt
 app.title.short: SpinArt
 app.type: non-game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.sts.SpinArt
 pkg.source: com.amazon.venezia
 pkg.version: —

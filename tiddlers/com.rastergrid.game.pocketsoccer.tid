@@ -3,7 +3,7 @@ app.title.full: Pocket Soccer
 app.title.short: Pocket Soccer
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.rastergrid.game.pocketsoccer
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Water?
 app.title.short: Water?
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.disney.WMWLite
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Plugin.French
 app.title.short: Plugin.French
 app.type: non-game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: klye.plugin.fr
 pkg.source: com.android.vending
 pkg.version: —

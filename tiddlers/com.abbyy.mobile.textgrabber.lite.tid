@@ -3,7 +3,7 @@ app.title.full: ABBYY TextGrabber Lite
 app.title.short: ABBYY TextGrabber Lite
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.abbyy.mobile.textgrabber.lite
 pkg.source: com.amazon.venezia
 pkg.version: —

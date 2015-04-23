@@ -3,7 +3,7 @@ app.title.full: TinyDiceDungeon
 app.title.short: TinyDiceDungeon
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.kongregate.mobile.tinydicedungeon.google
 pkg.source: com.android.vending
 pkg.version: —

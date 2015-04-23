@@ -3,7 +3,7 @@ app.title.full: Age of Pirates RPG
 app.title.short: Age of Pirates RPG
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.tresebrothers.games.ageofpiratesrpg
 pkg.source: com.android.vending
 pkg.version: —

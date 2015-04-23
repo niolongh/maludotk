@@ -3,7 +3,7 @@ app.title.full: Dungeon Keeper
 app.title.short: Dungeon Keeper
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ea.game.dungeonkeeper_row
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Bytes Insight
 app.title.short: Bytes Insight
 app.type: non-game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.oasisfeng.bytesinsight
 pkg.source: com.android.vending
 pkg.version: —

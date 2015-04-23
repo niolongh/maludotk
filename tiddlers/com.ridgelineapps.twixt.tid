@@ -3,7 +3,7 @@ app.title.full: TwixT
 app.title.short: TwixT
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ridgelineapps.twixt
 pkg.source: com.android.vending
 pkg.version: —

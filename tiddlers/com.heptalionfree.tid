@@ -3,7 +3,7 @@ app.title.full: Heptalion Free
 app.title.short: Heptalion Free
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.heptalionfree
 pkg.source: com.android.vending
 pkg.version: —

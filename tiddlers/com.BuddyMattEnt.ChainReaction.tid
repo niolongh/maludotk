@@ -3,7 +3,7 @@ app.title.full: Chain Reaction
 app.title.short: Chain Reaction
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.BuddyMattEnt.ChainReaction
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Scotland Yard Master
 app.title.short: Scotland Yard Master
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ravensburgerdigital.scotlandyardmaster
 pkg.source: com.android.vending
 pkg.version: —

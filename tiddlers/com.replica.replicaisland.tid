@@ -3,7 +3,7 @@ app.title.full: Replica Island
 app.title.short: Replica Island
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.replica.replicaisland
 pkg.source: fdroid
 pkg.version: —

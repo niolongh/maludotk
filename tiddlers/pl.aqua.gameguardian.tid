@@ -3,7 +3,7 @@ app.title.full: Game Guardian
 app.title.short: Game Guardian
 app.type: game
 created: 20150305161400000
-modifier: YourName
+modifier: niol
 pkg.filename: pl.aqua.gameguardian
 pkg.source: web=http://gameguardian.net/forum/files/category/5-official-downloads/
 pkg.version: —

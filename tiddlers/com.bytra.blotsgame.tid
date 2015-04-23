@@ -3,7 +3,7 @@ app.title.full: Blots
 app.title.short: Blots
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.bytra.blotsgame
 pkg.source: com.android.vending
 pkg.version: —

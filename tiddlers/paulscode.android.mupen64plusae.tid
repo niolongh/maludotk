@@ -3,7 +3,7 @@ app.title.full: Mupen64 Plus AE
 app.title.short: Mupen64 Plus AE
 app.type: game
 created: 20150305161400000
-modifier: YourName
+modifier: niol
 pkg.filename: paulscode.android.mupen64plusae
 pkg.source: fdroid
 pkg.version: —

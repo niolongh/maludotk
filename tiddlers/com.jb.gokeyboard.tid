@@ -3,7 +3,7 @@ app.title.full: GO Keyboard
 app.title.short: GO Keyboard
 app.type: non-game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.jb.gokeyboard
 pkg.source: com.android.vending
 pkg.version: —

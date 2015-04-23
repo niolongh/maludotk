@@ -3,7 +3,7 @@ app.title.full: Blocky Roads
 app.title.short: Blocky Roads
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dogbytegames.blocky_roads
 pkg.source: com.amazon.venezia
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Shivah
 app.title.short: Shivah
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.wadjeteye.shivah.humble
 pkg.source: humblebundle
 pkg.version: —

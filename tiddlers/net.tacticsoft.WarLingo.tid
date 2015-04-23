@@ -3,7 +3,7 @@ app.title.full: WarLingo
 app.title.short: WarLingo
 app.type: game
 created: 20150305161200000
-modifier: YourName
+modifier: niol
 pkg.filename: net.tacticsoft.WarLingo
 pkg.source: com.android.vending
 pkg.version: —

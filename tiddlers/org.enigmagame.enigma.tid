@@ -3,7 +3,7 @@ app.title.full: enigma
 app.title.short: enigma
 app.type: game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.enigmagame.enigma
 pkg.source: com.android.vending
 pkg.version: —

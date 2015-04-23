@@ -3,7 +3,7 @@ app.title.full: Escape Story
 app.title.short: Escape Story
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.com.goblin.escapestory
 pkg.source: com.amazon.venezia
 pkg.version: —

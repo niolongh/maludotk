@@ -3,7 +3,7 @@ app.title.full: LDOCE 5
 app.title.short: LDOCE 5
 app.type: non-game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.mobifusion.android.ldoce5
 pkg.source: com.amazon.venezia
 pkg.version: —

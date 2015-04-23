@@ -3,7 +3,7 @@ app.title.full: Geostruct
 app.title.short: Geostruct
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.tungsten.geostruct
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: KAMI
 app.title.short: KAMI
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.com.stateofplaygames.kami
 pkg.source: humblebundle
 pkg.version: —

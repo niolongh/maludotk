@@ -3,7 +3,7 @@ app.title.full: MathsApp
 app.title.short: MathsApp
 app.type: non-game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.mathsapp.graphing
 pkg.source: com.amazon.venezia
 pkg.version: —

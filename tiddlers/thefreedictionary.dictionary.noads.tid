@@ -3,7 +3,7 @@ app.title.full: Dictionary
 app.title.short: Dictionary
 app.type: non-game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: thefreedictionary.dictionary.noads
 pkg.source: com.amazon.venezia
 pkg.version: —

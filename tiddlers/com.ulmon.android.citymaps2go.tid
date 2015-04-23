@@ -3,7 +3,7 @@ app.title.full: City Maps 2Go
 app.title.short: City Maps 2Go
 app.type: non-game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ulmon.android.citymaps2go
 pkg.source: com.amazon.venezia
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Mr. E: Part I
 app.title.short: Mr. E: Part I
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.andersontao.mr.eparti
 pkg.source: com.android.vending
 pkg.version: —

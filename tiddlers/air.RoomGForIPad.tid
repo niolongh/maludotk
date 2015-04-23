@@ -3,7 +3,7 @@ app.title.full: ROOM Γ
 app.title.short: ROOM Γ
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.RoomGForIPad
 pkg.source: com.android.vending
 pkg.version: —

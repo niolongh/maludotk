@@ -3,7 +3,7 @@ app.title.full: 4Pics 1Movie
 app.title.short: 4Pics 1Movie
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.nextin.fpowmovie
 pkg.source: com.amazon.venezia
 pkg.version: —

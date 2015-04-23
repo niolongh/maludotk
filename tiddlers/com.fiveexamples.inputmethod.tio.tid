@@ -3,7 +3,7 @@ app.title.full: Tio keyboard
 app.title.short: Tio keyboard
 app.type: non-game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.fiveexamples.inputmethod.tio
 pkg.source: com.android.vending
 pkg.version: —

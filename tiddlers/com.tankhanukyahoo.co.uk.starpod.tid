@@ -3,7 +3,7 @@ app.title.full: Star Pod
 app.title.short: Star Pod
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.tankhanukyahoo.co.uk.starpod
 pkg.source: com.android.vending
 pkg.version: —

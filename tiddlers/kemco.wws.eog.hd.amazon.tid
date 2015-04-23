@@ -3,7 +3,7 @@ app.title.full: Eve of the Genesis
 app.title.short: Eve of the Genesis
 app.type: game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: kemco.wws.eog.hd.amazon
 pkg.source: com.amazon.venezia
 pkg.version: —

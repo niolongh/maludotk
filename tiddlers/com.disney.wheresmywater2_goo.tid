@@ -3,7 +3,7 @@ app.title.full: Water? 2
 app.title.short: Water? 2
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.disney.wheresmywater2_goo
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: RocketNova
 app.title.short: RocketNova
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.super2k.rocketmania
 pkg.source: com.amazon.venezia
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: World of Goo Demo
 app.title.short: World of Goo Demo
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.twodboy.worldofgoodemo
 pkg.source: com.android.vending
 pkg.version: —

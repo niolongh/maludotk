@@ -3,7 +3,7 @@ app.title.full: Burn the Rope
 app.title.short: Burn the Rope
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.bbb.btr
 pkg.source: com.android.vending
 pkg.version: —

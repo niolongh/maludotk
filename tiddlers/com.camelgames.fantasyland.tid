@@ -3,7 +3,7 @@ app.title.full: Little Empire
 app.title.short: Little Empire
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.camelgames.fantasyland
 pkg.source: com.android.vending
 pkg.version: —

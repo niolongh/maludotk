@@ -3,7 +3,7 @@ app.title.full: Vim Touch
 app.title.short: Vim Touch
 app.type: non-game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.momodalo.app.vimtouch
 pkg.source: com.android.vending
 pkg.version: —

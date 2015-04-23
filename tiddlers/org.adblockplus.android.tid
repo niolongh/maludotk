@@ -3,7 +3,7 @@ app.title.full: Adblock Plus
 app.title.short: Adblock Plus
 app.type: non-game
 created: 20150305161200000
-modifier: YourName
+modifier: niol
 pkg.filename: org.adblockplus.android
 pkg.source: fdroid
 pkg.version: —

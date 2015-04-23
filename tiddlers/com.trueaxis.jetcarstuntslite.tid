@@ -3,7 +3,7 @@ app.title.full: Jet Car Stunts Lite
 app.title.short: Jet Car Stunts Lite
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.trueaxis.jetcarstuntslite
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Tiny Bang Story
 app.title.short: Tiny Bang Story
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.herocraft.game.humble.tinybangstory
 pkg.source: humblebundle
 pkg.version: —

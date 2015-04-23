@@ -3,7 +3,7 @@ app.title.full: Droidicious Free
 app.title.short: Droidicious Free
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.aor.droidicious.free
 pkg.source: com.android.vending
 pkg.version: —

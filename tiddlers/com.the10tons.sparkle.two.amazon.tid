@@ -3,7 +3,7 @@ app.title.full: Sparkle 2
 app.title.short: Sparkle 2
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.the10tons.sparkle.two.amazon
 pkg.source: com.amazon.venezia
 pkg.version: —

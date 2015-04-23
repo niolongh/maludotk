@@ -3,7 +3,7 @@ app.title.full: Mr Flap
 app.title.short: Mr Flap
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.mrflap
 pkg.source: com.android.vending
 pkg.version: —

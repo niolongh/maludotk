@@ -3,7 +3,7 @@ app.title.full: Magnatune
 app.title.short: Magnatune
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.buckman.magnatune
 pkg.source: com.android.vending
 pkg.version: —

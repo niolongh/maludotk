@@ -3,7 +3,7 @@ app.title.full: Camera ZOOM FX
 app.title.short: Camera ZOOM FX
 app.type: non-game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: slide.cameraZoom
 pkg.source: com.amazon.venezia
 pkg.version: —

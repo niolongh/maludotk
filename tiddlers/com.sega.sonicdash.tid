@@ -3,7 +3,7 @@ app.title.full: Sonic Dash
 app.title.short: Sonic Dash
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.sega.sonicdash
 pkg.source: com.amazon.venezia
 pkg.version: —

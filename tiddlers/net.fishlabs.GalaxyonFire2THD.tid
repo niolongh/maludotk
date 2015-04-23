@@ -3,7 +3,7 @@ app.title.full: GOF2 THD
 app.title.short: GOF2 THD
 app.type: game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.fishlabs.GalaxyonFire2THD
 pkg.source: com.android.vending
 pkg.version: —

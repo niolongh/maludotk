@@ -3,7 +3,7 @@ app.title.full: Gomoku
 app.title.short: Gomoku
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.traffar.gomoku
 pkg.source: fdroid
 pkg.version: —

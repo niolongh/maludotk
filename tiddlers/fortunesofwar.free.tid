@@ -3,7 +3,7 @@ app.title.full: Fortunes of War FREE
 app.title.short: Fortunes of War FREE
 app.type: game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: fortunesofwar.free
 pkg.source: com.android.vending
 pkg.version: —

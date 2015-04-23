@@ -3,7 +3,7 @@ app.title.full: Slice It!
 app.title.short: Slice It!
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.com2us.sliceit
 pkg.source: com.android.vending
 pkg.version: —

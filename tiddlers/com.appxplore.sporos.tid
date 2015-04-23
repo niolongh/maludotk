@@ -3,7 +3,7 @@ app.title.full: Sporos
 app.title.short: Sporos
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.appxplore.sporos
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: List My Apps
 app.title.short: List My Apps
 app.type: non-game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: jp.funnything.list_my_apps
 pkg.source: com.android.vending
 pkg.version: —

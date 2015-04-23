@@ -3,7 +3,7 @@ app.title.full: Star Traders 4X
 app.title.short: Star Traders 4X
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.tresebrothers.games.factionwars
 pkg.source: com.android.vending
 pkg.version: —

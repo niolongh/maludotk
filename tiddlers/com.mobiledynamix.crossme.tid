@@ -3,7 +3,7 @@ app.title.full: CrossMe
 app.title.short: CrossMe
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.mobiledynamix.crossme
 pkg.source: com.android.vending
 pkg.version: —

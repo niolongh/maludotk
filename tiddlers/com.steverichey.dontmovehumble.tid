@@ -3,7 +3,7 @@ app.title.full: Don't Move
 app.title.short: Don't Move
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.steverichey.dontmovehumble
 pkg.source: humblebundle
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Pen and Paper
 app.title.short: Pen and Paper
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: br.com.beholdstudios.knightspp
 pkg.source: humblebundle
 pkg.version: —

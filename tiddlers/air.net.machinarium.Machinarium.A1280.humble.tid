@@ -3,7 +3,7 @@ app.title.full: Machinarium
 app.title.short: Machinarium
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.net.machinarium.Machinarium.A1280.humble
 pkg.source: humblebundle
 pkg.version: —

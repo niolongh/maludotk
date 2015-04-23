@@ -3,7 +3,7 @@ app.title.full: CatLog
 app.title.short: CatLog
 app.type: non-game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.nolanlawson.logcat
 pkg.source: com.android.vending
 pkg.version: —

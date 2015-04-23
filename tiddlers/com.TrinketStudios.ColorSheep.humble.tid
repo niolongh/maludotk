@@ -3,7 +3,7 @@ app.title.full: Color Sheep
 app.title.short: Color Sheep
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.TrinketStudios.ColorSheep.humble
 pkg.source: humblebundle
 pkg.version: —

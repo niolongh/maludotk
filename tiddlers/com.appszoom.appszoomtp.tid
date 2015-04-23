@@ -3,7 +3,7 @@ app.title.full: AppsZoom Today's Pick
 app.title.short: AppsZoom Today's Pick
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.appszoom.appszoomtp
 pkg.source: com.android.vending
 pkg.version: —

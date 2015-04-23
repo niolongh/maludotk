@@ -3,7 +3,7 @@ app.title.full: RoboZZle Droid
 app.title.short: RoboZZle Droid
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.team242.robozzle
 pkg.source: com.android.vending
 pkg.version: —

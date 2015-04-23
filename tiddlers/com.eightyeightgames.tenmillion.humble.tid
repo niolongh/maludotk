@@ -3,7 +3,7 @@ app.title.full: 10000000
 app.title.short: 10000000
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.eightyeightgames.tenmillion.humble
 pkg.source: humblebundle
 pkg.version: —

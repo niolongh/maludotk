@@ -3,7 +3,7 @@ app.title.full: Pocket Planes
 app.title.short: Pocket Planes
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.mobage.ww.a987.PocketPlanes_Android
 pkg.source: com.android.vending
 pkg.version: —

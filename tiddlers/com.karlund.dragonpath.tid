@@ -3,7 +3,7 @@ app.title.full: Path of Dragons
 app.title.short: Path of Dragons
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.karlund.dragonpath
 pkg.source: com.android.vending
 pkg.version: —

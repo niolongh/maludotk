@@ -3,7 +3,7 @@ app.title.full: BeTrains
 app.title.short: BeTrains
 app.type: non-game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: tof.cv.mpp
 pkg.source: f-droid
 pkg.version: —

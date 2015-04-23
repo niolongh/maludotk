@@ -3,7 +3,7 @@ app.title.full: Atomic
 app.title.short: Atomic
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.lorisware.Atomic
 pkg.source: com.android.vending
 pkg.version: —

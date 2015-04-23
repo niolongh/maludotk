@@ -3,7 +3,7 @@ app.title.full: Ancient Engine
 app.title.short: Ancient Engine
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.newrain.ae
 pkg.source: com.android.vending
 pkg.version: —

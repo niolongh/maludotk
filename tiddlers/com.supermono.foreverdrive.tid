@@ -3,7 +3,7 @@ app.title.full: Forever Drive
 app.title.short: Forever Drive
 app.type: game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.supermono.foreverdrive
 pkg.source: com.android.vending
 pkg.version: —

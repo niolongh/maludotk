@@ -3,7 +3,7 @@ app.title.full: PrintHand
 app.title.short: PrintHand
 app.type: non-game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dynamixsoftware.printhand.premium
 pkg.source: com.amazon.venezia
 pkg.version: —

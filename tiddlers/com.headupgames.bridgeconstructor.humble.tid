@@ -3,7 +3,7 @@ app.title.full: Bridge Constructor
 app.title.short: Bridge Constructor
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.headupgames.bridgeconstructor.humble
 pkg.source: humblebundle
 pkg.version: —

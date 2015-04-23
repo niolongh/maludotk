@@ -3,7 +3,7 @@ app.title.full: Liquid Wars OS
 app.title.short: Liquid Wars OS
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.xenris.liquidwarsos
 pkg.source: fdroid
 pkg.version: —

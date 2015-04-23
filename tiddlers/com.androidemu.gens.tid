@@ -3,7 +3,7 @@ app.title.full: Gensoid
 app.title.short: Gensoid
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.androidemu.gens
 pkg.source: web=http://sourceforge.net/projects/androidemu/files/
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Droid Tower
 app.title.short: Droid Tower
 app.type: game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.mow.droidtower
 pkg.source: com.android.vending
 pkg.version: —

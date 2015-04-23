@@ -3,7 +3,7 @@ app.title.full: NinjVillLite
 app.title.short: NinjVillLite
 app.type: game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.kairosoft.android.ninja_enL
 pkg.source: com.android.vending
 pkg.version: —

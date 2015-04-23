@@ -3,7 +3,7 @@ app.title.full: Doombad
 app.title.short: Doombad
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.turner.castledoombadfree
 pkg.source: com.android.vending
 pkg.version: —

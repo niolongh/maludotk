@@ -3,7 +3,7 @@ app.title.full: Little Things Forever
 app.title.short: Little Things Forever
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.klicktock.littlethings2
 pkg.source: com.android.vending
 pkg.version: —

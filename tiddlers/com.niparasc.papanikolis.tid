@@ -3,7 +3,7 @@ app.title.full: Papanikolis Submarine
 app.title.short: Papanikolis Submarine
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.niparasc.papanikolis
 pkg.source: fdroid
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: F.E.A.R.
 app.title.short: F.E.A.R.
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: au.com.tinmangames.fightingfantasy.appointmentwithfear.humble
 pkg.source: humblebundle
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Nyan Cat: Lost In Space
 app.title.short: Nyan Cat: Lost In Space
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.istomgames.engine
 pkg.source: com.amazon.venezia
 pkg.version: —

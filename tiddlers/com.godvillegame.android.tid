@@ -3,7 +3,7 @@ app.title.full: Godville
 app.title.short: Godville
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.godvillegame.android
 pkg.source: com.android.vending
 pkg.version: —

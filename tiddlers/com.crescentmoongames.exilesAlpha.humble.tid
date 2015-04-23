@@ -3,7 +3,7 @@ app.title.full: Exiles
 app.title.short: Exiles
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.crescentmoongames.exilesAlpha.humble
 pkg.source: humblebundle
 pkg.version: —

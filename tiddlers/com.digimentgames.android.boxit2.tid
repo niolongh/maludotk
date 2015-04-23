@@ -3,7 +3,7 @@ app.title.full: Box It! 2
 app.title.short: Box It! 2
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.digimentgames.android.boxit2
 pkg.source: com.amazon.venezia
 pkg.version: —

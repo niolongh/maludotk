@@ -3,7 +3,7 @@ app.title.full: Can You Escape - Adventure
 app.title.short: Can You Escape - Adventure
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.com.mobigrow.canyouescapeadventure
 pkg.source: com.amazon.venezia
 pkg.version: —

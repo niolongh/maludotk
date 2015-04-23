@@ -3,7 +3,7 @@ app.title.full: Star Traders RPG
 app.title.short: Star Traders RPG
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.corytrese.games.startraders
 pkg.source: com.android.vending
 pkg.version: —

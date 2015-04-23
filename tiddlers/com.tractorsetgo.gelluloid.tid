@@ -3,7 +3,7 @@ app.title.full: Gelluloid
 app.title.short: Gelluloid
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.tractorsetgo.gelluloid
 pkg.source: com.android.vending
 pkg.version: —

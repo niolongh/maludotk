@@ -3,7 +3,7 @@ app.title.full: AsciiCam
 app.title.short: AsciiCam
 app.type: non-game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dozingcatsoftware.asciicam
 pkg.source: f-droid
 pkg.version: —

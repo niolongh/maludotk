@@ -3,7 +3,7 @@ app.title.full: TWRP Manager
 app.title.short: TWRP Manager
 app.type: non-game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.jmz.soft.twrpmanager
 pkg.source: com.android.vending
 pkg.version: —

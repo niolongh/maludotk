@@ -3,7 +3,7 @@ app.title.full: Knock-Knock
 app.title.short: Knock-Knock
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.IcePick.KnockKnockRelease
 pkg.source: com.amazon.venezia
 pkg.version: —

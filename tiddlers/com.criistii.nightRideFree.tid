@@ -3,7 +3,7 @@ app.title.full: Night Ride - Free
 app.title.short: Night Ride - Free
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.criistii.nightRideFree
 pkg.source: com.android.vending
 pkg.version: —

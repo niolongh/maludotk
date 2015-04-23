@@ -3,7 +3,7 @@ app.title.full: Tiny Thief
 app.title.short: Tiny Thief
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.roviostars.tinythief
 pkg.source: com.amazon.venezia
 pkg.version: —

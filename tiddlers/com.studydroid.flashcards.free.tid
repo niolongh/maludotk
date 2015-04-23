@@ -3,7 +3,7 @@ app.title.full: StudyDroid
 app.title.short: StudyDroid
 app.type: non-game
 created: 20150305160500000
-modifier: YourName
+modifier: niol
 pkg.filename: com.studydroid.flashcards.free
 pkg.source: com.android.vending
 pkg.version: —

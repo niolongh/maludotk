@@ -3,7 +3,7 @@ app.title.full: Hydra Slayer
 app.title.short: Hydra Slayer
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.roguetemple.hydroid
 pkg.source: fdroid
 pkg.version: —

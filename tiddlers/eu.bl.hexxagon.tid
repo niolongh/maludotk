@@ -3,7 +3,7 @@ app.title.full: Hexxagon
 app.title.short: Hexxagon
 app.type: game
 created: 20150305160900000
-modifier: YourName
+modifier: niol
 pkg.filename: eu.bl.hexxagon
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Pirates/Ninjas
 app.title.short: Pirates/Ninjas
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.familyroomgames.piratesvsninjas
 pkg.source: com.android.vending
 pkg.version: —

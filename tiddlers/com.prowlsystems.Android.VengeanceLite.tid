@@ -3,7 +3,7 @@ app.title.full: Vengeance Lite
 app.title.short: Vengeance Lite
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.prowlsystems.Android.VengeanceLite
 pkg.source: com.android.vending
 pkg.version: —

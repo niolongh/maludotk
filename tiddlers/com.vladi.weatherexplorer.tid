@@ -3,7 +3,7 @@ app.title.full: WeXplorer
 app.title.short: WeXplorer
 app.type: non-game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.vladi.weatherexplorer
 pkg.source: com.amazon.venezia
 pkg.version: —

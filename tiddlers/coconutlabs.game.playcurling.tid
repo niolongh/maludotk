@@ -3,7 +3,7 @@ app.title.full: Play! Curling
 app.title.short: Play! Curling
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: coconutlabs.game.playcurling
 pkg.source: com.android.vending
 pkg.version: —

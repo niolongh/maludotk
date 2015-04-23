@@ -3,7 +3,7 @@ app.title.full: Riptide GP2
 app.title.short: Riptide GP2
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.vectorunit.red.humble
 pkg.source: humblebundle
 pkg.version: —

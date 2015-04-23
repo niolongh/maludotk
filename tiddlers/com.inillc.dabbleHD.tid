@@ -3,7 +3,7 @@ app.title.full: Dabble HD
 app.title.short: Dabble HD
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.inillc.dabbleHD
 pkg.source: com.amazon.venezia
 pkg.version: —

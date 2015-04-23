@@ -3,7 +3,7 @@ app.title.full: Neko Project II for Android
 app.title.short: Neko Project II for Android
 app.type: game
 created: 20150305161000000
-modifier: YourName
+modifier: niol
 pkg.filename: jp.sawada.np2android
 pkg.source: fdroid
 pkg.version: —

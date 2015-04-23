@@ -3,7 +3,7 @@ app.title.full: GMD Gesture Control
 app.title.short: GMD Gesture Control
 app.type: non-game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.goodmooddroid.gesturecontroldemo
 pkg.source: com.android.vending
 pkg.version: —

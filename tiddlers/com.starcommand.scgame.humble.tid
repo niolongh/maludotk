@@ -3,7 +3,7 @@ app.title.full: Star Command
 app.title.short: Star Command
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.starcommand.scgame.humble
 pkg.source: humblebundle
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Astonishing Comic Reader
 app.title.short: Astonishing Comic Reader
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.aerilys.acr.android
 pkg.source: com.android.vending
 pkg.version: —

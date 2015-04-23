@@ -3,7 +3,7 @@ app.title.full: Prey
 app.title.short: Prey
 app.type: non-game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.prey
 pkg.source: com.android.vending
 pkg.version: —

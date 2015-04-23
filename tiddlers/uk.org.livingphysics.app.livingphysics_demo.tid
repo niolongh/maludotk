@@ -3,7 +3,7 @@ app.title.full: Living Physics
 app.title.short: Living Physics
 app.type: game
 created: 20150305161600000
-modifier: YourName
+modifier: niol
 pkg.filename: uk.org.livingphysics.app.livingphysics_demo
 pkg.source: com.android.vending
 pkg.version: —

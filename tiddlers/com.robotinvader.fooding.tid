@@ -3,7 +3,7 @@ app.title.full: Rise of Blobs
 app.title.short: Rise of Blobs
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.robotinvader.fooding
 pkg.source: com.android.vending
 pkg.version: —

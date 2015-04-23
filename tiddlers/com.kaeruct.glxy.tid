@@ -3,7 +3,7 @@ app.title.full: GLXY
 app.title.short: GLXY
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.kaeruct.glxy
 pkg.source: fdroid
 pkg.version: —

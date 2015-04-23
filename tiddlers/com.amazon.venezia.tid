@@ -3,7 +3,7 @@ app.title.full: Appstore
 app.title.short: Appstore
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.amazon.venezia
 pkg.source: web=http://www.amazon.com/
 pkg.version: —

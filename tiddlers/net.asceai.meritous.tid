@@ -3,7 +3,7 @@ app.title.full: Meritous
 app.title.short: Meritous
 app.type: game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.asceai.meritous
 pkg.source: fdroid
 pkg.version: —

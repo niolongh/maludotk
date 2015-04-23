@@ -3,7 +3,7 @@ app.title.full: Voodoo OTA RootKeeper
 app.title.short: Voodoo OTA RootKeeper
 app.type: non-game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.projectvoodoo.otarootkeeper
 pkg.source: com.android.vending
 pkg.version: —

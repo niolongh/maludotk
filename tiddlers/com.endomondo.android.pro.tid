@@ -3,7 +3,7 @@ app.title.full: Endomondo PRO
 app.title.short: Endomondo PRO
 app.type: non-game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.endomondo.android.pro
 pkg.source: com.amazon.venezia
 pkg.version: —

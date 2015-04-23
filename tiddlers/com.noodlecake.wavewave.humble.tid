@@ -3,7 +3,7 @@ app.title.full: Wave Wave
 app.title.short: Wave Wave
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.noodlecake.wavewave.humble
 pkg.source: humblebundle
 pkg.version: —

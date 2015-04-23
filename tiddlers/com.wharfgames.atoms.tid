@@ -3,7 +3,7 @@ app.title.full: Atoms
 app.title.short: Atoms
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.wharfgames.atoms
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: HK "Français (fr)" Dictionary
 app.title.short: HK "Français (fr)" Dictionary
 app.type: non-game
 created: 20150305161300000
-modifier: YourName
+modifier: niol
 pkg.filename: org.pocketworkstation.dict.fr
 pkg.source: com.android.vending
 pkg.version: —

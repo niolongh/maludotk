@@ -3,7 +3,7 @@ app.title.full: The Bard's Tale
 app.title.short: The Bard's Tale
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.inxile.BardTale
 pkg.source: humblebundle
 pkg.version: —

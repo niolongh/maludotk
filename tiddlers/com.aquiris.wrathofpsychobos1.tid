@@ -3,7 +3,7 @@ app.title.full: Ben 10: Wrath of Psychobos
 app.title.short: Ben 10: Wrath of Psychobos
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.aquiris.wrathofpsychobos1
 pkg.source: humblebundle
 pkg.version: —

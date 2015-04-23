@@ -3,7 +3,7 @@ app.title.full: Gobang Board Game
 app.title.short: Gobang Board Game
 app.type: game
 created: 20150305160800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.zhihua.gobang
 pkg.source: com.android.vending
 pkg.version: —

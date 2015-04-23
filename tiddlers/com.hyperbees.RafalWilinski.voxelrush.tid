@@ -3,7 +3,7 @@ app.title.full: Voxel Rush
 app.title.short: Voxel Rush
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.hyperbees.RafalWilinski.voxelrush
 pkg.source: com.android.vending
 pkg.version: —

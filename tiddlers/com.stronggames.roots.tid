@@ -3,7 +3,7 @@ app.title.full: R.O.O.T.S
 app.title.short: R.O.O.T.S
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.stronggames.roots
 pkg.source: com.android.vending
 pkg.version: —

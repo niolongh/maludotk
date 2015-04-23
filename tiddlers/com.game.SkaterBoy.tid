@@ -3,7 +3,7 @@ app.title.full: Skater Boy
 app.title.short: Skater Boy
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.game.SkaterBoy
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Dominate
 app.title.short: Dominate
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.jesttek.dominate
 pkg.source: com.android.vending
 pkg.version: —

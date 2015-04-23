@@ -3,7 +3,7 @@ app.title.full: Catan
 app.title.short: Catan
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.exozet.android.catan
 pkg.source: humblebundle
 pkg.version: —

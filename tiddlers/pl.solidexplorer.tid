@@ -3,7 +3,7 @@ app.title.full: Solid Explorer (Trial)
 app.title.short: Solid Explorer (Trial)
 app.type: non-game
 created: 20150305161400000
-modifier: YourName
+modifier: niol
 pkg.filename: pl.solidexplorer
 pkg.source: com.android.vending
 pkg.version: —

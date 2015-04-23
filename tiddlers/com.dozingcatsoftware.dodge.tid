@@ -3,7 +3,7 @@ app.title.full: Dodge
 app.title.short: Dodge
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dozingcatsoftware.dodge
 pkg.source: fdroid
 pkg.version: —

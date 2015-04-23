@@ -3,7 +3,7 @@ app.title.full: Hyper Jump (Lite)
 app.title.short: Hyper Jump (Lite)
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.camelgames.hyperjumplite
 pkg.source: com.android.vending
 pkg.version: —

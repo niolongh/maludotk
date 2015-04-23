@@ -3,7 +3,7 @@ app.title.full: Wattpad
 app.title.short: Wattpad
 app.type: non-game
 created: 20150305161600000
-modifier: YourName
+modifier: niol
 pkg.filename: wp.wattpad
 pkg.source: com.android.vending
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Frontiers
 app.title.short: Frontiers
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ironhidegames.android.kingdomrushfrontiers.humble
 pkg.source: humblebundle
 pkg.version: —

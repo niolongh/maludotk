@@ -3,7 +3,7 @@ app.title.full: Anomaly KR
 app.title.short: Anomaly KR
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.elevenbitstudios.humblebundle.AnomalyKorea
 pkg.source: humblebundle
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Clash
 app.title.short: Clash
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ubisoft.mightandmagic.clashofheroes
 pkg.source: com.amazon.venezia
 pkg.version: —

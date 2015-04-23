@@ -3,7 +3,7 @@ app.title.full: TegraZone
 app.title.short: TegraZone
 app.type: non-game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.nvidia.tegrazone
 pkg.source: com.android.vending
 pkg.version: —

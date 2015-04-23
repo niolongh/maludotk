@@ -3,7 +3,7 @@ app.title.full: Dolphin Emulator
 app.title.short: Dolphin Emulator
 app.type: non-game
 created: 20150305161200000
-modifier: YourName
+modifier: niol
 pkg.filename: org.dolphinemu.dolphinemu
 pkg.source: fdroid
 pkg.version: —

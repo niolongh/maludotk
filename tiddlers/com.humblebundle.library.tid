@@ -3,7 +3,7 @@ app.title.full: Humble Bundle
 app.title.short: Humble Bundle
 app.type: non-game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.humblebundle.library
 pkg.source: com.android.vending
 pkg.version: —

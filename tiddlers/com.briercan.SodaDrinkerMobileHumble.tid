@@ -3,7 +3,7 @@ app.title.full: Soda Drinker Pro
 app.title.short: Soda Drinker Pro
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.briercan.SodaDrinkerMobileHumble
 pkg.source: humblebundle
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: English MessagEase Wordlist
 app.title.short: English MessagEase Wordlist
 app.type: non-game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.exideas.cp.words.english
 pkg.source: com.android.vending
 pkg.version: —

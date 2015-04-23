@@ -3,7 +3,7 @@ app.title.full: Ataxx Domination
 app.title.short: Ataxx Domination
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.AtaxxDomination.Free
 pkg.source: com.android.vending
 pkg.version: —

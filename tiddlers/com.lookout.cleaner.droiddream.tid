@@ -3,7 +3,7 @@ app.title.full: DroidDream Cleaner
 app.title.short: DroidDream Cleaner
 app.type: non-game
 created: 20150305160100000
-modifier: YourName
+modifier: niol
 pkg.filename: com.lookout.cleaner.droiddream
 pkg.source: com.android.vending
 pkg.version: —

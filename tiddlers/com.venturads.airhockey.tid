@@ -3,7 +3,7 @@ app.title.full: AirHockeyFun
 app.title.short: AirHockeyFun
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.venturads.airhockey
 pkg.source: com.amazon.venezia
 pkg.version: —

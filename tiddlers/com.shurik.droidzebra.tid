@@ -3,7 +3,7 @@ app.title.full: DroidZebra
 app.title.short: DroidZebra
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.shurik.droidzebra
 pkg.source: fdroid
 pkg.version: —

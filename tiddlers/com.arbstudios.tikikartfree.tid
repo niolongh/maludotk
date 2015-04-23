@@ -3,7 +3,7 @@ app.title.full: com.arbstudios.tikikartfree
 app.title.short: com.arbstudios.tikikartfree
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.arbstudios.tikikartfree
 pkg.source: com.android.vending
 pkg.version: —

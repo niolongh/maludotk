@@ -3,7 +3,7 @@ app.title.full: Evoker
 app.title.short: Evoker
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.flaregames.craftedevil
 pkg.source: com.android.vending
 pkg.version: —

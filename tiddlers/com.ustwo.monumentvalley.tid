@@ -3,7 +3,7 @@ app.title.full: Monument Valley
 app.title.short: Monument Valley
 app.type: game
 created: 20150305160700000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ustwo.monumentvalley
 pkg.source: com.amazon.venezia
 pkg.version: —

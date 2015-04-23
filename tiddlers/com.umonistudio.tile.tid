@@ -3,7 +3,7 @@ app.title.full: Piano Tiles
 app.title.short: Piano Tiles
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.umonistudio.tile
 pkg.source: com.android.vending
 pkg.version: —

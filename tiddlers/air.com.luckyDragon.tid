@@ -3,7 +3,7 @@ app.title.full: Lucky Dragon
 app.title.short: Lucky Dragon
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.com.luckyDragon
 pkg.source: com.amazon.venezia
 pkg.version: —

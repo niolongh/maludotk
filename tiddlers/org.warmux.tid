@@ -3,7 +3,7 @@ app.title.full: Warmux
 app.title.short: Warmux
 app.type: game
 created: 20150305161400000
-modifier: YourName
+modifier: niol
 pkg.filename: org.warmux
 pkg.source: com.android.vending
 pkg.version: —

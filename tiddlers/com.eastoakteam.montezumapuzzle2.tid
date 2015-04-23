@@ -3,7 +3,7 @@ app.title.full: Montezuma Puzzle 2
 app.title.short: Montezuma Puzzle 2
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.eastoakteam.montezumapuzzle2
 pkg.source: com.amazon.venezia
 pkg.version: —

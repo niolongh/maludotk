@@ -3,7 +3,7 @@ app.title.full: ZMPP Free
 app.title.short: ZMPP Free
 app.type: non-game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: com.boxofrats.zmpp4droid
 pkg.source: com.android.vending
 pkg.version: —

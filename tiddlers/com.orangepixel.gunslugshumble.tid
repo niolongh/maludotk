@@ -3,7 +3,7 @@ app.title.full: Gunslugs
 app.title.short: Gunslugs
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.orangepixel.gunslugshumble
 pkg.source: humblebundle
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Crayon Physics DLX
 app.title.short: Crayon Physics DLX
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.kloonigames.crayon.humble
 pkg.source: humblebundle
 pkg.version: —

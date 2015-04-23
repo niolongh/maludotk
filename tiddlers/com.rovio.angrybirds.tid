@@ -3,7 +3,7 @@ app.title.full: Angry Birds
 app.title.short: Angry Birds
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.rovio.angrybirds
 pkg.source: com.android.vending
 pkg.version: —

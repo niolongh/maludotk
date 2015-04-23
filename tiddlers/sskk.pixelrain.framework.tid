@@ -3,7 +3,7 @@ app.title.full: Pixel Rain
 app.title.short: Pixel Rain
 app.type: game
 created: 20150305161500000
-modifier: YourName
+modifier: niol
 pkg.filename: sskk.pixelrain.framework
 pkg.source: com.android.vending
 pkg.version: —

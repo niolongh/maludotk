@@ -3,7 +3,7 @@ app.title.full: Retro Milk Inc. (Ad-Free)
 app.title.short: Retro Milk Inc. (Ad-Free)
 app.type: game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.sebalussolutions.milkinc
 pkg.source: com.amazon.venezia
 pkg.version: —

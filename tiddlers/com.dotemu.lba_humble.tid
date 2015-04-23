@@ -3,7 +3,7 @@ app.title.full: Little Big Adventure
 app.title.short: Little Big Adventure
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.dotemu.lba_humble
 pkg.source: humblebundle
 pkg.version: —

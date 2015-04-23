@@ -3,7 +3,7 @@ app.title.full: DieDroid
 app.title.short: DieDroid
 app.type: game
 created: 20150305161100000
-modifier: YourName
+modifier: niol
 pkg.filename: net.logomancy.diedroid
 pkg.source: fdroid
 pkg.version: —

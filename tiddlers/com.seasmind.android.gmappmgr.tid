@@ -3,7 +3,7 @@ app.title.full: Gemini App Manager
 app.title.short: Gemini App Manager
 app.type: non-game
 created: 20150305160300000
-modifier: YourName
+modifier: niol
 pkg.filename: com.seasmind.android.gmappmgr
 pkg.source: com.android.vending
 pkg.version: —

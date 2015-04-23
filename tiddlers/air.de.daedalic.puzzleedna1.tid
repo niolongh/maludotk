@@ -3,7 +3,7 @@ app.title.full: Edna & Harvey – The Puzzle
 app.title.short: Edna & Harvey – The Puzzle
 app.type: game
 created: 20150305155800000
-modifier: YourName
+modifier: niol
 pkg.filename: air.de.daedalic.puzzleedna1
 pkg.source: com.amazon.venezia
 pkg.version: —

@@ -3,7 +3,7 @@ app.title.full: Slice Summer
 app.title.short: Slice Summer
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.feelingtouch.newslash2
 pkg.source: com.android.vending
 pkg.version: —

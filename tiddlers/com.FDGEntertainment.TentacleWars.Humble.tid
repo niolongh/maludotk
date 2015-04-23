@@ -3,7 +3,7 @@ app.title.full: Tentacle Wars
 app.title.short: Tentacle Wars
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.FDGEntertainment.TentacleWars.Humble
 pkg.source: humblebundle
 pkg.version: —

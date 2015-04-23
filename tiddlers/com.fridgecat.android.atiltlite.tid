@@ -3,7 +3,7 @@ app.title.full: aTilt 3D Labyrinth Free
 app.title.short: aTilt 3D Labyrinth Free
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.fridgecat.android.atiltlite
 pkg.source: com.android.vending
 pkg.version: —

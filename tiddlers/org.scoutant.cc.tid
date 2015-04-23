@@ -3,7 +3,7 @@ app.title.full: Chinese Checkers
 app.title.short: Chinese Checkers
 app.type: game
 created: 20150305161400000
-modifier: YourName
+modifier: niol
 pkg.filename: org.scoutant.cc
 pkg.source: fdroid
 pkg.version: —

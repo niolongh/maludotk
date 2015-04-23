@@ -3,7 +3,7 @@ app.title.full: Marble Legend
 app.title.short: Marble Legend
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.easygame.marblelegend
 pkg.source: com.android.vending
 pkg.version: —

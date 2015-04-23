@@ -3,7 +3,7 @@ app.title.full: Nonograms Katana
 app.title.short: Nonograms Katana
 app.type: game
 created: 20150305160600000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ucdevs.jcross
 pkg.source: com.android.vending
 pkg.version: —

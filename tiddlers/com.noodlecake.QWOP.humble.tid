@@ -3,7 +3,7 @@ app.title.full: QWOP
 app.title.short: QWOP
 app.type: game
 created: 20150305160200000
-modifier: YourName
+modifier: niol
 pkg.filename: com.noodlecake.QWOP.humble
 pkg.source: humblebundle
 pkg.version: —

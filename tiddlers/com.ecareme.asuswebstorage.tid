@@ -3,7 +3,7 @@ app.title.full: WebStorage
 app.title.short: WebStorage
 app.type: non-game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.ecareme.asuswebstorage
 pkg.source: com.android.vending
 pkg.version: —

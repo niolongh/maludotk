@@ -3,7 +3,7 @@ app.title.full: Epta
 app.title.short: Epta
 app.type: game
 created: 20150305155900000
-modifier: YourName
+modifier: niol
 pkg.filename: com.grapecom.epta
 pkg.source: com.android.vending
 pkg.version: —

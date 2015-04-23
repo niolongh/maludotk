@@ -1,0 +1,23 @@
+created: 20150421181928289
+modified: 20150421182459329
+tags: 
+title: vg.listAtag
+type: text/vnd.tiddlywiki
+
+<$edit-text 
+  tiddler="$:/temp/vg.list-this-tag" 
+  tag="input" 
+  type="text"
+/>
+<$button class=<<tv-config-toolbar-class>>>
+<$action-sendmessage
+  $message="tm-new-tiddler"
+  $param="vg.Skeleton"
+  title={{$:/temp/vg.list-this-tag}}
+  tags="videogame" />
+{{$:/core/images/new-button}}
+</$button>
+
+<ul><$list filter="[tag[{{$:/temp/vg.list-this-tag}}]sort[title]]">
+<li>{{!!title||vg.Template.Entry}}</li>
+</$list></ul>

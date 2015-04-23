@@ -3,7 +3,7 @@ app.title.full: GnG Heroes
 app.title.short: GnG Heroes
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.hg.gunsandglory3
 pkg.source: com.amazon.venezia
 pkg.version: —

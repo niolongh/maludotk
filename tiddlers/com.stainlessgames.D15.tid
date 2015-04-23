@@ -3,7 +3,7 @@ app.title.full: Magic 2015
 app.title.short: Magic 2015
 app.type: game
 created: 20150305160400000
-modifier: YourName
+modifier: niol
 pkg.filename: com.stainlessgames.D15
 pkg.source: com.android.vending
 pkg.version: —

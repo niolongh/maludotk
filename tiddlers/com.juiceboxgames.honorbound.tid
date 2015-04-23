@@ -3,7 +3,7 @@ app.title.full: HonorBound
 app.title.short: HonorBound
 app.type: game
 created: 20150305160000000
-modifier: YourName
+modifier: niol
 pkg.filename: com.juiceboxgames.honorbound
 pkg.source: com.android.vending
 pkg.version: —
