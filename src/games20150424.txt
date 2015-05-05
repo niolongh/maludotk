@@ -61,7 +61,7 @@ app.title.short: 80 Days
 app.type: game
 modifier: niol
 pkg.filename: com.inkle.eightydays
-pkg.source: com.amazon.venezia
+pkg.source: humblebundle
 pkg.version: 1.0.6 (=1060)
 review.rating: ―
 review.status: juste créé
@@ -3590,7 +3590,7 @@ type: text/vnd.tiddlywiki
 
 ―
 app.credits: Tin Man Games
-app.title.full: To Be or Not To Be
+app.title.full: Ryan North's To Be or Not To Be
 app.title.short: To Be
 app.type: game
 modifier: niol
