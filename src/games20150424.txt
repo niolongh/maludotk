@@ -5,7 +5,7 @@ app.title.short: #sworcery
 app.type: game
 modifier: niol
 pkg.filename: com.capybaragames.sworcery.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.19hb (=1398275123)
 review.rating: ―
 review.status: juste créé
@@ -37,18 +37,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
+app.credits: EightyEight Games
 app.title.full: 10000000
 app.title.short: 10000000
 app.type: game
 modifier: niol
 pkg.filename: com.eightyeightgames.tenmillion.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.2.47 (=50000)
-review.rating: ―
+review.rating: +
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame [[dungeon crawl]] [[match 3]] puzzle puzzle
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -119,7 +119,7 @@ app.title.short: Aaaaaaaaaa!
 app.type: game
 modifier: niol
 pkg.filename: com.dejobaangames.awesome.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.6 (=26)
 review.rating: ―
 review.status: juste créé
@@ -157,7 +157,7 @@ app.title.short: Alpha Wave
 app.type: game
 modifier: niol
 pkg.filename: com.hardlinestudios.alphawave.humblebundle
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.1.1 (=1001001)
 review.rating: ―
 review.status: juste créé
@@ -265,18 +265,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: Assassin
+app.credits: Tin Man Games
+app.title.full: Gamebook Adventures [01] An Assassin in Orlandes
 app.title.short: Assassin
 app.type: game
 modifier: niol
 pkg.filename: au.com.tinmangames.gamebook1android.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 4.7.2.2 (=4722)
 review.rating: ―
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame gamebook
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -284,18 +284,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: Auro
+app.credits: Dinofarm Games
+app.title.full: Auro: A Monster-Bumping Adventure
 app.title.short: Auro
 app.type: game
 modifier: niol
 pkg.filename: air.DinofarmAuro
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.29.0 (=1029000)
-review.rating: ―
-review.status: juste créé
+review.rating: +
+review.status: didacticiel
 review.summary: ―
-tags: videogame 
+tags: videogame puzzle board roguelike
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -303,18 +303,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
+app.credits: Lucky Frame
 app.title.full: Bad Hotel
 app.title.short: Bad Hotel
 app.type: game
 modifier: niol
 pkg.filename: cc.openframeworks.humbleBadHotel
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0 (=1)
-review.rating: ―
+review.rating: +
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame [[tower defense]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -328,7 +328,7 @@ app.title.short: Bag It!
 app.type: game
 modifier: niol
 pkg.filename: com.hiddenvariable.bagit.hb
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 3.2.1 (=34)
 review.rating: ―
 review.status: juste créé
@@ -366,7 +366,7 @@ app.title.short: Bardbarian - Humble Bundle Edition
 app.type: game
 modifier: niol
 pkg.filename: air.com.treefortress.Bardbarian.HumbleBundle
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.4.7 (=1004007)
 review.rating: ―
 review.status: juste créé
@@ -385,7 +385,7 @@ app.title.short: Blocks
 app.type: game
 modifier: niol
 pkg.filename: com.noodlecake.theblockscometh.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.7 (=1418672009)
 review.rating: ―
 review.status: juste créé
@@ -455,18 +455,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: Breach and Clear
+app.credits: Gun Media
+app.title.full: Breach & Clear
 app.title.short: Breach and Clear
 app.type: game
 modifier: niol
 pkg.filename: com.gun.bnc.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.32e (=332)
 review.rating: ―
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame [[squad combat]] [[turn-based]] tactical
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -480,7 +480,7 @@ app.title.short: Canabalt HD
 app.type: game
 modifier: niol
 pkg.filename: fishnoodle.canabalt_humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 2.11 (=16)
 review.rating: ―
 review.status: juste créé
@@ -499,7 +499,7 @@ app.title.short: Carcassonne
 app.type: game
 modifier: niol
 pkg.filename: com.exozet.game.carcassonne
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 2.0.1f13020 (=13021)
 review.rating: ―
 review.status: juste créé
@@ -556,7 +556,7 @@ app.title.short: Catan
 app.type: game
 modifier: niol
 pkg.filename: com.exozet.android.catan
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 4.1.0 (=41003)
 review.rating: ―
 review.status: juste créé
@@ -607,18 +607,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: Clockwork Tales (Full)
+app.credits: Artifex Mundi sp. z.o.o.
+app.title.full: Clockwork Tales: Of Glass and Ink (Full)
 app.title.short: Clockwork Tales (Full)
 app.type: game
 modifier: niol
 pkg.filename: com.artifexmundi.clockwork.amzn.full
 pkg.source: com.amazon.venezia
 pkg.version: 1.1 (=1014)
-review.rating: ―
-review.status: juste créé
+review.rating: +
+review.status: test sur plusieurs niveaux
 review.summary: ―
-tags: videogame 
+tags: videogame adventure [[point'n'click]] [[hidden objects]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -632,7 +632,7 @@ app.title.short: CN Superstar Soccer
 app.type: game
 modifier: niol
 pkg.filename: com.turner.copatoon
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.8.0 (=2500)
 review.rating: ―
 review.status: juste créé
@@ -651,7 +651,7 @@ app.title.short: Combo Crew
 app.type: game
 modifier: niol
 pkg.filename: com.thegamebakers.combocrew
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.3.2 (=94)
 review.rating: ―
 review.status: juste créé
@@ -727,7 +727,7 @@ app.title.short: Cubemen2
 app.type: game
 modifier: niol
 pkg.filename: com.threesprockets.cubemen2_humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.25 (=1)
 review.rating: ―
 review.status: juste créé
@@ -740,18 +740,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: Curse
+app.credits: Tin Man Games
+app.title.full: Gamebook Adventures [08] Curse of the Assassin
 app.title.short: Curse
 app.type: game
 modifier: niol
 pkg.filename: au.com.tinmangames.ga.curseoftheassassin.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.1.1.0 (=1110)
 review.rating: ―
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame gamebook
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -765,7 +765,7 @@ app.title.short: D. Grimoire
 app.type: game
 modifier: niol
 pkg.filename: air.com.sfbgames.DetectiveGrimoire
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.2 (=1000002)
 review.rating: ―
 review.status: juste créé
@@ -822,7 +822,7 @@ app.title.short: Devil's Attorney
 app.type: game
 modifier: niol
 pkg.filename: com.senri.da.hb
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.4 (=20)
 review.rating: ―
 review.status: juste créé
@@ -841,7 +841,7 @@ app.title.short: Devious Dungeon
 app.type: game
 modifier: niol
 pkg.filename: com.noodlecake.deviousdungeon.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.2.1 (=10)
 review.rating: ―
 review.status: juste créé
@@ -854,18 +854,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: Doctor Who
+app.credits: Tiny Rebel Games
+app.title.full: Doctor Who: Legacy
 app.title.short: Doctor Who
 app.type: game
 modifier: niol
 pkg.filename: com.tinyrebel.doctorwholegacy
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 2.5.1 (=36)
-review.rating: ―
+review.rating: +
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame puzzle [[match 3]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -879,7 +879,7 @@ app.title.short: Don't Move
 app.type: game
 modifier: niol
 pkg.filename: com.steverichey.dontmovehumble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.3.5 (=135)
 review.rating: ―
 review.status: juste créé
@@ -955,7 +955,7 @@ app.title.short: Duet Premium
 app.type: game
 modifier: niol
 pkg.filename: com.kumobius.android.duet.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 2.2.0 (=122)
 review.rating: ―
 review.status: juste créé
@@ -993,7 +993,7 @@ app.title.short: Dynamite Jack
 app.type: game
 modifier: niol
 pkg.filename: com.galcon.dynamitejack.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.24 (=1000024)
 review.rating: ―
 review.status: juste créé
@@ -1006,18 +1006,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
+app.credits: Finji
 app.title.full: Eliss ∞
 app.title.short: Eliss ∞
 app.type: game
 modifier: niol
 pkg.filename: com.littleeyes.eliss_infinity
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.1.3 (=1407192132)
-review.rating: ―
+review.rating: +
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame arcade puzzle [[real-time]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -1031,7 +1031,7 @@ app.title.short: Eufloria
 app.type: game
 modifier: niol
 pkg.filename: com.omnilabs.eufloria.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.12hb (=1369427402)
 review.rating: ―
 review.status: juste créé
@@ -1044,18 +1044,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: F.E.A.R.
+app.credits: Tin Man Games
+app.title.full: Fighting Fantasy [17] Appointment with F.E.A.R.
 app.title.short: F.E.A.R.
 app.type: game
 modifier: niol
 pkg.filename: au.com.tinmangames.fightingfantasy.appointmentwithfear.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.2398 (=2398)
 review.rating: ―
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame gamebook
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -1063,13 +1063,13 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: FF:FOD
+app.credits: Tin Man Games
+app.title.full: Fighting Fantasy [03] The Forest of Doom
 app.title.short: FF:FOD
 app.type: game
 modifier: niol
 pkg.filename: au.com.tinmangames.fightingfantasy.forestofdoom.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.2990 (=52990)
 review.rating: ―
 review.status: juste créé
@@ -1088,7 +1088,7 @@ app.title.short: FirstStrike
 app.type: game
 modifier: niol
 pkg.filename: ch.feinheit.games.firststrike_humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.1.2 (=10204)
 review.rating: ―
 review.status: juste créé
@@ -1107,7 +1107,7 @@ app.title.short: Five Nights at Freddys
 app.type: game
 modifier: niol
 pkg.filename: com.scottgames.fivenights_humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.77 (=16)
 review.rating: ―
 review.status: juste créé
@@ -1126,7 +1126,7 @@ app.title.short: Fractal
 app.type: game
 modifier: niol
 pkg.filename: com.cipherprime.fractal.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.2 (=1)
 review.rating: ―
 review.status: juste créé
@@ -1158,18 +1158,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
+app.credits: Mode 7 Limited
 app.title.full: Frozen Synapse
 app.title.short: Frozen Synapse
 app.type: game
 modifier: niol
 pkg.filename: com.mode7games.frozensynapse.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.1 (=1372103312)
-review.rating: ―
+review.rating: +
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame [[squad combat]] tactical [[turn-based]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -1183,7 +1183,7 @@ app.title.short: GhostToasters
 app.type: game
 modifier: niol
 pkg.filename: com.turner.ghosttoasters
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.2 (=20)
 review.rating: ―
 review.status: juste créé
@@ -1202,7 +1202,7 @@ app.title.short: GLORK
 app.type: game
 modifier: niol
 pkg.filename: air.com.noodlecake.trialsOfGlork.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.4 (=1000004)
 review.rating: ―
 review.status: juste créé
@@ -1272,18 +1272,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
+app.credits: Noodlecake Studios Inc
 app.title.full: Gravity Duck
 app.title.short: Gravity Duck
 app.type: game
 modifier: niol
 pkg.filename: com.noodlecake.gravityduck.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.33.1 (=1418329410)
-review.rating: ―
+review.rating: +
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame platform [[gravity manipulation]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -1297,7 +1297,7 @@ app.title.short: Greed Corp
 app.type: game
 modifier: niol
 pkg.filename: com.invictus.greedcorp.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0 (=1)
 review.rating: ―
 review.status: juste créé
@@ -1335,7 +1335,7 @@ app.title.short: Gunslugs
 app.type: game
 modifier: niol
 pkg.filename: com.orangepixel.gunslugshumble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 2.0.8 (=22)
 review.rating: ―
 review.status: juste créé
@@ -1354,7 +1354,7 @@ app.title.short: Hack, Slash, Loot
 app.type: game
 modifier: niol
 pkg.filename: com.DavidWilliamson.HackSlashLoot
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.4 (=5)
 review.rating: ―
 review.status: juste créé
@@ -1430,7 +1430,7 @@ app.title.short: Hero Academy
 app.type: game
 modifier: niol
 pkg.filename: com.robotentertainment.heroacademy
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.4.2.2hb (=1383788360)
 review.rating: ―
 review.status: juste créé
@@ -1449,7 +1449,7 @@ app.title.short: Heroes of Loot
 app.type: game
 modifier: niol
 pkg.filename: com.orangepixel.dungeonhumble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.6.7 (=30)
 review.rating: ―
 review.status: juste créé
@@ -1487,7 +1487,7 @@ app.title.short: Hitman GO
 app.type: game
 modifier: niol
 pkg.filename: com.squareenixmontreal.hitmango
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.11.34363 (=11)
 review.rating: ―
 review.status: juste créé
@@ -1544,7 +1544,7 @@ app.title.short: Hundreds
 app.type: game
 modifier: niol
 pkg.filename: com.semisecretsoftware.Hundreds.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.3.1hb (=1383793892)
 review.rating: ―
 review.status: juste créé
@@ -1620,7 +1620,7 @@ app.title.short: iPollute
 app.type: game
 modifier: niol
 pkg.filename: il.co.novacom.avishay.iPollute_19hb
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.19h (=1)
 review.rating: ―
 review.status: juste créé
@@ -1639,7 +1639,7 @@ app.title.short: Ironclad Tactics
 app.type: game
 modifier: niol
 pkg.filename: com.zachtronics.ironcladtactics.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.05 (=6)
 review.rating: ―
 review.status: juste créé
@@ -1677,7 +1677,7 @@ app.title.short: Judge Dredd
 app.type: game
 modifier: niol
 pkg.filename: au.com.tinmangames.dredd.countdownsector106
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.4.0 (=1040)
 review.rating: ―
 review.status: juste créé
@@ -1690,18 +1690,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
+app.credits: State of Play Games
 app.title.full: KAMI
 app.title.short: KAMI
 app.type: game
 modifier: niol
 pkg.filename: air.com.stateofplaygames.kami
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.13 (=1000013)
-review.rating: ―
+review.rating: +
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame puzzle abstract [[match colour to fill map]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -1715,7 +1715,7 @@ app.title.short: Kawaii Killer
 app.type: game
 modifier: niol
 pkg.filename: com.tabemasu.kawaii.plushy.press
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: release 1.2b (=422)
 review.rating: ―
 review.status: juste créé
@@ -1753,7 +1753,7 @@ app.title.short: King of Dragon Pass
 app.type: game
 modifier: niol
 pkg.filename: com.herocraft.kodp
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.10 (=10010)
 review.rating: ―
 review.status: juste créé
@@ -1867,7 +1867,7 @@ app.title.short: Little Big Adventure
 app.type: game
 modifier: niol
 pkg.filename: com.dotemu.lba_humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.03 (=16)
 review.rating: ―
 review.status: juste créé
@@ -1886,7 +1886,7 @@ app.title.short: LYNE
 app.type: game
 modifier: niol
 pkg.filename: com.thomasbowker.lynerelease
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 110 (=110)
 review.rating: +
 review.status: test minimal
@@ -1905,7 +1905,7 @@ app.title.short: Machinarium
 app.type: game
 modifier: niol
 pkg.filename: com.AmanitaDesign.Machinarium.Humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 2.0.14 (=2000014)
 review.rating: ―
 review.status: juste créé
@@ -1918,18 +1918,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
+app.credits: Noodlecake Studios Inc
 app.title.full: Mage Gauntlet
 app.title.short: Mage Gauntlet
 app.type: game
 modifier: niol
 pkg.filename: com.noodlecake.magegauntlet.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.6 (=1418326601)
-review.rating: ―
+review.rating: +
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame [[action rpg]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -1981,7 +1981,7 @@ app.title.short: MAMBC
 app.type: game
 modifier: niol
 pkg.filename: com.SleepNinjaGames.MAMBC
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.2.5 (=24)
 review.rating: ―
 review.status: juste créé
@@ -2000,7 +2000,7 @@ app.title.short: McPixel
 app.type: game
 modifier: niol
 pkg.filename: air.gd.sos.mcpixel.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.1.1 (=1001001)
 review.rating: ―
 review.status: juste créé
@@ -2032,18 +2032,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: Montezuma Puzzle 3
+app.credits: The Oak Team
+app.title.full: Montezuma Puzzle 3 Premium
 app.title.short: Montezuma Puzzle 3
 app.type: game
 modifier: niol
 pkg.filename: com.eastoakteam.montezumapuzzle3
 pkg.source: com.amazon.venezia
 pkg.version: 1.0.0 (=1)
-review.rating: ―
-review.status: juste créé
-review.summary: ―
-tags: videogame 
+review.rating: +
+review.status: test sur plusieurs niveau
+review.summary: Dans la veine des pentaminos mais hexagonaux
+tags: videogame abstract jigsaw puzzle
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -2070,18 +2070,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: Necromancer
+app.credits: Tin Man Games
+app.title.full: Gamebook Adventures [02] Siege of the Necromancer
 app.title.short: Necromancer
 app.type: game
 modifier: niol
 pkg.filename: au.com.tinmangames.gamebook2android.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 4.6.5.0 (=4650)
 review.rating: ―
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame gamebook
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -2114,7 +2114,7 @@ app.title.short: NHex HD Humble Bundle
 app.type: game
 modifier: niol
 pkg.filename: com.bdc.nh.hd.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 10.08 (=1008)
 review.rating: ―
 review.status: juste créé
@@ -2190,7 +2190,7 @@ app.title.short: Osmos HD
 app.type: game
 modifier: niol
 pkg.filename: com.hemispheregames.osmos
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 2.0.4.1 (=1386386368)
 review.rating: ―
 review.status: juste créé
@@ -2209,7 +2209,7 @@ app.title.short: Out There
 app.type: game
 modifier: niol
 pkg.filename: com.miclos.humble.games.outthere
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.04.2 (=11)
 review.rating: ―
 review.status: juste créé
@@ -2266,7 +2266,7 @@ app.title.short: Pen and Paper
 app.type: game
 modifier: niol
 pkg.filename: br.com.beholdstudios.knightspp
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 2.20 (=220)
 review.rating: ―
 review.status: juste créé
@@ -2418,7 +2418,7 @@ app.title.short: Polymer
 app.type: game
 modifier: niol
 pkg.filename: com.noodlecake.polymer.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.02 (=1418407375)
 review.rating: ―
 review.status: juste créé
@@ -2475,7 +2475,7 @@ app.title.short: Pulse
 app.type: game
 modifier: niol
 pkg.filename: com.cipherprime.pulse.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.1.0 (=1000)
 review.rating: ―
 review.status: juste créé
@@ -2494,7 +2494,7 @@ app.title.short: Pumped 2
 app.type: game
 modifier: niol
 pkg.filename: com.noodlecake.pumped2.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0 (=3)
 review.rating: ―
 review.status: juste créé
@@ -2513,7 +2513,7 @@ app.title.short: Punch Quest
 app.type: game
 modifier: niol
 pkg.filename: com.noodlecake.punchquest.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.2.3 (=14)
 review.rating: ―
 review.status: juste créé
@@ -2551,7 +2551,7 @@ app.title.short: Quest of Dungeons
 app.type: game
 modifier: niol
 pkg.filename: com.davidamador.quest_of_dungeons
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.0.9 (=1009)
 review.rating: ―
 review.status: juste créé
@@ -2570,7 +2570,7 @@ app.title.short: R-TYPE
 app.type: game
 modifier: niol
 pkg.filename: com.dotemu.rtypehumble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 2.0.5 (=209)
 review.rating: ―
 review.status: juste créé
@@ -2589,7 +2589,7 @@ app.title.short: Rebuild
 app.type: game
 modifier: niol
 pkg.filename: air.com.sarahnorthway.rebuild2humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 3.12 (=3012000)
 review.rating: ―
 review.status: juste créé
@@ -2621,18 +2621,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: Rema
+app.credits: Tin Man Games
+app.title.full: Gamebook Adventures [03] Slaves of Rema
 app.title.short: Rema
 app.type: game
 modifier: niol
 pkg.filename: au.com.tinmangames.gamebook3android.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 3.5.1.1 (=3511)
 review.rating: ―
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame gamebook
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -2684,7 +2684,7 @@ app.title.short: Riptide GP2
 app.type: game
 modifier: niol
 pkg.filename: com.vectorunit.red.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.2 (=12)
 review.rating: ―
 review.status: juste créé
@@ -2722,7 +2722,7 @@ app.title.short: S&S
 app.type: game
 modifier: niol
 pkg.filename: com.twotribes.sns.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.9 (=1352962374)
 review.rating: ―
 review.status: juste créé
@@ -2741,7 +2741,7 @@ app.title.short: Savant - Ascent
 app.type: game
 modifier: niol
 pkg.filename: com.dpadstudio.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.52.1 (=1052001)
 review.rating: ―
 review.status: juste créé
@@ -2760,7 +2760,7 @@ app.title.short: SB Deluxe
 app.type: game
 modifier: niol
 pkg.filename: com.curvestudios.SBDeluxeHumble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.63.9 (=1063009)
 review.rating: ―
 review.status: juste créé
@@ -2792,18 +2792,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
+app.credits: Crescent Moon Games
 app.title.full: Shadow Blade
 app.title.short: Shadow Blade
 app.type: game
 modifier: niol
 pkg.filename: com.shadowblade.humble
-pkg.source: cm.aptoide.pt
+pkg.source: humblebundle
 pkg.version: 1.0.7 (=17)
-review.rating: ―
+review.rating: +
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame platform [[hack'n'slash]] ninja
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -2817,7 +2817,7 @@ app.title.short: Shadowrun
 app.type: game
 modifier: niol
 pkg.filename: com.harebrainedschemes.shadowrun
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.2.7 (=21)
 review.rating: ―
 review.status: juste créé
@@ -2836,7 +2836,7 @@ app.title.short: Shivah
 app.type: game
 modifier: niol
 pkg.filename: com.wadjeteye.shivah.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.1hb (=1399417208)
 review.rating: ―
 review.status: juste créé
@@ -2868,18 +2868,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
+app.credits: Captain Games
 app.title.full: Skullpogo
 app.title.short: Skullpogo
 app.type: game
 modifier: niol
 pkg.filename: com.expb.pogohumble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0 (=1)
-review.rating: ―
+review.rating: +
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame arcade
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -2893,7 +2893,7 @@ app.title.short: Slingshot Racing
 app.type: game
 modifier: niol
 pkg.filename: com.crescentmoongames.slingshotracing
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.3.3.3 (=13)
 review.rating: ―
 review.status: juste créé
@@ -2912,7 +2912,7 @@ app.title.short: Small World 2
 app.type: game
 modifier: niol
 pkg.filename: com.daysofwonder.smallworld2_humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 2.5.1-1370-7b552309 (=1370)
 review.rating: ―
 review.status: juste créé
@@ -2931,7 +2931,7 @@ app.title.short: SMB2-SE
 app.type: game
 modifier: niol
 pkg.filename: jp.com.ooi.android.smb2
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.2 (=3)
 review.rating: ―
 review.status: juste créé
@@ -2950,7 +2950,7 @@ app.title.short: Smugglers
 app.type: game
 modifier: niol
 pkg.filename: com.elevenbitstudios.HumbleBundle.FunkySmugglers
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.06 (=70)
 review.rating: ―
 review.status: juste créé
@@ -2963,18 +2963,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: Snow Witch
+app.credits: Tin Man Games
+app.title.full: Fighting Fantasy [09] Caverns of the Snow Witch
 app.title.short: Snow Witch
 app.type: game
 modifier: niol
 pkg.filename: au.com.tinmangames.fightingfantasy.cavernsofthesnowwitch.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: .3462 (=3462)
 review.rating: ―
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame gamebook
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -2988,7 +2988,7 @@ app.title.short: Solar 2
 app.type: game
 modifier: niol
 pkg.filename: com.murudai.Solar2.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.13 (=9)
 review.rating: ―
 review.status: juste créé
@@ -3007,7 +3007,7 @@ app.title.short: Solar Flux
 app.type: game
 modifier: niol
 pkg.filename: com.firebrandgames.solarflux.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.0 (=1100)
 review.rating: ―
 review.status: juste créé
@@ -3064,7 +3064,7 @@ app.title.short: Sonic Racing
 app.type: game
 modifier: niol
 pkg.filename: com.sega.ssasrsa
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.0 (=1)
 review.rating: ―
 review.status: juste créé
@@ -3077,18 +3077,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: Sorcery!
+app.credits: inkle Ltd
+app.title.full: Steve Jackson's Sorcery!
 app.title.short: Sorcery!
 app.type: game
 modifier: niol
 pkg.filename: com.inkle.humble.sorcery1
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.1.3 (=203)
 review.rating: ―
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame gamebook
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -3096,18 +3096,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: Sorcery! 2
+app.credits: inkle Ltd
+app.title.full: Steve Jackson's Sorcery! 2
 app.title.short: Sorcery! 2
 app.type: game
 modifier: niol
 pkg.filename: com.inkle.humble.sorcery2
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.5 (=105)
 review.rating: ―
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame gamebook
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -3121,7 +3121,7 @@ app.title.short: SpaceChem
 app.type: game
 modifier: niol
 pkg.filename: com.zachtronicsindustries.android.spacechem.humblebundle
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1011m (=12)
 review.rating: ―
 review.status: juste créé
@@ -3140,7 +3140,7 @@ app.title.short: Star Command
 app.type: game
 modifier: niol
 pkg.filename: com.starcommand.scgame.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.1.5 (=11511)
 review.rating: ―
 review.status: juste créé
@@ -3191,18 +3191,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: Starship
+app.credits: Tin Man Games
+app.title.full: Fighting Fantasy [04] Starship Traveller
 app.title.short: Starship
 app.type: game
 modifier: niol
 pkg.filename: au.com.tinmangames.fightingfantasy.starshiptraveller.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.1.3341 (=113341)
 review.rating: ―
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame gamebook
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -3216,7 +3216,7 @@ app.title.short: Strata
 app.type: game
 modifier: niol
 pkg.filename: com.graveck.strata
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.2.1 (=20140106)
 review.rating: ―
 review.status: juste créé
@@ -3248,18 +3248,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: Sultans
+app.credits: Tin Man Games
+app.title.full: Gamebook Adventures [09] Sultans of Rema
 app.title.short: Sultans
 app.type: game
 modifier: niol
 pkg.filename: au.com.tinmangames.ga.sultansofrema.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.1.0 (=1010)
 review.rating: ―
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame gamebook
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -3330,7 +3330,7 @@ app.title.short: Super Stickman Golf 2
 app.type: game
 modifier: niol
 pkg.filename: com.noodlecake.ssg2.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 2.5 (=19)
 review.rating: ―
 review.status: juste créé
@@ -3368,7 +3368,7 @@ app.title.short: Templar Assault RPG
 app.type: game
 modifier: niol
 pkg.filename: com.tresebrothers.games.templars
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 2.3.1 (=141)
 review.rating: ―
 review.status: juste créé
@@ -3387,7 +3387,7 @@ app.title.short: Tentacle Wars
 app.type: game
 modifier: niol
 pkg.filename: com.FDGEntertainment.TentacleWars.Humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 2.0.14 (=2000014)
 review.rating: ―
 review.status: juste créé
@@ -3444,7 +3444,7 @@ app.title.short: Thomas
 app.type: game
 modifier: niol
 pkg.filename: com.bossastudios.twadroid_humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0.4 (=8)
 review.rating: ―
 review.status: juste créé
@@ -3463,7 +3463,7 @@ app.title.short: Threes
 app.type: game
 modifier: niol
 pkg.filename: vo.threes.exclaim.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.2.3.4 (=11)
 review.rating: ―
 review.status: juste créé
@@ -3482,7 +3482,7 @@ app.title.short: Ticket to Ride
 app.type: game
 modifier: niol
 pkg.filename: com.daysofwonder.tt.android
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.6.6-536-bb8718d3 (=536)
 review.rating: ―
 review.status: juste créé
@@ -3501,7 +3501,7 @@ app.title.short: Time Surfer
 app.type: game
 modifier: niol
 pkg.filename: com.kumobius.android.carpet.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.4.2 (=76)
 review.rating: ―
 review.status: juste créé
@@ -3577,7 +3577,7 @@ app.title.short: Titan Attacks
 app.type: game
 modifier: niol
 pkg.filename: com.puppygames.titanattacks.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.00 (=1)
 review.rating: ―
 review.status: juste créé
@@ -3596,7 +3596,7 @@ app.title.short: To Be
 app.type: game
 modifier: niol
 pkg.filename: au.com.tinmangames.tobeornottobe.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: .3382 (=3382)
 review.rating: ―
 review.status: juste créé
@@ -3615,7 +3615,7 @@ app.title.short: Toast Time
 app.type: game
 modifier: niol
 pkg.filename: org.forceofhabit.toasttime
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.2 (=10)
 review.rating: ―
 review.status: juste créé
@@ -3628,18 +3628,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
+app.credits: Noodlecake Studios Inc
 app.title.full: Trainyard
 app.title.short: Trainyard
 app.type: game
 modifier: niol
 pkg.filename: com.noodlecake.trainyard.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.5.1 (=18)
-review.rating: ―
+review.rating: +
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame puzzle [[path drawing]] [[colour blending]] train
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -3672,7 +3672,7 @@ app.title.short: Trial of the Clone
 app.type: game
 modifier: niol
 pkg.filename: au.com.tinmangames.trialoftheclone
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.3.1.0 (=1310)
 review.rating: ―
 review.status: juste créé
@@ -3805,7 +3805,7 @@ app.title.short: VVVVVV
 app.type: game
 modifier: niol
 pkg.filename: air.com.distractionware.vvvvvvmobile.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.0 (=1000000)
 review.rating: ―
 review.status: juste créé
@@ -3818,18 +3818,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
-app.title.full: Walking Dead Assault
+app.credits: Skybound LLC
+app.title.full: The Walking Dead: Assault
 app.title.short: Walking Dead Assault
 app.type: game
 modifier: niol
 pkg.filename: com.skybound.TWDA
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.68 (=900168)
 review.rating: ―
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame [[squad combat]] [[turn-based]] zombie tactical
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -3862,7 +3862,7 @@ app.title.short: Wave Wave
 app.type: game
 modifier: niol
 pkg.filename: com.noodlecake.wavewavenew.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 2.0 (=1419358610)
 review.rating: ―
 review.status: juste créé
@@ -3875,18 +3875,18 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
+app.credits: Noodlecake Studios Inc
 app.title.full: Wayward Souls
 app.title.short: Wayward Souls
 app.type: game
 modifier: niol
 pkg.filename: com.noodlecake.waywardsouls.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.231 (=1418149403)
 review.rating: ―
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame [[action rpg]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -3919,7 +3919,7 @@ app.title.short: Worms 2: Armageddon
 app.type: game
 modifier: niol
 pkg.filename: com.worms2armageddon.app.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.4.1 (=17)
 review.rating: ―
 review.status: juste créé
@@ -3932,7 +3932,7 @@ test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
 ―
-app.credits: ―
+app.credits: Choice of Games LLC
 app.title.full: Yeti's Parole Officer
 app.title.short: Yeti's Parole Officer
 app.type: game
@@ -3943,7 +3943,7 @@ pkg.version: 1.0.5 (=6)
 review.rating: ―
 review.status: juste créé
 review.summary: ―
-tags: videogame 
+tags: videogame gamebook demo
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
@@ -3995,7 +3995,7 @@ app.title.short: Zombie GS
 app.type: game
 modifier: niol
 pkg.filename: com.limbic.ac130.humble
-pkg.source: 
+pkg.source: humblebundle
 pkg.version: 1.14.3hb (=1410992661)
 review.rating: ―
 review.status: juste créé
