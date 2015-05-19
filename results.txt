@@ -1,0 +1,33 @@
+# Automatically generated
+# duptype id depth size device inode priority name
+DUPTYPE_FIRST_OCCURRENCE 184 0 414 64512 22417841 1 tiddlers/com.dmobi.pinball5in1.tid
+DUPTYPE_OUTSIDE_TREE -184 0 414 64512 22418285 2 2015-0424_game/com.dmobi.pinball5in1.tid
+DUPTYPE_FIRST_OCCURRENCE 216 0 425 64512 22414145 1 tiddlers/com.dozingcatsoftware.bouncy.tid
+DUPTYPE_OUTSIDE_TREE -216 0 425 64512 22418190 2 2015-0424_game/com.dozingcatsoftware.bouncy.tid
+DUPTYPE_FIRST_OCCURRENCE 244 0 432 64512 22414232 1 tiddlers/com.wadjeteye.shivah.humble.tid
+DUPTYPE_OUTSIDE_TREE -244 0 432 64512 22418215 2 2015-0424_game/com.wadjeteye.shivah.humble.tid
+DUPTYPE_FIRST_OCCURRENCE 173 0 434 64512 22417941 1 tiddlers/com.zenstudios.ZenPinball.tid
+DUPTYPE_OUTSIDE_TREE -173 0 434 64512 22418408 2 2015-0424_game/com.zenstudios.ZenPinball.tid
+DUPTYPE_FIRST_OCCURRENCE 255 0 438 64512 22414273 1 tiddlers/com.upopa.hopeless.tid
+DUPTYPE_OUTSIDE_TREE -255 0 438 64512 22418470 2 2015-0424_game/com.upopa.hopeless.tid
+DUPTYPE_FIRST_OCCURRENCE 83 0 453 64512 22414228 1 tiddlers/com.tresebrothers.games.templars.tid
+DUPTYPE_OUTSIDE_TREE -83 0 453 64512 22414377 2 2015-0424_game/com.tresebrothers.games.templars.tid
+DUPTYPE_FIRST_OCCURRENCE 171 0 457 64512 22414215 1 tiddlers/com.yodo1.crossyroad.tid
+DUPTYPE_OUTSIDE_TREE -171 0 457 64512 22418302 2 2015-0424_game/com.yodo1.crossyroad.tid
+DUPTYPE_FIRST_OCCURRENCE 205 0 466 64512 22414349 1 tiddlers/air.com.forestmoongames.relicrush.tid
+DUPTYPE_OUTSIDE_TREE -205 0 466 64512 22418404 2 2015-0424_game/air.com.forestmoongames.relicrush.tid
+DUPTYPE_FIRST_OCCURRENCE 252 0 467 64512 22418036 1 tiddlers/air.com.stateofplaygames.kami.tid
+DUPTYPE_OUTSIDE_TREE -252 0 467 64512 22418220 2 2015-0424_game/air.com.stateofplaygames.kami.tid
+DUPTYPE_FIRST_OCCURRENCE 277 0 476 64512 22414426 1 tiddlers/com.bdc.nh.hd.humble.tid
+DUPTYPE_OUTSIDE_TREE -277 0 476 64512 22418433 2 2015-0424_game/com.bdc.nh.hd.humble.tid
+DUPTYPE_FIRST_OCCURRENCE 169 0 478 64512 22414204 1 tiddlers/com.capybaragames.sworcery.humble.tid
+DUPTYPE_OUTSIDE_TREE -169 0 478 64512 22418415 2 2015-0424_game/com.capybaragames.sworcery.humble.tid
+DUPTYPE_FIRST_OCCURRENCE 210 0 480 64512 22413421 1 tiddlers/com.stainlessgames.D15.tid
+DUPTYPE_OUTSIDE_TREE -210 0 480 64512 22418388 2 2015-0424_game/com.stainlessgames.D15.tid
+DUPTYPE_FIRST_OCCURRENCE 164 0 490 64512 22413906 1 tiddlers/com.noodlecake.deviousdungeon.humble.tid
+DUPTYPE_OUTSIDE_TREE -164 0 490 64512 22418382 2 2015-0424_game/com.noodlecake.deviousdungeon.humble.tid
+DUPTYPE_FIRST_OCCURRENCE 178 0 490 64512 22417804 1 tiddlers/com.equazi.unolingo.tid
+DUPTYPE_OUTSIDE_TREE -178 0 490 64512 22418329 2 2015-0424_game/com.equazi.unolingo.tid
+DUPTYPE_FIRST_OCCURRENCE 238 0 547 64512 22418008 1 tiddlers/com.orangepixel.gunslugshumble.tid
+DUPTYPE_OUTSIDE_TREE -238 0 547 64512 22418214 2 2015-0424_game/com.orangepixel.gunslugshumble.tid
+# end of file

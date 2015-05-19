@@ -1,0 +1,19 @@
+app.credits: FDG Entertainment GmbH & Co. KG
+app.title.full: Tentacle Wars
+app.title.short: Tentacle Wars
+app.type: game
+modifier: niol
+pkg.filename: com.FDGEntertainment.TentacleWars.Humble
+pkg.source: humblebundle
+pkg.version: 2.0.14 (=2000014)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame [[real-time]] strategy [[galcon-like]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

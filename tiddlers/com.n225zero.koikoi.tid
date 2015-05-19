@@ -1,0 +1,19 @@
+app.credits: n225.zero
+app.title.full: KoiKoi
+app.title.short: KoiKoi
+app.type: game
+modifier: niol
+pkg.filename: com.n225zero.koikoi
+pkg.source: com.android.vending
+pkg.version: 1.8 (=9)
+review.rating: 1
+review.status: test minimal
+review.summary: En japonais uniquement…
+tags: videogame [[card game]] hanafuda [[koi koi]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

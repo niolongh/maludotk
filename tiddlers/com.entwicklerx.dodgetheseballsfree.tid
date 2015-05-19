@@ -2,20 +2,18 @@ app.credits: EntwicklerX
 app.title.full: Dodge These Balls
 app.title.short: Dodge These Balls
 app.type: game
-created: 20150305155900000
 modifier: niol
 pkg.filename: com.entwicklerx.dodgetheseballsfree
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 3
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.entwicklerx.dodgetheseballsfree
 type: text/vnd.tiddlywiki
 
 Utilisation minimaliste du gyroscope interne. Règle simplissime, graphisme correct, jouabilité correcte, frustrant mais avec un goût de reviens-y… Par contre, pas de quoi y passer la nuit, ni y jouer tous les jours.

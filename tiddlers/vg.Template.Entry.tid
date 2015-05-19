@@ -1,7 +1,5 @@
-created: 20150216142557791
 modified: 20150323205318900
 tags: template
-title: vg.Template.Entry
 type: text/vnd.tiddlywiki
 
 \define editbutton()

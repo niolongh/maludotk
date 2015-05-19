@@ -2,7 +2,6 @@ app.credits:
 app.title.full: 
 app.title.short: 
 app.type: 
-created: 20150216153038318
 modified: 20150224171114371
 pkg.filename: 
 pkg.source: 
@@ -15,6 +14,5 @@ test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: vg.Skeleton
 type: text/vnd.tiddlywiki
 

@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: ROOM Γ
 app.title.short: ROOM Γ
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: air.RoomGForIPad
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame [[point and click]] adventure minimalism [[find the key and escape the room]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: air.RoomGForIPad
 type: text/vnd.tiddlywiki
 
 —

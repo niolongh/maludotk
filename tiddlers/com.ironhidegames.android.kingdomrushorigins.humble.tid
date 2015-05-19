@@ -1,0 +1,19 @@
+app.credits: Ironhide Game Studio
+app.title.full: Kingdom Rush Origins
+app.title.short: Origins
+app.type: game
+modifier: niol
+pkg.filename: com.ironhidegames.android.kingdomrushorigins.humble
+pkg.source: humblebundle
+pkg.version: 1.2.0 (=1416623345)
+review.rating: +
+review.status: test minimal
+review.summary: —
+tags: videogame [[tower defense]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Network Info II
 app.title.short: Network Info II
 app.type: non-game
-created: 20150305155800000
 modifier: niol
 pkg.filename: aws.apps.networkInfoIi
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]] network scanner
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: aws.apps.networkInfoIi
 type: text/vnd.tiddlywiki
 
 —

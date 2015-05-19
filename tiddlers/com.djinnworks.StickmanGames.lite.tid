@@ -2,20 +2,18 @@ app.credits: Djinnworks e.U.
 app.title.full: Stickman Games: Summer (Free)
 app.title.short: Stickman Games: Summer (Free)
 app.type: game
-created: 20150305155900000
 modifier: niol
 pkg.filename: com.djinnworks.StickmanGames.lite
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 1
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.djinnworks.StickmanGames.lite
 type: text/vnd.tiddlywiki
 
 Inintéressant et réalisation médiocre.

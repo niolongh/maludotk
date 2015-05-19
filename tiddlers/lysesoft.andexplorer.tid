@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: AndExplorer
 app.title.short: AndExplorer
 app.type: non-game
-created: 20150305161000000
 modifier: niol
 pkg.filename: lysesoft.andexplorer
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]] [[file manager]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: lysesoft.andexplorer
 type: text/vnd.tiddlywiki
 
 —

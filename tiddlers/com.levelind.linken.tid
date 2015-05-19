@@ -1,0 +1,19 @@
+app.credits: Level Ind
+app.title.full: Linken
+app.title.short: Linken
+app.type: game
+modifier: niol
+pkg.filename: com.levelind.linken
+pkg.source: com.android.vending
+pkg.version: 1.1.3 (=10103)
+review.rating: 1
+review.status: test minimal
+review.summary: Plagiat de LYNE
+tags: videogame puzzle [[path drawing]] ripoff
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

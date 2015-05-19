@@ -2,20 +2,18 @@ app.credits: Rastergrid Entertainment
 app.title.full: Pocket Soccer
 app.title.short: Pocket Soccer
 app.type: game
-created: 20150305160300000
 modifier: niol
 pkg.filename: com.rastergrid.game.pocketsoccer
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 2
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame flicking [[air hockey]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.rastergrid.game.pocketsoccer
 type: text/vnd.tiddlywiki
 
 Contrôle difficile sur la TFP. Il y a parfois des shots brusques très puissants sans qu'on ne bouge le doigt et parfois les impulsions se soldent par un surplace. Le jeu a cependant l'air prometteur. Sera probablement meilleur en version HD.

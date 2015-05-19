@@ -2,20 +2,18 @@ app.credits: OpenIntents
 app.title.full: OI File Manager
 app.title.short: OI File Manager
 app.type: non-game
-created: 20150305161300000
 modifier: niol
 pkg.filename: org.openintents.filemanager
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 2
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: org.openintents.filemanager
 type: text/vnd.tiddlywiki
 
 Correct mais gère mal les « merges ». Or je n'ai pas actuellement besoin de ses fonctionnalités avancées.

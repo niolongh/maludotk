@@ -1,21 +1,19 @@
-app.credits: —
+app.credits: Noodlecake Studios Inc
 app.title.full: Blocks
 app.title.short: Blocks
 app.type: game
-created: 20150305160200000
 modifier: niol
 pkg.filename: com.noodlecake.theblockscometh.humble
 pkg.source: humblebundle
-pkg.version: —
-review.rating: —
-review.status: juste importé
+pkg.version: 1.7 (=1418672009)
+review.rating: +
+review.status: à peine testé
 review.summary: —
-tags: videogame
+tags: videogame [[vertical jumper]] arcade
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.noodlecake.theblockscometh.humble
 type: text/vnd.tiddlywiki
 
 —

@@ -2,20 +2,18 @@ app.credits: Come2uS
 app.title.full: Slice It!
 app.title.short: Slice It!
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.com2us.sliceit
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 4
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame puzzle
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.com2us.sliceit
 type: text/vnd.tiddlywiki
 
 Original, fun and cute little puzzler. with many levels!

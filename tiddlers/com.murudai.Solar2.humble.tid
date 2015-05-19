@@ -2,20 +2,18 @@ app.credits: Murudai
 app.title.full: Solar 2
 app.title.short: Solar 2
 app.type: game
-created: 20150305160100000
 modifier: niol
 pkg.filename: com.murudai.Solar2.humble
 pkg.source: humblebundle
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.murudai.Solar2.humble
 type: text/vnd.tiddlywiki
 
 —

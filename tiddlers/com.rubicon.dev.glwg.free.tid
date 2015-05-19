@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: GLWG
 app.title.short: GLWG
 app.type: game
-created: 20150305160300000
 modifier: niol
 pkg.filename: com.rubicon.dev.glwg.free
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame [[turn-based strategy]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.rubicon.dev.glwg.free
 type: text/vnd.tiddlywiki
 
 —

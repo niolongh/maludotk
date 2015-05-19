@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: BADLAND
 app.title.short: BADLAND
 app.type: game
-created: 20150305155900000
 modifier: niol
 pkg.filename: com.frogmind.badland.humble
 pkg.source: humblebundle
 pkg.version: —
 review.rating: 2
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.frogmind.badland.humble
 type: text/vnd.tiddlywiki
 
 Jolie variation sur Urthwurm mais trop casual. Les niveaux s'enchaînent et se ressemblent trop. Peu de challenge hormis quelques très rares passages et niveaux carrément hardcore, bizarre. (Avis sur les 40 premiers niveaux)

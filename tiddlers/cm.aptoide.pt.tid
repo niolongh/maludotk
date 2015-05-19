@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Aptoide
 app.title.short: Aptoide
 app.type: non-game
-created: 20150305155800000
 modifier: niol
 pkg.filename: cm.aptoide.pt
 pkg.source: web=http://www.aptoide.com/
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: cm.aptoide.pt
 type: text/vnd.tiddlywiki
 
 —

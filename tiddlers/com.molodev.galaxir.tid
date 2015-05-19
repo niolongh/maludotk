@@ -2,20 +2,18 @@ app.credits: MeryoDev
 app.title.full: GalaxIR
 app.title.short: GalaxIR
 app.type: game
-created: 20150305160100000
 modifier: niol
 pkg.filename: com.molodev.galaxir
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 2
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame [[realtime strategy]] galcon-like
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.molodev.galaxir
 type: text/vnd.tiddlywiki
 
 Principe sympa mais assez vite lassant.

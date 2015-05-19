@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Air Hockey Glow 2
 app.title.short: Air Hockey Glow 2
 app.type: game
-created: 20150305155900000
 modifier: niol
 pkg.filename: com.gameville.hockeyglow
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame flicking [[air hockey]] [[two players]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.gameville.hockeyglow
 type: text/vnd.tiddlywiki
 
 —

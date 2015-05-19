@@ -2,20 +2,18 @@ app.credits: AntTek
 app.title.full: AntTek Explorer (File Manager)
 app.title.short: AntTek Explorer (File Manager)
 app.type: non-game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.anttek.explorer
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 2
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.anttek.explorer
 type: text/vnd.tiddlywiki
 
 Correct mais gère mal les « merges ». Or je n'ai pas actuellement besoin de ses fonctionnalités avancées.

@@ -1,21 +1,19 @@
-app.credits: —
+app.credits: OrangePixel
 app.title.full: Gunslugs
 app.title.short: Gunslugs
 app.type: game
-created: 20150305160200000
 modifier: niol
 pkg.filename: com.orangepixel.gunslugshumble
 pkg.source: humblebundle
-pkg.version: —
-review.rating: 2
-review.status: juste importé
+pkg.version: 2.0.8 (=22)
+review.rating: —
+review.status: juste créé
 review.summary: —
 tags: videogame shoot'em'up
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.orangepixel.gunslugshumble
 type: text/vnd.tiddlywiki
 
 Retro lo-fi Metal Slug-like. Mouais. C'est fun une ou deux parties et puis on retourne à Metal Slug. Ou pas.

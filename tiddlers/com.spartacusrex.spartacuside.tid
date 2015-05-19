@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Terminal IDE
 app.title.short: Terminal IDE
 app.type: non-game
-created: 20150305160400000
 modifier: niol
 pkg.filename: com.spartacusrex.spartacuside
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]] [[terminal emulator]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.spartacusrex.spartacuside
 type: text/vnd.tiddlywiki
 
 —

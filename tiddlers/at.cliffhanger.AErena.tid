@@ -1,0 +1,19 @@
+app.credits: Cjiffhanger Productions Games GmbH
+app.title.full: AErena — Clash of Champions HD
+app.title.short: AErena
+app.type: game
+modifier: niol
+pkg.filename: at.cliffhanger.AErena
+pkg.source: com.android.vending
+pkg.version: 2.12.16882 (=21216882)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

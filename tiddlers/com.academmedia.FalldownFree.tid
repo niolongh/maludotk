@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Falling Down Ball
 app.title.short: Falling Down Ball
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.academmedia.FalldownFree
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame tilting [[marble maze]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.academmedia.FalldownFree
 type: text/vnd.tiddlywiki
 
 —

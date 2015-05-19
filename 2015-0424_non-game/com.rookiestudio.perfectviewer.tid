@@ -1,0 +1,19 @@
+app.credits: —
+app.title.full: Perfect Viewer
+app.title.short: Perfect Viewer
+app.type: non-game
+modifier: niolongh
+pkg.filename: com.rookiestudio.perfectviewer
+pkg.source: com.android.vending
+pkg.version: 2.5.2.6 (=318)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: [[non-game software]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

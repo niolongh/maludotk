@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: QWOP
 app.title.short: QWOP
 app.type: game
-created: 20150305160200000
 modifier: niol
 pkg.filename: com.noodlecake.QWOP.humble
 pkg.source: humblebundle
 pkg.version: —
 review.rating: Noodlecake Studios
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.noodlecake.QWOP.humble
 type: text/vnd.tiddlywiki
 
 1. Principe marrant mais injouable

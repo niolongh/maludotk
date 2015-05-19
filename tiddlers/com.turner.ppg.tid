@@ -1,0 +1,19 @@
+app.credits: Cartoon Network
+app.title.full: Powerpuff Girls: Defenders of Townsville
+app.title.short: PPG DoT
+app.type: game
+modifier: niol
+pkg.filename: com.turner.ppg
+pkg.source: humblebundle
+pkg.version: 1.02 (=3)
+review.rating: +
+review.status: test minimal
+review.summary: —
+tags: videogame platform exploration
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

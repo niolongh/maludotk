@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Bike Race
 app.title.short: Bike Race
 app.type: game
-created: 20150305160500000
 modifier: niol
 pkg.filename: com.topfreegames.bikeracefreeworld
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.topfreegames.bikeracefreeworld
 type: text/vnd.tiddlywiki
 
 —

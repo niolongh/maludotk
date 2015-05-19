@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: F.E.A.R.
 app.title.short: F.E.A.R.
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: au.com.tinmangames.fightingfantasy.appointmentwithfear.humble
 pkg.source: humblebundle
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame gamebook
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: au.com.tinmangames.fightingfantasy.appointmentwithfear.humble
 type: text/vnd.tiddlywiki
 
 —

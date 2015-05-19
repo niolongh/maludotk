@@ -2,20 +2,18 @@ app.credits: Hassey Enterprises, Inc.
 app.title.full: Dynamite Jack
 app.title.short: Dynamite Jack
 app.type: game
-created: 20150305155900000
 modifier: niol
 pkg.filename: com.galcon.dynamitejack.humble
 pkg.source: humblebundle
-pkg.version: —
-review.rating: —
-review.status: juste importé
+pkg.version: 1.0.24 (=1000024)
+review.rating: +
+review.status: un peu testé
 review.summary: —
-tags: videogame
+tags: videogame stealth
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.galcon.dynamitejack.humble
 type: text/vnd.tiddlywiki
 
 —

@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Droid Tower
 app.title.short: Droid Tower
 app.type: game
-created: 20150305160100000
 modifier: niol
 pkg.filename: com.mow.droidtower
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.mow.droidtower
 type: text/vnd.tiddlywiki
 
 —

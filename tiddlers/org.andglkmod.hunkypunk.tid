@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Son of Hunky Punk
 app.title.short: Son of Hunky Punk
 app.type: non-game
-created: 20150305161200000
 modifier: niol
 pkg.filename: org.andglkmod.hunkypunk
 pkg.source: fdroid
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]] [[interactive fiction]] interpreter
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: org.andglkmod.hunkypunk
 type: text/vnd.tiddlywiki
 
 —

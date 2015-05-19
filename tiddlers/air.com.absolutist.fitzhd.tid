@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Fitz: Match 3 Puzzle
 app.title.short: Fitz: Match 3 Puzzle
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: air.com.absolutist.fitzhd
 pkg.source: com.amazon.venezia
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: air.com.absolutist.fitzhd
 type: text/vnd.tiddlywiki
 
 —

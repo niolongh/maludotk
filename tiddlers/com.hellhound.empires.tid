@@ -1,0 +1,19 @@
+app.credits: —
+app.title.full: Rising Empires
+app.title.short: Rising Empires
+app.type: game
+modifier: niol
+pkg.filename: com.hellhound.empires
+pkg.source: com.android.vending
+pkg.version: 1.5.1 (=158)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

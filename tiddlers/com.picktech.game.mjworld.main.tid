@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: 麻將天下(MJW)
 app.title.short: 麻將天下(MJW)
 app.type: game
-created: 20150305160200000
 modifier: niol
 pkg.filename: com.picktech.game.mjworld.main
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.picktech.game.mjworld.main
 type: text/vnd.tiddlywiki
 
 —

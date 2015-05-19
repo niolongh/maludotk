@@ -2,20 +2,18 @@ app.credits: Infolife LLC
 app.title.full: App Backup & Restore
 app.title.short: App Backup & Restore
 app.type: non-game
-created: 20150305161000000
 modifier: niol
 pkg.filename: mobi.infolife.appbackup
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 5
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]] backup
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: mobi.infolife.appbackup
 type: text/vnd.tiddlywiki
 
 Pratique et excellent : Permet de faire un backup automatique des applications au moment où elles sont installées ou mises-à-jour. Si l'APK n'est pas backupable (rare), il stocke un lien vers Google Play pour le récupérer au besoin.

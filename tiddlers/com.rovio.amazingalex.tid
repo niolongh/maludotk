@@ -1,0 +1,19 @@
+app.credits: Rovio Entertainment
+app.title.full: Amazing Alex
+app.title.short: Amazing Alex
+app.type: game
+modifier: niol
+pkg.filename: com.rovio.amazingalex
+pkg.source: com.amazon.venezia
+pkg.version: 1.0.4 (=104)
+review.rating: +
+review.status: didacticiel
+review.summary: —
+tags: videogame puzzle contraptions
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

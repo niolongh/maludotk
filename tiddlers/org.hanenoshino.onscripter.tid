@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: ONScripter
 app.title.short: ONScripter
 app.type: game
-created: 20150305161300000
 modifier: niol
 pkg.filename: org.hanenoshino.onscripter
 pkg.source: fdroid
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: org.hanenoshino.onscripter
 type: text/vnd.tiddlywiki
 
 —

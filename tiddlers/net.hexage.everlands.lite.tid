@@ -2,20 +2,18 @@ app.credits: Hexage Ltd
 app.title.full: Everlands Free
 app.title.short: Everlands Free
 app.type: game
-created: 20150305161100000
 modifier: niol
 pkg.filename: net.hexage.everlands.lite
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 3
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: net.hexage.everlands.lite
 type: text/vnd.tiddlywiki
 
 Plaisant et malin (similaire à Neuroshima Hex!). Très probablement inspiré du jeux de société Neuroshima Hex! Bonne implémentation, gfx plutôt jolis, AI correcte, nombre de niveaux suffisant pour ce faire une bonne idée du jeu.  Achat à envisager.

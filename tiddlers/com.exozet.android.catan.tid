@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Catan
 app.title.short: Catan
 app.type: game
-created: 20150305155900000
 modifier: niol
 pkg.filename: com.exozet.android.catan
 pkg.source: humblebundle
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame [[boardgame conversion]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.exozet.android.catan
 type: text/vnd.tiddlywiki
 
 —

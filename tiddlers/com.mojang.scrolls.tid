@@ -1,0 +1,19 @@
+app.credits: —
+app.title.full: Scrolls
+app.title.short: Scrolls
+app.type: game
+modifier: niol
+pkg.filename: com.mojang.scrolls
+pkg.source: com.android.vending
+pkg.version: 1.2 (=12)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Mighty Dungeons DEMO
 app.title.short: Mighty Dungeons DEMO
 app.type: game
-created: 20150305160900000
 modifier: niol
 pkg.filename: games.laylio.mightydungeons.demo
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: games.laylio.mightydungeons.demo
 type: text/vnd.tiddlywiki
 
 —

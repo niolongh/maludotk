@@ -1,0 +1,19 @@
+app.credits: The Oak Team
+app.title.full: Montezuma Puzzle 3 Premium
+app.title.short: Montezuma Puzzle 3
+app.type: game
+modifier: niol
+pkg.filename: com.eastoakteam.montezumapuzzle3
+pkg.source: com.amazon.venezia
+pkg.version: 1.0.0 (=1)
+review.rating: +
+review.status: test sur plusieurs niveau
+review.summary: Dans la veine des pentaminos mais hexagonaux
+tags: videogame abstract jigsaw puzzle
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

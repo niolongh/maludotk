@@ -2,20 +2,18 @@ app.credits: Consolidated Braincells Inc.
 app.title.full: Solo Dungeon Bash
 app.title.short: Solo Dungeon Bash
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.braincells.SoloDungeonBash
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 1
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.braincells.SoloDungeonBash
 type: text/vnd.tiddlywiki
 
 Aucun intérêt. À peine plus de décisions et à peine moins de hasard que de simplement lancer un dé et espérer ne pas tirer un 6.

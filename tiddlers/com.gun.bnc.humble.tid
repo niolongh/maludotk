@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Breach and Clear
 app.title.short: Breach and Clear
 app.type: game
-created: 20150305155900000
 modifier: niol
 pkg.filename: com.gun.bnc.humble
 pkg.source: humblebundle
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.gun.bnc.humble
 type: text/vnd.tiddlywiki
 
 —

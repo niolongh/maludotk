@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Unroll Ball
 app.title.short: Unroll Ball
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.all4game.unrollball
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.all4game.unrollball
 type: text/vnd.tiddlywiki
 
 —

@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Piano Tiles
 app.title.short: Piano Tiles
 app.type: game
-created: 20150305160600000
 modifier: niol
 pkg.filename: com.umonistudio.tile
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame [[infinite runner]] reflex
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.umonistudio.tile
 type: text/vnd.tiddlywiki
 
 —

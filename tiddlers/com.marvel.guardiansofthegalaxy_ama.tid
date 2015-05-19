@@ -1,0 +1,19 @@
+app.credits: Marvel Games
+app.title.full: Guardians of the Galaxy: The Universal Weapon
+app.title.short: Guardians:TUW
+app.type: game
+modifier: niol
+pkg.filename: com.marvel.guardiansofthegalaxy_ama
+pkg.source: com.amazon.venezia
+pkg.version: 1.3 (=8)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

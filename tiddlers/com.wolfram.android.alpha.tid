@@ -1,0 +1,19 @@
+app.credits: —
+app.title.full: Wolfram Alpha
+app.title.short: Wolfram Alpha
+app.type: non-game
+modifier: niolongh
+pkg.filename: com.wolfram.android.alpha
+pkg.source: com.amazon.venezia
+pkg.version: 1.3.0.5199652 (=5199652)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: [[non-game software]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

@@ -1,0 +1,19 @@
+app.credits: Sarah Northway
+app.title.full: Deep Under The Sky
+app.title.short: Deep Under The Sky
+app.type: game
+modifier: niol
+pkg.filename: air.com.richColin.DeepUnderTheSky
+pkg.source: com.amazon.venezia
+pkg.version: 1.205 (=1205000)
+review.rating: 3
+review.status: test sur plusieurs niveaux
+review.summary: Quand une méduse veut assurer sa descendance… Très beau, assez facile.
+tags: videogame artillery
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

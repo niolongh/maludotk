@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: STK Addon Viewer
 app.title.short: STK Addon Viewer
 app.type: non-game
-created: 20150305161200000
 modifier: niol
 pkg.filename: net.stkaddons.viewer
 pkg.source: fdroid
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: net.stkaddons.viewer
 type: text/vnd.tiddlywiki
 
 —

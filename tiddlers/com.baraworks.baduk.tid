@@ -2,20 +2,18 @@ app.credits: More Games
 app.title.full: Go (Baduk) School
 app.title.short: Go (Baduk) School
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.baraworks.baduk
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 2
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.baraworks.baduk
 type: text/vnd.tiddlywiki
 
 Didacticiel dont on a vite fait le tour. De facture correcte mais plutôt limité.

@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: 10000000
 app.title.short: 10000000
 app.type: game
-created: 20150305155900000
 modifier: niol
 pkg.filename: com.eightyeightgames.tenmillion.humble
 pkg.source: humblebundle
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame [[match three (or more)]] [[dungeon crawl]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.eightyeightgames.tenmillion.humble
 type: text/vnd.tiddlywiki
 
 —

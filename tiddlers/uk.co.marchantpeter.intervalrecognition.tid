@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Interval Recognition
 app.title.short: Interval Recognition
 app.type: non-game
-created: 20150305161500000
 modifier: niol
 pkg.filename: uk.co.marchantpeter.intervalrecognition
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]] learning music
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: uk.co.marchantpeter.intervalrecognition
 type: text/vnd.tiddlywiki
 
 —

@@ -2,20 +2,18 @@ app.credits: Zunaa Software
 app.title.full: Tiger and Goat
 app.title.short: Tiger and Goat
 app.type: game
-created: 20150305160800000
 modifier: niol
 pkg.filename: com.zunaa.tng
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 1
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.zunaa.tng
 type: text/vnd.tiddlywiki
 
 Injouable sur TFP. L'interface ne fonctionne pas correctement sur TFP. Impossible de jouer.

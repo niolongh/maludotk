@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Game Guardian
 app.title.short: Game Guardian
 app.type: game
-created: 20150305161400000
 modifier: niol
 pkg.filename: pl.aqua.gameguardian
 pkg.source: web=http://gameguardian.net/forum/files/category/5-official-downloads/
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: pl.aqua.gameguardian
 type: text/vnd.tiddlywiki
 
 —

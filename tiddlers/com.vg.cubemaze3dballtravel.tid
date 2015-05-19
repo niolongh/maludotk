@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Cube Maze 3D Ball Travel
 app.title.short: Cube Maze 3D Ball Travel
 app.type: game
-created: 20150305160700000
 modifier: niol
 pkg.filename: com.vg.cubemaze3dballtravel
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame [[marble maze]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.vg.cubemaze3dballtravel
 type: text/vnd.tiddlywiki
 
 —

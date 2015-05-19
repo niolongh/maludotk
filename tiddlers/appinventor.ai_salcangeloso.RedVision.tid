@@ -1,0 +1,19 @@
+app.credits: —
+app.title.full: RedVision
+app.title.short: RedVision
+app.type: non-game
+modifier: niolongh
+pkg.filename: appinventor.ai_salcangeloso.RedVision
+pkg.source: com.amazon.venezia
+pkg.version: 1.0 (=1)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: [[non-game software]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

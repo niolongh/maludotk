@@ -1,21 +1,19 @@
-app.credits: —
+app.credits: Hidden Variable Studios
 app.title.full: Bag It!
 app.title.short: Bag It!
 app.type: game
-created: 20150305160000000
 modifier: niol
 pkg.filename: com.hiddenvariable.bagit.hb
 pkg.source: humblebundle
-pkg.version: —
-review.rating: —
-review.status: juste importé
+pkg.version: 3.2.1 (=34)
+review.rating: +
+review.status: pas mal testé
 review.summary: —
-tags: videogame puzzle
+tags: videogame puzzle physics [[tetris-like]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.hiddenvariable.bagit.hb
 type: text/vnd.tiddlywiki
 
 —

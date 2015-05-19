@@ -1,0 +1,19 @@
+app.credits: Blyts
+app.title.full: Tiny Hope
+app.title.short: Tiny Hope
+app.type: game
+modifier: niol
+pkg.filename: com.blyts.tinyhope
+pkg.source: com.amazon.venezia
+pkg.version: 0.9.4 (=6)
+review.rating: +
+review.status: didacticiel
+review.summary: —
+tags: videogame puzzle physics fluids
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

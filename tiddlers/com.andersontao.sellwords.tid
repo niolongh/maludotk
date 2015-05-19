@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: SellWords (FREE)
 app.title.short: SellWords (FREE)
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.andersontao.sellwords
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.andersontao.sellwords
 type: text/vnd.tiddlywiki
 
 —

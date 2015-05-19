@@ -2,20 +2,18 @@ app.credits: Karateka LLC
 app.title.full: Karateka Classic
 app.title.short: Karateka Classic
 app.type: game
-created: 20150305155900000
 modifier: niol
 pkg.filename: com.freetoolsassociation.karateka.humble
 pkg.source: humblebundle
 pkg.version: —
 review.rating: 1
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.freetoolsassociation.karateka.humble
 type: text/vnd.tiddlywiki
 
 Tap, tap, tap, ouch, tap, tap … rronflllfll. Peut-être qu'avec un joystick ou sur un petit smartphone, la nostalgie jouerait. Mais là, non.

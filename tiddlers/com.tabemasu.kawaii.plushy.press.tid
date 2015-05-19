@@ -1,0 +1,19 @@
+app.credits: Tabemasu Games
+app.title.full: Kawaii Killer
+app.title.short: Kawaii Killer
+app.type: game
+modifier: niol
+pkg.filename: com.tabemasu.kawaii.plushy.press
+pkg.source: humblebundle
+pkg.version: release 1.2b (=422)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame arcade swipe-to-slash
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

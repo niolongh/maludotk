@@ -2,20 +2,18 @@ app.credits: Creative Mobile
 app.title.full: Alchemy~Genetics
 app.title.short: Alchemy~Genetics
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.creativem.geneticsfull
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 1
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.creativem.geneticsfull
 type: text/vnd.tiddlywiki
 
 Alchemy, sans la logique. Si vous aimez chercher et chercher encore des combinaisons farfelues, pourquoi pas. Sinon passez votre chemin.

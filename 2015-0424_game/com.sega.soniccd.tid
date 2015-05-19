@@ -1,0 +1,19 @@
+app.credits: SEGA
+app.title.full: Sonic CD
+app.title.short: Sonic CD
+app.type: game
+modifier: niol
+pkg.filename: com.sega.soniccd
+pkg.source: humblebundle
+pkg.version: 1.0.2 (=4)
+review.rating: +
+review.status: test minimal
+review.summary: —
+tags: videogame platform
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Link2SD
 app.title.short: Link2SD
 app.type: non-game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.buak.Link2SD
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]] [[application manager]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.buak.Link2SD
 type: text/vnd.tiddlywiki
 
 —

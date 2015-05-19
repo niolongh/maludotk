@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: tPacketCapture
 app.title.short: tPacketCapture
 app.type: non-game
-created: 20150305161000000
 modifier: niol
 pkg.filename: jp.co.taosoftware.android.packetcapture
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]] network
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: jp.co.taosoftware.android.packetcapture
 type: text/vnd.tiddlywiki
 
 —

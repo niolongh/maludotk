@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Mounts2SD
 app.title.short: Mounts2SD
 app.type: non-game
-created: 20150305160400000
 modifier: niol
 pkg.filename: com.spazedog.mounts2sd
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.spazedog.mounts2sd
 type: text/vnd.tiddlywiki
 
 —

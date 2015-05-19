@@ -1,0 +1,19 @@
+app.credits: nenoff
+app.title.full: Follow The Line 2D Deluxe
+app.title.short: Follow The Line 2D Deluxe
+app.type: game
+modifier: niol
+pkg.filename: com.nenoff.followthelinefree
+pkg.source: com.android.vending
+pkg.version: 4.1 (=25)
+review.rating: 2
+review.status: un peu testé
+review.summary: —
+tags: videogame arcade [[obstacle runner]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

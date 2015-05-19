@@ -2,20 +2,18 @@ app.credits: Living Physics
 app.title.full: Living Physics
 app.title.short: Living Physics
 app.type: game
-created: 20150305161600000
 modifier: niol
 pkg.filename: uk.org.livingphysics.app.livingphysics_demo
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 2
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: uk.org.livingphysics.app.livingphysics_demo
 type: text/vnd.tiddlywiki
 
 Court, sympa, pas très joli. Principe sympatique, réalisation (graphisme et interface) bof, trop peu de niveaux disponibles dans cette démo.

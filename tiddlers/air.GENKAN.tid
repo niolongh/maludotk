@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: GEN-KAN
 app.title.short: GEN-KAN
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: air.GENKAN
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame [[point and click]] adventure minimalism [[find the key and escape the room]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: air.GENKAN
 type: text/vnd.tiddlywiki
 
 —

@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Wifi Remote Play
 app.title.short: Wifi Remote Play
 app.type: non-game
-created: 20150305161200000
 modifier: niol
 pkg.filename: net.sourceforge.wifiremoteplay
 pkg.source: f-droid
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: net.sourceforge.wifiremoteplay
 type: text/vnd.tiddlywiki
 
 —

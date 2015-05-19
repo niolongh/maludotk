@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Ataxx
 app.title.short: Ataxx
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.brodski.android.ataxx
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame [[boardgame conversion]] domination
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.brodski.android.ataxx
 type: text/vnd.tiddlywiki
 
 —

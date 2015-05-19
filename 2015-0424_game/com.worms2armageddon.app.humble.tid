@@ -1,0 +1,19 @@
+app.credits: —
+app.title.full: Worms 2: Armageddon
+app.title.short: Worms 2: Armageddon
+app.type: game
+modifier: niol
+pkg.filename: com.worms2armageddon.app.humble
+pkg.source: humblebundle
+pkg.version: 1.4.1 (=17)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

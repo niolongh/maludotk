@@ -2,20 +2,18 @@ app.credits: Hiromaru Kobo
 app.title.full: DroiDrum - a basic drum set
 app.title.short: DroiDrum - a basic drum set
 app.type: non-game
-created: 20150305155900000
 modifier: niol
 pkg.filename: com.gmail.kobo.hiromaru
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 1
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.gmail.kobo.hiromaru
 type: text/vnd.tiddlywiki
 
 Tiny toy drumkit.

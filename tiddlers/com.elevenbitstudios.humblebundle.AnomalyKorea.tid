@@ -2,20 +2,18 @@ app.credits: 11 bit studios
 app.title.full: Anomaly KR
 app.title.short: Anomaly KR
 app.type: game
-created: 20150305155900000
 modifier: niol
 pkg.filename: com.elevenbitstudios.humblebundle.AnomalyKorea
 pkg.source: humblebundle
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame [[inverse tower defense]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.elevenbitstudios.humblebundle.AnomalyKorea
 type: text/vnd.tiddlywiki
 
 —

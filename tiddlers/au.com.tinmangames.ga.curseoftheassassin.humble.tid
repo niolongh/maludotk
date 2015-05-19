@@ -1,0 +1,19 @@
+app.credits: Tin Man Games
+app.title.full: Gamebook Adventures [08] Curse of the Assassin
+app.title.short: Curse
+app.type: game
+modifier: niol
+pkg.filename: au.com.tinmangames.ga.curseoftheassassin.humble
+pkg.source: humblebundle
+pkg.version: 1.1.1.0 (=1110)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame gamebook
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

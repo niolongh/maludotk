@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: SketchBookX
 app.title.short: SketchBookX
 app.type: non-game
-created: 20150305160400000
 modifier: niol
 pkg.filename: com.sketchbookexpress
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.sketchbookexpress
 type: text/vnd.tiddlywiki
 
 —

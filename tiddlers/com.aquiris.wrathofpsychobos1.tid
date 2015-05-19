@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Ben 10: Wrath of Psychobos
 app.title.short: Ben 10: Wrath of Psychobos
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.aquiris.wrathofpsychobos1
 pkg.source: humblebundle
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.aquiris.wrathofpsychobos1
 type: text/vnd.tiddlywiki
 
 —

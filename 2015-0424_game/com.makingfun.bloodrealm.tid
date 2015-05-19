@@ -1,0 +1,19 @@
+app.credits: —
+app.title.full: Blood Realm
+app.title.short: Blood Realm
+app.type: game
+modifier: niol
+pkg.filename: com.makingfun.bloodrealm
+pkg.source: com.android.vending
+pkg.version: 2.17.2 (=18)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

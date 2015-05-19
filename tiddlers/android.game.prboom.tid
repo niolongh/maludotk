@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: PrBoom For Android
 app.title.short: PrBoom For Android
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: android.game.prboom
 pkg.source: fdroid
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: android.game.prboom
 type: text/vnd.tiddlywiki
 
 —

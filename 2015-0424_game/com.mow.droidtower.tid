@@ -1,0 +1,19 @@
+app.credits: —
+app.title.full: Droid Tower
+app.title.short: Droid Tower
+app.type: game
+modifier: niol
+pkg.filename: com.mow.droidtower
+pkg.source: com.android.vending
+pkg.version: 2.0.6 (=8)
+review.rating: —
+review.status: juste créé
+review.summary: Conversion du jeu Dark Tower
+tags: videogame boardgame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

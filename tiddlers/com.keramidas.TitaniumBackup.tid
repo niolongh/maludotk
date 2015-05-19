@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Titanium Backup
 app.title.short: Titanium Backup
 app.type: non-game
-created: 20150305160000000
 modifier: niol
 pkg.filename: com.keramidas.TitaniumBackup
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]] backup
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.keramidas.TitaniumBackup
 type: text/vnd.tiddlywiki
 
 —

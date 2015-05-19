@@ -1,0 +1,19 @@
+app.credits: Dinofarm Games
+app.title.full: Auro: A Monster-Bumping Adventure
+app.title.short: Auro
+app.type: game
+modifier: niol
+pkg.filename: air.DinofarmAuro
+pkg.source: humblebundle
+pkg.version: 1.29.0 (=1029000)
+review.rating: +
+review.status: didacticiel
+review.summary: —
+tags: videogame puzzle board roguelike
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

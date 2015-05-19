@@ -2,20 +2,18 @@ app.credits: Pixibots
 app.title.full: Cryptica Lite
 app.title.short: Cryptica Lite
 app.type: game
-created: 20150305161400000
 modifier: niol
 pkg.filename: pixibots.games.cryptica.lite
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 3
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: pixibots.games.cryptica.lite
 type: text/vnd.tiddlywiki
 
 Sliding-block puzzler. Fun, assez joli, difficulté croissante, démo généreuse.

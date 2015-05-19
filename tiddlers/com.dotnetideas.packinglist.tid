@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Packing List Lite
 app.title.short: Packing List Lite
 app.type: non-game
-created: 20150305155900000
 modifier: niol
 pkg.filename: com.dotnetideas.packinglist
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]] lifehack [[list manager]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.dotnetideas.packinglist
 type: text/vnd.tiddlywiki
 
 —

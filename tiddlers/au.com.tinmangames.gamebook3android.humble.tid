@@ -1,0 +1,19 @@
+app.credits: Tin Man Games
+app.title.full: Gamebook Adventures [03] Slaves of Rema
+app.title.short: Rema
+app.type: game
+modifier: niol
+pkg.filename: au.com.tinmangames.gamebook3android.humble
+pkg.source: humblebundle
+pkg.version: 3.5.1.1 (=3511)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame gamebook
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

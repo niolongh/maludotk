@@ -1,0 +1,19 @@
+app.credits: Cartoon Network
+app.title.full: Monsters Ate My Birthday Cake
+app.title.short: MAMBC
+app.type: game
+modifier: niol
+pkg.filename: com.SleepNinjaGames.MAMBC
+pkg.source: humblebundle
+pkg.version: 1.2.5 (=24)
+review.rating: +
+review.status: un peu testé
+review.summary: —
+tags: videogame puzzle [[chip's challenge-like]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

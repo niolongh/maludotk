@@ -2,20 +2,18 @@ app.credits: Silicon Studio
 app.title.full: Pixel Rain
 app.title.short: Pixel Rain
 app.type: game
-created: 20150305161500000
 modifier: niol
 pkg.filename: sskk.pixelrain.framework
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 2
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: sskk.pixelrain.framework
 type: text/vnd.tiddlywiki
 
 Good little puzzler. But the retro LED graphics look somewhat bland on a big screen like the TFP.

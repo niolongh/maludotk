@@ -1,0 +1,19 @@
+app.credits: —
+app.title.full: Ticket to Ride
+app.title.short: Ticket to Ride
+app.type: game
+modifier: niol
+pkg.filename: com.daysofwonder.tt.android
+pkg.source: humblebundle
+pkg.version: 1.6.6-536-bb8718d3 (=536)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

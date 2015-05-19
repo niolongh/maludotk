@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Generate
 app.title.short: Generate
 app.type: non-game
-created: 20150305161500000
 modifier: niol
 pkg.filename: uk.amimetic.generate
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]] programming [[visual art]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: uk.amimetic.generate
 type: text/vnd.tiddlywiki
 
 —

@@ -1,21 +1,19 @@
-app.credits: —
-app.title.full: Magic 2015
+app.credits: Wizard of the Coast LLC
+app.title.full: Magic 2015 — Duels of the Planeswalkers
 app.title.short: Magic 2015
 app.type: game
-created: 20150305160400000
 modifier: niol
 pkg.filename: com.stainlessgames.D15
 pkg.source: com.android.vending
-pkg.version: —
+pkg.version: 1.4.4959 (=4959)
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.stainlessgames.D15
 type: text/vnd.tiddlywiki
 
 —

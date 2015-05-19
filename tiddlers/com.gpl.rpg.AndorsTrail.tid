@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Andor's Trail
 app.title.short: Andor's Trail
 app.type: game
-created: 20150305155900000
 modifier: niol
 pkg.filename: com.gpl.rpg.AndorsTrail
 pkg.source: fdroid
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.gpl.rpg.AndorsTrail
 type: text/vnd.tiddlywiki
 
 —

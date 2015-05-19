@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: J Console
 app.title.short: J Console
 app.type: non-game
-created: 20150305161200000
 modifier: niol
 pkg.filename: org.dykman.j.android
 pkg.source: web=https://github.com/mdykman/jconsole_for_android
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]] programming
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: org.dykman.j.android
 type: text/vnd.tiddlywiki
 
 —

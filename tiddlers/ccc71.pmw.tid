@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: System Tuner
 app.title.short: System Tuner
 app.type: non-game
-created: 20150305155800000
 modifier: niol
 pkg.filename: ccc71.pmw
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]] [[system manager]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: ccc71.pmw
 type: text/vnd.tiddlywiki
 
 —

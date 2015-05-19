@@ -1,21 +1,19 @@
-app.credits: —
-app.title.full: Clockwork Tales (Full)
+app.credits: Artifex Mundi sp. z.o.o.
+app.title.full: Clockwork Tales: Of Glass and Ink (Full)
 app.title.short: Clockwork Tales (Full)
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.artifexmundi.clockwork.amzn.full
 pkg.source: com.amazon.venezia
-pkg.version: —
-review.rating: —
-review.status: juste importé
+pkg.version: 1.1 (=1014)
+review.rating: +
+review.status: test sur plusieurs niveaux
 review.summary: —
-tags: videogame
+tags: videogame adventure [[point'n'click]] [[hidden objects]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.artifexmundi.clockwork.amzn.full
 type: text/vnd.tiddlywiki
 
 —

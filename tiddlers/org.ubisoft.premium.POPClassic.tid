@@ -1,0 +1,19 @@
+app.credits: Ubisoft Entertainment
+app.title.full: Prince of Persia Classic
+app.title.short: POPClassic
+app.type: game
+modifier: niol
+pkg.filename: org.ubisoft.premium.POPClassic
+pkg.source: com.amazon.venezia
+pkg.version: 2.0 (=3)
+review.rating: +
+review.status: test minimal
+review.summary: —
+tags: videogame platform remake
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

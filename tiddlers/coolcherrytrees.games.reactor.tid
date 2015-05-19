@@ -2,20 +2,18 @@ app.credits: Cool Cherry Trees
 app.title.full: 2 Player Reactor
 app.title.short: 2 Player Reactor
 app.type: game
-created: 20150305160800000
 modifier: niol
 pkg.filename: coolcherrytrees.games.reactor
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 3
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame reflex [[two players]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: coolcherrytrees.games.reactor
 type: text/vnd.tiddlywiki
 
 Terne, répétitif mais FUN. Mériterait un meilleur traitement graphique (HD) et une plus grande variété d'épreuves.

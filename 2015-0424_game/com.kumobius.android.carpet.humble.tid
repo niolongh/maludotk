@@ -1,0 +1,19 @@
+app.credits: —
+app.title.full: Time Surfer
+app.title.short: Time Surfer
+app.type: game
+modifier: niol
+pkg.filename: com.kumobius.android.carpet.humble
+pkg.source: humblebundle
+pkg.version: 1.4.2 (=76)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

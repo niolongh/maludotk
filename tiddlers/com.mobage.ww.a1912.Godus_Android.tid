@@ -1,0 +1,19 @@
+app.credits: DeNA
+app.title.full: Godus
+app.title.short: Godus
+app.type: game
+modifier: niol
+pkg.filename: com.mobage.ww.a1912.Godus_Android
+pkg.source: com.android.vending
+pkg.version: 0.0.27 (=27)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Souls TCG
 app.title.short: Souls TCG
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: air.com.proceduralactivity.soulstcg
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: air.com.proceduralactivity.soulstcg
 type: text/vnd.tiddlywiki
 
 —

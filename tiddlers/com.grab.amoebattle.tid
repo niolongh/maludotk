@@ -1,0 +1,19 @@
+app.credits: Grab
+app.title.full: Amoebattle
+app.title.short: Amoebattle
+app.type: game
+modifier: niol
+pkg.filename: com.grab.amoebattle
+pkg.source: com.android.vending
+pkg.version: 1.0.3 (=4)
+review.rating: +
+review.status: didacticiel
+review.summary: —
+tags: videogame [[real-time]] strategy
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

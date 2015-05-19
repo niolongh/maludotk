@@ -1,21 +1,19 @@
 app.credits: Capybara Games
 app.title.full: Superbrothers Sword & Sworcery
-app.title.short: Superbrothers Sword & Sworcery
+app.title.short: #sworcery
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.capybaragames.sworcery.humble
 pkg.source: humblebundle
-pkg.version: —
-review.rating: —
-review.status: juste importé
+pkg.version: 1.0.19hb (=1398275123)
+review.rating: +
+review.status: un peu testé
 review.summary: —
 tags: videogame adventure
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.capybaragames.sworcery.humble
 type: text/vnd.tiddlywiki
 
 —

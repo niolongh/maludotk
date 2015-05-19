@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: UFO: Alien Invasion
 app.title.short: UFO: Alien Invasion
 app.type: game
-created: 20150305161200000
 modifier: niol
 pkg.filename: net.sourceforge.ufoai
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame strategy
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: net.sourceforge.ufoai
 type: text/vnd.tiddlywiki
 
 —

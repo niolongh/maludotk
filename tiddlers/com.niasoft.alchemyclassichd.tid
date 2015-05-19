@@ -2,20 +2,18 @@ app.credits: NiaSoft
 app.title.full: Alchemy Classic HD
 app.title.short: Alchemy Classic HD
 app.type: game
-created: 20150305160100000
 modifier: niol
 pkg.filename: com.niasoft.alchemyclassichd
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 3
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame alchemy
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.niasoft.alchemyclassichd
 type: text/vnd.tiddlywiki
 
 Alchemy Classic, en plus joli encore. Suggère les objectifs atteignables, ce qui permet plus de réflexion et moins de hasard, rendant ainsi le jeu plus intéressant. De plus, il possède de plus beaux graphismes.

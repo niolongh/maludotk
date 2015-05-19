@@ -2,20 +2,18 @@ app.credits: inXile entertainment
 app.title.full: The Bard's Tale
 app.title.short: The Bard's Tale
 app.type: game
-created: 20150305160000000
 modifier: niol
 pkg.filename: com.inxile.BardTale
 pkg.source: humblebundle
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.inxile.BardTale
 type: text/vnd.tiddlywiki
 
 —

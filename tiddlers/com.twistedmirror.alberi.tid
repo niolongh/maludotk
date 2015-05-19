@@ -2,20 +2,18 @@ app.credits: TwistedMirror
 app.title.full: Alberi
 app.title.short: Alberi
 app.type: game
-created: 20150305160600000
 modifier: niol
 pkg.filename: com.twistedmirror.alberi
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 2
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.twistedmirror.alberi
 type: text/vnd.tiddlywiki
 
 Sudoku-like simple et graphiquement moyen. Prenant mais trop simple et pas très joli.

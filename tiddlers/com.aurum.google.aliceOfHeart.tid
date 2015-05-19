@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Alice of Hearts
 app.title.short: Alice of Hearts
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.aurum.google.aliceOfHeart
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame cardgame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.aurum.google.aliceOfHeart
 type: text/vnd.tiddlywiki
 
 —

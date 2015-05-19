@@ -1,0 +1,19 @@
+app.credits: —
+app.title.full: Summoner Wars
+app.title.short: Summoner Wars
+app.type: game
+modifier: niol
+pkg.filename: com.playdekgames.android.SummonerWars_Beta
+pkg.source: com.android.vending
+pkg.version: 0.5.2 (=51)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

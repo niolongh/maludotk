@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Root Checker Basic
 app.title.short: Root Checker Basic
 app.type: non-game
-created: 20150305160000000
 modifier: niol
 pkg.filename: com.joeykrim.rootcheck
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.joeykrim.rootcheck
 type: text/vnd.tiddlywiki
 
 —

@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: AnySoftKeyboard - French Language Pack
 app.title.short: AnySoftKeyboard - French Language Pack
 app.type: non-game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.anysoftkeyboard.languagepack.french
 pkg.source: fdroid
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]] extension keyboard language french
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.anysoftkeyboard.languagepack.french
 type: text/vnd.tiddlywiki
 
 —

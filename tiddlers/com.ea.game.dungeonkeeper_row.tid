@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Dungeon Keeper
 app.title.short: Dungeon Keeper
 app.type: game
-created: 20150305155900000
 modifier: niol
 pkg.filename: com.ea.game.dungeonkeeper_row
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.ea.game.dungeonkeeper_row
 type: text/vnd.tiddlywiki
 
 —

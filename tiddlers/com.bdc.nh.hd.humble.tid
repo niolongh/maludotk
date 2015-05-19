@@ -1,21 +1,19 @@
-app.credits: —
-app.title.full: NHex HD Humble Bundle
+app.credits: Big Daddys Creations
+app.title.full: Neuroshima Hex HD Humble Bundle
 app.title.short: NHex HD Humble Bundle
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.bdc.nh.hd.humble
 pkg.source: humblebundle
-pkg.version: —
+pkg.version: 10.08 (=1008)
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
-tags: videogame
+tags: videogame boardgame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.bdc.nh.hd.humble
 type: text/vnd.tiddlywiki
 
 —

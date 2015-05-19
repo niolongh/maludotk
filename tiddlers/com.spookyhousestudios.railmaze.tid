@@ -2,20 +2,18 @@ app.credits: Spooky House Studios
 app.title.full: Rail Maze
 app.title.short: Rail Maze
 app.type: game
-created: 20150305160400000
 modifier: niol
 pkg.filename: com.spookyhousestudios.railmaze
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 3
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame puzzle
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.spookyhousestudios.railmaze
 type: text/vnd.tiddlywiki
 
 Fun and cute plumber-like puzzler. with many levels

@@ -1,0 +1,19 @@
+app.credits: —
+app.title.full: Quest of Dungeons
+app.title.short: Quest of Dungeons
+app.type: game
+modifier: niol
+pkg.filename: com.davidamador.quest_of_dungeons
+pkg.source: humblebundle
+pkg.version: 1.0.0.9 (=1009)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

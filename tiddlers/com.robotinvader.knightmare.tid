@@ -2,20 +2,18 @@ app.credits: Robot Invader
 app.title.full: Wind-up Knight
 app.title.short: Wind-up Knight
 app.type: game
-created: 20150305160300000
 modifier: niol
 pkg.filename: com.robotinvader.knightmare
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 1
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.robotinvader.knightmare
 type: text/vnd.tiddlywiki
 
 Simpliste, peu ergonomique et fausse gratuité. Simpliste, en tout cas dans les niveaux de « démonstration » gratuit : seuls les réflexes comptent (très proche de Line Runner sans en avoir l'élégance). Or les boutons sont plutôt mal placés pour une tablette. Enfin, on ne bénéficie que de quelques niveaux et objets « power-up ». Pour le reste, il faudra payer. D'ailleurs, on vous propose plusieurs fois de le faire « immédiatement » pour bénéficier d'un tarif réduit. Écœurement.

@@ -1,7 +1,5 @@
-created: 20150216142214023
 modified: 20150224145958481
 tags: template $:/tags/ViewTemplate
-title: vg.Template.View
 type: text/vnd.tiddlywiki
 
 <$list filter="[is[current]tag[videogame]]">

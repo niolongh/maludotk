@@ -1,0 +1,19 @@
+app.credits: Tin Man Games
+app.title.full: Fighting Fantasy [17] Appointment with F.E.A.R.
+app.title.short: F.E.A.R.
+app.type: game
+modifier: niol
+pkg.filename: au.com.tinmangames.fightingfantasy.appointmentwithfear.humble
+pkg.source: humblebundle
+pkg.version: 1.2398 (=2398)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame gamebook
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

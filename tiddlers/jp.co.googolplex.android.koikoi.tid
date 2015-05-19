@@ -1,0 +1,19 @@
+app.credits: Googolplex ltd.
+app.title.full: Koikoi
+app.title.short: Koikoi
+app.type: game
+modifier: niol
+pkg.filename: jp.co.googolplex.android.koikoi
+pkg.source: com.android.vending
+pkg.version: 1.4.1 (=6)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame [[card game]] hanafuda [[koi koi]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

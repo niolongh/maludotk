@@ -2,20 +2,18 @@ app.credits: Playrix
 app.title.full: Call of Atlantis
 app.title.short: Call of Atlantis
 app.type: game
-created: 20150305160200000
 modifier: niol
 pkg.filename: com.playrix.coa
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 1
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.playrix.coa
 type: text/vnd.tiddlywiki
 
 Cute but repetitive match-three puzzler.

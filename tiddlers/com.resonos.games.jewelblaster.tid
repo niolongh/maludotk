@@ -2,20 +2,18 @@ app.credits: Resonos
 app.title.full: Jewel Blaster
 app.title.short: Jewel Blaster
 app.type: game
-created: 20150305160300000
 modifier: niol
 pkg.filename: com.resonos.games.jewelblaster
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 1
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.resonos.games.jewelblaster
 type: text/vnd.tiddlywiki
 
 Puzzle Bobble qui tourne… Mouais.

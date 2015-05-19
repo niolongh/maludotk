@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: ClusterMaster
 app.title.short: ClusterMaster
 app.type: game
-created: 20150305160600000
 modifier: niol
 pkg.filename: com.tribeflame.cluster_master
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame [[match three (or more)]] puzzle
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.tribeflame.cluster_master
 type: text/vnd.tiddlywiki
 
 —

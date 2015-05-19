@@ -1,0 +1,19 @@
+app.credits: —
+app.title.full: Opera
+app.title.short: Opera
+app.type: non-game
+modifier: niolongh
+pkg.filename: com.opera.browser
+pkg.source: com.android.vending
+pkg.version: 28.0.1764.90386 (=1600590386)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: [[non-game software]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

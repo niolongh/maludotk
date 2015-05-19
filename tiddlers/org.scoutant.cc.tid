@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Chinese Checkers
 app.title.short: Chinese Checkers
 app.type: game
-created: 20150305161400000
 modifier: niol
 pkg.filename: org.scoutant.cc
 pkg.source: fdroid
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: org.scoutant.cc
 type: text/vnd.tiddlywiki
 
 —

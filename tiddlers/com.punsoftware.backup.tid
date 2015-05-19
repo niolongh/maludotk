@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: App List Backup
 app.title.short: App List Backup
 app.type: non-game
-created: 20150305160200000
 modifier: niol
 pkg.filename: com.punsoftware.backup
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: [[non-game software]] [[application manager]] list
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.punsoftware.backup
 type: text/vnd.tiddlywiki
 
 —

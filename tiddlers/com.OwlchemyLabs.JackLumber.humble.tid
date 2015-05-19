@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Jack Lumber
 app.title.short: Jack Lumber
 app.type: game
-created: 20150305160200000
 modifier: niol
 pkg.filename: com.OwlchemyLabs.JackLumber.humble
 pkg.source: humblebundle
 pkg.version: —
 review.rating: 2
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame dexterity swiping
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.OwlchemyLabs.JackLumber.humble
 type: text/vnd.tiddlywiki
 
 Swipe junkies only. Couper des bûches à coup de swipe, c'est marrant un temps mais une fois le jeu quitté, on n'y revient plus. Trop casual.

@@ -1,0 +1,19 @@
+app.credits: Tin Man Games
+app.title.full: Fighting Fantasy [09] Caverns of the Snow Witch
+app.title.short: Snow Witch
+app.type: game
+modifier: niol
+pkg.filename: au.com.tinmangames.fightingfantasy.cavernsofthesnowwitch.humble
+pkg.source: humblebundle
+pkg.version: .3462 (=3462)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame gamebook
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

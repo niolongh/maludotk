@@ -1,0 +1,19 @@
+app.credits: Articmill
+app.title.full: Castle Raid 2
+app.title.short: Castle Raid 2
+app.type: game
+modifier: niol
+pkg.filename: com.arcticmill.castleraid2
+pkg.source: com.android.vending
+pkg.version: 1.1.0.1 (=26)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame [[real-time]] strategy [[face-to-face multiplayer]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

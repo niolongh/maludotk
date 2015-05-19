@@ -2,20 +2,18 @@ app.credits: —
 app.title.full: Drop7
 app.title.short: Drop7
 app.type: game
-created: 20150305160800000
 modifier: niol
 pkg.filename: com.zynga.drop7
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.zynga.drop7
 type: text/vnd.tiddlywiki
 
 —

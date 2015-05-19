@@ -1,0 +1,19 @@
+app.credits: inkle Ltd
+app.title.full: Steve Jackson's Sorcery!
+app.title.short: Sorcery!
+app.type: game
+modifier: niol
+pkg.filename: com.inkle.humble.sorcery1
+pkg.source: humblebundle
+pkg.version: 1.1.3 (=203)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame gamebook
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

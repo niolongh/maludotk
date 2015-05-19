@@ -2,20 +2,18 @@ app.credits: Chillingo
 app.title.full: Contre Jour
 app.title.short: Contre Jour
 app.type: game
-created: 20150305155800000
 modifier: niol
 pkg.filename: com.chillingo.contrejour.android.humblebundle
 pkg.source: humblebundle
 pkg.version: —
 review.rating: —
-review.status: juste importé
+review.status: juste créé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
 test.os.version: 4.1.1
-title: com.chillingo.contrejour.android.humblebundle
 type: text/vnd.tiddlywiki
 
 —
