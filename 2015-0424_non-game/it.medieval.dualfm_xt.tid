@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Dual File Manager XT
 app.title.short: Dual File Manager XT
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: it.medieval.dualfm_xt
 pkg.source: com.android.vending
 pkg.version: 1.70 (=170)

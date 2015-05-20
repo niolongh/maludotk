@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: List My Apps
 app.title.short: List My Apps
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: de.onyxbits.listmyapps
 pkg.source: com.android.vending
 pkg.version: 3.6 (=16)

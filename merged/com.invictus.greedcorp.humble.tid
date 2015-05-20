@@ -1,0 +1,24 @@
+app.credits: Invictus Games Ltd.
+app.credits: Vanguard Games
+app.title.full: Greed Corp
+app.title.short: Greed Corp
+app.type: game
+modifier: niol
+pkg.filename: com.invictus.greedcorp.humble
+pkg.source: humblebundle
+pkg.version: —
+pkg.version: 1.0 (=1)
+review.rating: +
+review.rating: —
+review.status: didacticiel
+review.status: juste créé
+review.summary: —
+tags: videogame
+tags: videogame [[turn-based]] tactical war
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

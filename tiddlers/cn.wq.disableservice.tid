@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: DisableService
 app.title.short: DisableService
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: cn.wq.disableservice
 pkg.source: com.android.vending
 pkg.version: 1.6.5 (=37)

@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: AdAway
 app.title.short: AdAway
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: org.adaway
 pkg.source: 
 pkg.version: 2.9.2 (=51)

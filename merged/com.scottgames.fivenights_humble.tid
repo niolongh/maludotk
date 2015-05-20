@@ -1,0 +1,22 @@
+app.credits: —
+app.credits: Scott Cawthon
+app.title.full: Five Nights at Freddys
+app.title.full: Five Nights at Freddy's
+app.title.short: Five Nights at Freddys
+app.type: game
+modifier: niol
+pkg.filename: com.scottgames.fivenights_humble
+pkg.source: humblebundle
+pkg.version: —
+pkg.version: 1.77 (=16)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

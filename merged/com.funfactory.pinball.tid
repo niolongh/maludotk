@@ -1,0 +1,20 @@
+app.credits: —
+app.title.full: Pinball Fantasy HD
+app.title.short: Pinball Fantasy HD
+app.type: game
+modifier: niol
+pkg.filename: com.funfactory.pinball
+pkg.source: com.android.vending
+pkg.version: —
+pkg.version: 1.0.9 (3075) (=3075)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Sensor Box Plugin
 app.title.short: Sensor Box Plugin
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.imoblife.senorbox_plug_in
 pkg.source: com.android.vending
 pkg.version: 2.1 (=8)

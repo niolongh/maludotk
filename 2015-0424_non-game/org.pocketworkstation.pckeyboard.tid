@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Hacker's Keyboard
 app.title.short: Hacker's Keyboard
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: org.pocketworkstation.pckeyboard
 pkg.source: com.android.vending
 pkg.version: v1.37 (=1037)

@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Twilight
 app.title.short: Twilight
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.urbandroid.lux
 pkg.source: com.android.vending
 pkg.version: 4.6 (=106)

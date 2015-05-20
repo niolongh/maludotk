@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: TouchDraw
 app.title.short: TouchDraw
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.elevenworks.touchdraw
 pkg.source: com.amazon.venezia
 pkg.version: 1.10.11 (=150420)

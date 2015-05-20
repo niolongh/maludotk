@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: All-In-One Toolbox
 app.title.short: All-In-One Toolbox
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: imoblife.toolbox.full
 pkg.source: com.android.vending
 pkg.version: 5.1.7 (=72)

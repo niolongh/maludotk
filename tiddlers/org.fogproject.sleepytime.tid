@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Sleepy Time
 app.title.short: Sleepy Time
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: org.fogproject.sleepytime
 pkg.source: com.amazon.venezia
 pkg.version: 2.3.1 (=231)

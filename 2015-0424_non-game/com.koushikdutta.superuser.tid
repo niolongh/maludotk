@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Superuser
 app.title.short: Superuser
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.koushikdutta.superuser
 pkg.source: com.android.vending
 pkg.version: 1.0.3.0 (=1030)

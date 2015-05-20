@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Multiling O Keyboard
 app.title.short: Multiling O Keyboard
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: kl.ime.oh
 pkg.source: com.android.vending
 pkg.version: 0.43.5.2 (=121)

@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Avira
 app.title.short: Avira
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.avira.android
 pkg.source: com.android.vending
 pkg.version: 4.0 (=3529)

@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Plex
 app.title.short: Plex
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.plexapp.android
 pkg.source: com.amazon.venezia
 pkg.version: 4.2.1.354 (=3198)

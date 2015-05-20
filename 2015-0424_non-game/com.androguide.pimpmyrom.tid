@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Pimp My Rom
 app.title.short: Pimp My Rom
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.androguide.pimpmyrom
 pkg.source: com.android.vending
 pkg.version: beta 1.0 (=30)

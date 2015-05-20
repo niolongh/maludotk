@@ -1,0 +1,21 @@
+app.credits: —
+app.title.full: VLC
+app.title.short: VLC
+app.type: non-game
+modifier: niol
+pkg.filename: org.videolan.vlc
+pkg.source: 
+pkg.source: f-droid
+pkg.version: —
+pkg.version: 0.9.10 (=10004)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: [[non-game software]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

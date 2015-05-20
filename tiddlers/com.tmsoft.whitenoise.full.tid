@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: White Noise
 app.title.short: White Noise
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.tmsoft.whitenoise.full
 pkg.source: com.amazon.venezia
 pkg.version: 5.8.1 (=84)

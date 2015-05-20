@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Pocketband
 app.title.short: Pocketband
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: net.uloops.android
 pkg.source: com.android.vending
 pkg.version: 3.7.2 (=115)

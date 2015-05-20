@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Flowpaper
 app.title.short: Flowpaper
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: cc.diatom.flowpaper
 pkg.source: com.amazon.venezia
 pkg.version: 1.10 (=11)

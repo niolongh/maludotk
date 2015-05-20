@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: F-Droid
 app.title.short: F-Droid
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: org.fdroid.fdroid
 pkg.source: 
 pkg.version: 0.78 (=780)

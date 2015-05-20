@@ -1,0 +1,22 @@
+app.credits: —
+app.credits: OrangePixel
+app.title.full: Heroes of Loot
+app.title.short: Heroes of Loot
+app.type: game
+modifier: niol
+pkg.filename: com.orangepixel.dungeonhumble
+pkg.source: humblebundle
+pkg.version: —
+pkg.version: 1.6.7 (=30)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+tags: videogame [[rogue-like]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Opera Mini
 app.title.short: Opera Mini
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.opera.mini.android
 pkg.source: com.android.vending
 pkg.version: 7.6.4 (=34)

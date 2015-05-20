@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Opera
 app.title.short: Opera
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.opera.browser
 pkg.source: com.android.vending
 pkg.version: 28.0.1764.90386 (=1600590386)

@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Storage Analyser
 app.title.short: Storage Analyser
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.levelokment.storageanalyser
 pkg.source: com.android.vending
 pkg.version: 0.9.9 (=50)

@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: K-9 Mail
 app.title.short: K-9 Mail
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.fsck.k9
 pkg.source: com.android.vending
 pkg.version: 5.004 (=22004)

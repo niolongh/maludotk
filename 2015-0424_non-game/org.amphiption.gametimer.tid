@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Game Timer
 app.title.short: Game Timer
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: org.amphiption.gametimer
 pkg.source: com.android.vending
 pkg.version: 1.7.0 (=17)

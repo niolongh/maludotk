@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Paced Breathing
 app.title.short: Paced Breathing
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.apps.paced.breathing
 pkg.source: com.android.vending
 pkg.version: 2.0 (=208)

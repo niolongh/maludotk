@@ -1,0 +1,20 @@
+app.credits: —
+app.title.full: Fleksy
+app.title.short: Fleksy
+app.type: non-game
+modifier: niol
+pkg.filename: com.syntellia.fleksy.amazon.keyboard
+pkg.source: com.amazon.venezia
+pkg.version: —
+pkg.version: 5.4.4 (=166)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: [[non-game software]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

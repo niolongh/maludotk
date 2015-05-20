@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: MPDroid
 app.title.short: MPDroid
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.namelessdev.mpdroid
 pkg.source: 
 pkg.version: 1.07.2 (=54)

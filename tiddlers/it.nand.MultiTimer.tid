@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: nandSOFT Multi Timer
 app.title.short: nandSOFT Multi Timer
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: it.nand.MultiTimer
 pkg.source: com.android.vending
 pkg.version: 0.9.5 (=14)

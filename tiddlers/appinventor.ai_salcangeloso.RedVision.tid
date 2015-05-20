@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: RedVision
 app.title.short: RedVision
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: appinventor.ai_salcangeloso.RedVision
 pkg.source: com.amazon.venezia
 pkg.version: 1.0 (=1)

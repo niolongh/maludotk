@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Notepad+
 app.title.short: Notepad+
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.apalon.notepad
 pkg.source: com.amazon.venezia
 pkg.version: 2.4 (=14)

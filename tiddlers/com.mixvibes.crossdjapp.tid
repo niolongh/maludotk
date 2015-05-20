@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Cross DJ
 app.title.short: Cross DJ
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.mixvibes.crossdjapp
 pkg.source: com.amazon.venezia
 pkg.version: 2.0.3 (=2000300000)

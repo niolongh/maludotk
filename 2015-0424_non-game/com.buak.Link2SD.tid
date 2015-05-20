@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Link2SD
 app.title.short: Link2SD
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.buak.Link2SD
 pkg.source: com.android.vending
 pkg.version: 4.0.11 (=351)

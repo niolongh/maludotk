@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: MathsApp
 app.title.short: MathsApp
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.mathsapp.graphing
 pkg.source: com.amazon.venezia
 pkg.version: 1.3.1 (=1310)

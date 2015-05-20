@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Chordbot Lite
 app.title.short: Chordbot Lite
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.chordbot.demo.gui
 pkg.source: com.android.vending
 pkg.version: 2.15 (=2150000)

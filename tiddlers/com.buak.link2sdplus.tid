@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Link2SD Plus (New)
 app.title.short: Link2SD Plus (New)
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.buak.link2sdplus
 pkg.source: com.android.vending
 pkg.version: 1.1 (=11)

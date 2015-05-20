@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Firefox
 app.title.short: Firefox
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: org.mozilla.firefox
 pkg.source: 
 pkg.version: 37.0.2 (=2015041329)

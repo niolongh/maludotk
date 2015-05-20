@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Voodoo OTA RootKeeper
 app.title.short: Voodoo OTA RootKeeper
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: org.projectvoodoo.otarootkeeper
 pkg.source: com.android.vending
 pkg.version: 2.0.3 (=10)

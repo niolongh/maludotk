@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Generate
 app.title.short: Generate
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: uk.amimetic.generate
 pkg.source: com.android.vending
 pkg.version: 2 (=7)

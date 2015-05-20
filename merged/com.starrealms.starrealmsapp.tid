@@ -1,0 +1,22 @@
+app.credits: —
+app.credits: White Wizard Games
+app.title.full: Star Realms
+app.title.short: Star Realms
+app.type: game
+modifier: niol
+pkg.filename: com.starrealms.starrealmsapp
+pkg.source: com.android.vending
+pkg.version: —
+pkg.version: 2.22 (=23)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame [[boardgame conversion]] cardgame
+tags: videogame [[deck building]] [[card game]] [[multiplayer: online]] [[multiplayer: pass and play]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

@@ -1,0 +1,25 @@
+app.credits: —
+app.credits: HandyGames
+app.title.full: GnG Heroes
+app.title.full: Guns'n'Glory Heroes 
+app.title.short: GnG Heroes
+app.type: game
+modifier: niol
+pkg.filename: com.hg.gunsandglory3
+pkg.source: com.amazon.venezia
+pkg.version: —
+pkg.version: 1.2.3 (=10)
+review.rating: +
+review.rating: —
+review.status: juste créé
+review.status: test minimal
+review.summary: —
+tags: videogame
+tags: videogame [[tower defense]] [[real-time strategy]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

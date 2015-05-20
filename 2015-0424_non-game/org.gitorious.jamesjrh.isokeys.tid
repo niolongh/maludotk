@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Hexiano
 app.title.short: Hexiano
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: org.gitorious.jamesjrh.isokeys
 pkg.source: com.android.vending
 pkg.version: 0.82.1 ALPHA (=14)

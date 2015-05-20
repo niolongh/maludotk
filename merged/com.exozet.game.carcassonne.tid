@@ -1,0 +1,23 @@
+app.credits: —
+app.credits: Exocet
+app.title.full: Carcassonne
+app.title.short: Carcassonne
+app.type: game
+modifier: niol
+pkg.filename: com.exozet.game.carcassonne
+pkg.source: humblebundle
+pkg.version: —
+pkg.version: 2.0.1f13020 (=13021)
+review.rating: +
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame [[boardgame conversion]]
+tags: videogame boardgame conversion
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

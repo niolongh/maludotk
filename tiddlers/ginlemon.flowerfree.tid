@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Smart Launcher
 app.title.short: Smart Launcher
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: ginlemon.flowerfree
 pkg.source: com.android.vending
 pkg.version: 2.12-final (=243)

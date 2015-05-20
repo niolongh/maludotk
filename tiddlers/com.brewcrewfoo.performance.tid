@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Performance Control
 app.title.short: Performance Control
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.brewcrewfoo.performance
 pkg.source: 
 pkg.version: 2.2.5 (=2205)

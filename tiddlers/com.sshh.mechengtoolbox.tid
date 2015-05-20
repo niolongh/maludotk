@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Mechanical Engineering Toolbox
 app.title.short: Mechanical Engineering Toolbox
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.sshh.mechengtoolbox
 pkg.source: com.android.vending
 pkg.version: 1.2.1 (=8)

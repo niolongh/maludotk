@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Humble Bundle
 app.title.short: Humble Bundle
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.humblebundle.library
 pkg.source: 
 pkg.version: 2.0.9 (=32)

@@ -1,0 +1,22 @@
+app.credits: —
+app.credits: David Williamson
+app.title.full: Hack, Slash, Loot
+app.title.short: Hack, Slash, Loot
+app.type: game
+modifier: niol
+pkg.filename: com.DavidWilliamson.HackSlashLoot
+pkg.source: humblebundle
+pkg.version: —
+pkg.version: 1.4 (=5)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame roguelike
+tags: videogame [[rogue-like]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

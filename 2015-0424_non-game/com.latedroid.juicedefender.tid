@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: JuiceDefender
 app.title.short: JuiceDefender
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.latedroid.juicedefender
 pkg.source: 
 pkg.version: 3.9.4 (=394)

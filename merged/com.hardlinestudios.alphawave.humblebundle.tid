@@ -1,0 +1,25 @@
+app.credits: —
+app.credits: Hardline Studios
+app.title.full: Alpha Wave
+app.title.short: Alpha Wave
+app.type: game
+modifier: niol
+pkg.filename: com.hardlinestudios.alphawave.humblebundle
+pkg.source: humblebundle
+pkg.version: —
+pkg.version: 1.1.1 (=1001001)
+review.rating: +
+review.rating: —
+review.status: juste créé
+review.status: un peu testé
+review.summary: —
+review.summary: Entre Asteroids et Space Invaders
+tags: videogame shooter space
+tags: videogame shooter [[space invaders]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

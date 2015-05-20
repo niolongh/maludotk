@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Language.English
 app.title.short: Language.English
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: klye.plugin.en
 pkg.source: com.android.vending
 pkg.version: 4.2 (=8)

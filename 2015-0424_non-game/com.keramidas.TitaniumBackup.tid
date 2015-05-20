@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Titanium Backup
 app.title.short: Titanium Backup
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.keramidas.TitaniumBackup
 pkg.source: com.android.vending
 pkg.version: 7.0.1.1 (=358)

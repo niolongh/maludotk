@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Qustomer
 app.title.short: Qustomer
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.qustomer.android
 pkg.source: com.android.vending
 pkg.version: 1.3.5 (=14)

@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: HK "Français (fr)" Dictionary
 app.title.short: HK "Français (fr)" Dictionary
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: org.pocketworkstation.dict.fr
 pkg.source: com.android.vending
 pkg.version: 1.4 (=1003)

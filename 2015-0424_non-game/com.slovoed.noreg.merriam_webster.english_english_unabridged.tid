@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Unabridged
 app.title.short: Unabridged
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.slovoed.noreg.merriam_webster.english_english_unabridged
 pkg.source: com.amazon.venezia
 pkg.version: 3.4.182.24004 (=353452932)

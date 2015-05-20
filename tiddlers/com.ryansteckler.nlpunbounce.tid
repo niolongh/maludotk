@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Amplify
 app.title.short: Amplify
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.ryansteckler.nlpunbounce
 pkg.source: com.android.vending
 pkg.version: 3.0.5 (=55)

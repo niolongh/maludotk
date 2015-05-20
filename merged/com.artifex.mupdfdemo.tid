@@ -1,0 +1,23 @@
+app.credits: —
+app.title.full: MuPDF
+app.title.short: MuPDF
+app.type: non-game
+modifier: niol
+pkg.filename: com.artifex.mupdfdemo
+pkg.source: com.android.vending
+pkg.version: —
+pkg.version: 1.7 (Build 71/armv7a) (=71)
+review.rating: —
+review.rating: 3
+review.status: juste créé
+review.summary: —
+tags: [[non-game software]]
+tags: [[non-game software]] [[document viewer]] pdf
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—
+Lecteur PDF léger. Sans fioriture.

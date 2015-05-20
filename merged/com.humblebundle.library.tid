@@ -1,0 +1,25 @@
+app.credits: —
+app.credits: Humble Bundle, Inc
+app.title.full: Humble Bundle
+app.title.short: Humble Bundle
+app.type: non-game
+modifier: niol
+pkg.filename: com.humblebundle.library
+pkg.source: 
+pkg.source: com.android.vending
+pkg.version: —
+pkg.version: 2.0.9 (=32)
+review.rating: —
+review.rating: 3
+review.status: juste créé
+review.summary: —
+tags: [[non-game software]]
+tags: [[non-game software]] [[application manager]] store
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—
+Indispensable pour Humble Bundle mais perfectible. Plutôt lent (surtout pour la mise-à-jour de la librairie). Devrait permettre d'afficher les jeux d'un seul Humble Bundle à la fois car à force il devient difficile de repérer les nouveautés !!

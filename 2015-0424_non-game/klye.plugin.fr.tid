@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Plugin.French
 app.title.short: Plugin.French
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: klye.plugin.fr
 pkg.source: com.android.vending
 pkg.version: 2.1 (=6)

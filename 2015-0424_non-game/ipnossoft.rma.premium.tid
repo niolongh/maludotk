@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Relax Melodies Premium
 app.title.short: Relax Melodies Premium
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: ipnossoft.rma.premium
 pkg.source: com.amazon.venezia
 pkg.version: 3.1 (=16)

@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Autodesk SketchBook
 app.title.short: Autodesk SketchBook
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.adsk.sketchbookhd
 pkg.source: com.amazon.venezia
 pkg.version: 2.9.3 (=23)

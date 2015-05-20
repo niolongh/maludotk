@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Gmote
 app.title.short: Gmote
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: org.gmote.client.android
 pkg.source: com.android.vending
 pkg.version: 2.0.7 (=10)

@@ -1,0 +1,20 @@
+app.credits: —
+app.title.full: Savant - Ascent
+app.title.short: Savant - Ascent
+app.type: game
+modifier: niol
+pkg.filename: com.dpadstudio.humble
+pkg.source: humblebundle
+pkg.version: —
+pkg.version: 1.52.1 (=1052001)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

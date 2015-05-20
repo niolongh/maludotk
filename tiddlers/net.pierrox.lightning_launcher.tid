@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Lightning Launcher
 app.title.short: Lightning Launcher
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: net.pierrox.lightning_launcher
 pkg.source: com.android.vending
 pkg.version: 12.4.2 (r2198) (=2245)

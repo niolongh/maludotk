@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Timers4Me+
 app.title.short: Timers4Me+
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.luckyxmobile.timers4meplus
 pkg.source: com.amazon.venezia
 pkg.version: 5.5 (=8015)

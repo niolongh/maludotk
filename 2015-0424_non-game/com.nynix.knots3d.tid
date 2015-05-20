@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Knots 3D
 app.title.short: Knots 3D
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.nynix.knots3d
 pkg.source: com.amazon.venezia
 pkg.version: 4.3.1 (=431)

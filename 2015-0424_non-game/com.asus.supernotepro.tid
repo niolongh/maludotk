@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: SuperNote Pro
 app.title.short: SuperNote Pro
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.asus.supernotepro
 pkg.source: com.android.vending
 pkg.version: 1.6.2 build 14.0620 (=90)

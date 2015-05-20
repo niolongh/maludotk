@@ -1,0 +1,22 @@
+app.credits: —
+app.title.full: Xposed Installer
+app.title.short: Xposed Installer
+app.type: non-game
+modifier: niol
+pkg.filename: de.robv.android.xposed.installer
+pkg.source: 
+pkg.source: web=http://repo.xposed.info/module/de.robv.android.xposed.installer
+pkg.version: —
+pkg.version: 2.6.1 (=32)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: [[non-game software]]
+tags: [[non-game software]] store
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

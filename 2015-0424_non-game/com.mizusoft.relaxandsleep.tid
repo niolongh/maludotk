@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Relax and Sleep
 app.title.short: Relax and Sleep
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.mizusoft.relaxandsleep
 pkg.source: com.android.vending
 pkg.version: 4.4 (=40)

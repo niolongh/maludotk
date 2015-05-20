@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Pocket Physics
 app.title.short: Pocket Physics
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: Gecko.Droid.PhysicsHelper
 pkg.source: com.android.vending
 pkg.version: 2.1.76-GP (=76)

@@ -1,0 +1,24 @@
+app.credits: —
+app.credits: Cartoon Network
+app.title.full: GhostToasters
+app.title.full: Regular Show — Ghost Toasters
+app.title.short: GhostToasters
+app.type: game
+modifier: niol
+pkg.filename: com.turner.ghosttoasters
+pkg.source: humblebundle
+pkg.version: —
+pkg.version: 1.2 (=20)
+review.rating: +
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+tags: videogame platform shooter
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

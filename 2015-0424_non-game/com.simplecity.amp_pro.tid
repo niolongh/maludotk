@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Shuttle+
 app.title.short: Shuttle+
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.simplecity.amp_pro
 pkg.source: com.amazon.venezia
 pkg.version: 1.5.1 (=189)

@@ -1,0 +1,21 @@
+app.credits: —
+app.credits: Ice-Pick Lodge Studio
+app.title.full: Knock-Knock
+app.title.short: Knock-Knock
+app.type: game
+modifier: niol
+pkg.filename: com.IcePick.KnockKnockRelease
+pkg.source: com.amazon.venezia
+pkg.version: —
+pkg.version: 1.29 (=29)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: videogame
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

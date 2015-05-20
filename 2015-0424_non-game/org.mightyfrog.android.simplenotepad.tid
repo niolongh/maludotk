@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Simple Notepad
 app.title.short: Simple Notepad
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: org.mightyfrog.android.simplenotepad
 pkg.source: com.android.vending
 pkg.version: 1.8.3 (=136)

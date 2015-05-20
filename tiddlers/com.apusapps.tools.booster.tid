@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Booster+
 app.title.short: Booster+
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.apusapps.tools.booster
 pkg.source: com.android.vending
 pkg.version: 1.1.0 (=7)

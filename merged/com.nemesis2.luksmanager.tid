@@ -1,0 +1,20 @@
+app.credits: —
+app.title.full: LUKS Manager
+app.title.short: LUKS Manager
+app.type: non-game
+modifier: niol
+pkg.filename: com.nemesis2.luksmanager
+pkg.source: com.android.vending
+pkg.version: —
+pkg.version: 2.4 (=8)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: [[non-game software]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

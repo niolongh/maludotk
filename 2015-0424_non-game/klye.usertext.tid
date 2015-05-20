@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: AutoText|NextWord
 app.title.short: AutoText|NextWord
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: klye.usertext
 pkg.source: com.android.vending
 pkg.version: 2.1 (=5)

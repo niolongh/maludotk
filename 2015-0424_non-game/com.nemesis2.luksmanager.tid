@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: LUKS Manager
 app.title.short: LUKS Manager
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.nemesis2.luksmanager
 pkg.source: com.android.vending
 pkg.version: 2.4 (=8)

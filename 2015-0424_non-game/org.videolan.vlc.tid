@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: VLC
 app.title.short: VLC
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: org.videolan.vlc
 pkg.source: 
 pkg.version: 0.9.10 (=10004)

@@ -1,0 +1,25 @@
+app.credits: —
+app.credits: Harebrained Schemes
+app.title.full: Shadowrun
+app.title.full: Shadowrun Returns
+app.title.short: Shadowrun
+app.type: game
+modifier: niol
+pkg.filename: com.harebrainedschemes.shadowrun
+pkg.source: 
+pkg.source: humblebundle
+pkg.version: 1.2.7 (=21)
+review.rating: +
+review.rating: —
+review.status: à peine testé
+review.status: juste créé
+review.summary: —
+tags: videogame
+tags: videogame [[turn-based]] tactical rpg
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

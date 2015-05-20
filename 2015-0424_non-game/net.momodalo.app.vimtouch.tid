@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: VimTouch
 app.title.short: VimTouch
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: net.momodalo.app.vimtouch
 pkg.source: com.android.vending
 pkg.version: 2.7.1501021018 (=1501021018)

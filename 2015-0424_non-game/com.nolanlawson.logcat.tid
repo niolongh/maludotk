@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: CatLog
 app.title.short: CatLog
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.nolanlawson.logcat
 pkg.source: com.android.vending
 pkg.version: 1.6.0 (=43)

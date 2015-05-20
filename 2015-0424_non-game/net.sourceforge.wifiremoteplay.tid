@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Wifi Remote Play
 app.title.short: Wifi Remote Play
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: net.sourceforge.wifiremoteplay
 pkg.source: cm.aptoide.pt
 pkg.version: 1.12 (=8)

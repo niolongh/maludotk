@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: MathFormulas
 app.title.short: MathFormulas
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.whitesof.mathformulas
 pkg.source: com.android.vending
 pkg.version: 14.4 (=27)

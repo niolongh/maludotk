@@ -1,0 +1,20 @@
+app.credits: —
+app.title.full: Sensor Box Plugin
+app.title.short: Sensor Box Plugin
+app.type: non-game
+modifier: niol
+pkg.filename: com.imoblife.senorbox_plug_in
+pkg.source: com.android.vending
+pkg.version: —
+pkg.version: 2.1 (=8)
+review.rating: —
+review.status: juste créé
+review.summary: —
+tags: [[non-game software]]
+test.hw.model: Asus Transformer Prime TF201
+test.hw.type: tablette
+test.os.family: android
+test.os.version: 4.1.1
+type: text/vnd.tiddlywiki
+
+—

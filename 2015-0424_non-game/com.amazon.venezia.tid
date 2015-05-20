@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Appstore
 app.title.short: Appstore
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.amazon.venezia
 pkg.source: com.amazon.venezia
 pkg.version: release-16.0001.890.0C_646000110 (=646000110)

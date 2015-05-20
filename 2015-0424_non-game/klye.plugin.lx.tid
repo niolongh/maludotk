@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: MK.linux.plugin
 app.title.short: MK.linux.plugin
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: klye.plugin.lx
 pkg.source: com.android.vending
 pkg.version: 1.0 (=1)

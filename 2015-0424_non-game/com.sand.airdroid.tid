@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: AirDroid
 app.title.short: AirDroid
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.sand.airdroid
 pkg.source: com.android.vending
 pkg.version: 3.0.4.1 (=20137)

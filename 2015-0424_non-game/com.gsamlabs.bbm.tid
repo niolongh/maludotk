@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: GSam Battery Monitor
 app.title.short: GSam Battery Monitor
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.gsamlabs.bbm
 pkg.source: com.android.vending
 pkg.version: 3.24 (=703241)

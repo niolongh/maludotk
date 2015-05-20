@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Oxford Spanish Dictionary
 app.title.short: Oxford Spanish Dictionary
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.mobisystems.msdict.embedded.wireless.oxford.spanish.full
 pkg.source: com.amazon.venezia
 pkg.version: 4.3.106 (=74)

@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Fleksy
 app.title.short: Fleksy
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.syntellia.fleksy.amazon.keyboard
 pkg.source: com.amazon.venezia
 pkg.version: 5.4.4 (=166)

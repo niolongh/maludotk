@@ -2,7 +2,7 @@ app.credits: —
 app.title.full: Perfect Viewer
 app.title.short: Perfect Viewer
 app.type: non-game
-modifier: niolongh
+modifier: niol
 pkg.filename: com.rookiestudio.perfectviewer
 pkg.source: com.android.vending
 pkg.version: 2.5.2.6 (=318)
