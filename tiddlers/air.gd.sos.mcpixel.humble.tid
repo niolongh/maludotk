@@ -5,11 +5,11 @@ app.type: game
 modifier: niol
 pkg.filename: air.gd.sos.mcpixel.humble
 pkg.source: humblebundle
-pkg.version: —
+pkg.version: 1.1.1 (=1001001)
 review.rating: 3
 review.status: juste créé
 review.summary: —
-tags: videogame adventure minimalism
+tags: videogame [[point'n'click]] adventure minimalism
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

@@ -1,11 +1,11 @@
-app.credits: —
-app.title.full: Sorcery!
+app.credits: inkle Ltd
+app.title.full: Steve Jackson's Sorcery!
 app.title.short: Sorcery!
 app.type: game
 modifier: niol
 pkg.filename: com.inkle.humble.sorcery1
 pkg.source: humblebundle
-pkg.version: —
+pkg.version: 1.1.3 (=203)
 review.rating: —
 review.status: juste créé
 review.summary: —

@@ -5,7 +5,7 @@ app.type: non-game
 modifier: niol
 pkg.filename: com.nolanlawson.logcat
 pkg.source: com.android.vending
-pkg.version: —
+pkg.version: 1.6.0 (=43)
 review.rating: —
 review.status: juste créé
 review.summary: —

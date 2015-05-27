@@ -1,11 +1,11 @@
-app.credits: —
+app.credits: Crescent Moon Games
 app.title.full: Neon Shadow
 app.title.short: Neon Shadow
 app.type: game
 modifier: niol
 pkg.filename: com.crescentmoongames.neonshadow
 pkg.source: humblebundle
-pkg.version: —
+pkg.version: 1.3 (=13)
 review.rating: —
 review.status: juste créé
 review.summary: —

@@ -1,11 +1,11 @@
 app.credits: Ronimo Games
 app.title.full: Swords & Soldiers HD
-app.title.short: Swords & Soldiers HD
+app.title.short: S&S
 app.type: game
 modifier: niol
 pkg.filename: com.twotribes.sns.humble
 pkg.source: humblebundle
-pkg.version: —
+pkg.version: 1.0.9 (=1352962374)
 review.rating: 3
 review.status: juste créé
 review.summary: —

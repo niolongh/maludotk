@@ -1,0 +1,28 @@
+$  unset DAT NON DNAM FNAM \
+&& export DAT=2015-0506 \
+          NON= \
+          DNAM=$DAT\_$NON\game \
+          FNAM=$DNAM\-lst-inc.txt \
+&& mkdir $DNAM \
+&& split -l19 -- $FNAM \
+&& find . -iname "x*" \
+   | parallel "mv {} $DNAM/\`grep -o -P '(?<=^pkg.filename: ).*$' {}\`.tid"
+
+$  find . -iname *.tid -type f | parallel "sed -i 's/―/—/g'"
+$  find tiddlers/ -type f | parallel "sed -i '/^\(created\|title\):/d'"
+
+$  rdfind -deleteduplicates true tiddlers 2*
+
+$  find 2015-0518_game/ -type f | cut -d\/ -f2 | parallel -j1 "find 2*/ -iname {}" | parallel -j1 -n2 --tty "vimdiff"
+
+$  vimdiff $(ls -1 */air*Glork*) ### ALTERNATIVE
+
+$  mkdir merged \
+;  find 2*/ -type f \
+   | cut -d\/ -f2 \
+   | parallel -j1 "find . -iname {}" \
+   | parallel -j1 -n2 "cat <(head -q -n 17 {} | sort -u) \
+                           <(echo ) \
+                           <(tail -q -n +19 {} | sort -u) \
+                           > {1}.mrg" \
+; mv */*.mrg merged ; cd merged ; rename "s/\.mrg$//" * ; cd ..

@@ -1,12 +1,12 @@
 app.credits: EntwicklerX
-app.title.full: Shuffle Board
+app.title.full: ShuffleBoard DX
 app.title.short: Shuffle Board
 app.type: game
 modifier: niol
 pkg.filename: com.entwicklerx.shuffleboard
-pkg.source: com.android.vending
-pkg.version: —
-review.rating: 1
+pkg.source: com.amazon.venezia
+pkg.version: 1.32 (=32)
+review.rating: —
 review.status: juste créé
 review.summary: —
 tags: videogame
@@ -16,4 +16,4 @@ test.os.family: android
 test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
-Needs to be improved. The background image doesn't fit the TFP screen! A multiplayer mode would be cool.
+—

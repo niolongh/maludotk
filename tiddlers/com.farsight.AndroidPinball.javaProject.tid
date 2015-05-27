@@ -5,7 +5,7 @@ app.type: game
 modifier: niol
 pkg.filename: com.farsight.AndroidPinball.javaProject
 pkg.source: com.android.vending
-pkg.version: —
+pkg.version: 1.35.8 (=120)
 review.rating: —
 review.status: juste créé
 review.summary: —

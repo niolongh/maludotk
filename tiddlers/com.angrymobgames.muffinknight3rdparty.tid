@@ -1,15 +1,15 @@
-app.credits: —
+app.credits: Angry Mob Games
 app.title.full: Muffin Knight
 app.title.short: Muffin Knight
 app.type: game
 modifier: niol
 pkg.filename: com.angrymobgames.muffinknight3rdparty
 pkg.source: com.amazon.venezia
-pkg.version: —
-review.rating: —
-review.status: juste créé
+pkg.version: 1.8.2 (=9212)
+review.rating: +
+review.status: bien testé
 review.summary: —
-tags: videogame
+tags: videogame platform shooter
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

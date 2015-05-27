@@ -1,11 +1,11 @@
 app.credits: momodalo design
 app.title.full: Vim Touch
-app.title.short: Vim Touch
+app.title.short: VimTouch
 app.type: non-game
 modifier: niol
 pkg.filename: net.momodalo.app.vimtouch
 pkg.source: com.android.vending
-pkg.version: —
+pkg.version: 2.7.1501021018 (=1501021018)
 review.rating: 4
 review.status: juste créé
 review.summary: —

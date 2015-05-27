@@ -1,15 +1,15 @@
-app.credits: —
-app.title.full: Dabble HD
+app.credits: INI, LLC
+app.title.full: Dabble HD — The Fast Thinking Word Game
 app.title.short: Dabble HD
 app.type: game
 modifier: niol
 pkg.filename: com.inillc.dabbleHD
 pkg.source: com.amazon.venezia
-pkg.version: —
-review.rating: —
-review.status: juste créé
+pkg.version: 1.3 (=13)
+review.rating: +
+review.status: un peu testé
 review.summary: —
-tags: videogame
+tags: videogame puzzle [[word game]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

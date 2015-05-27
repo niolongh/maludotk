@@ -1,15 +1,15 @@
-app.credits: —
-app.title.full: SpaceChem
+app.credits: Zachtronics
+app.title.full: SpaceChem Mobile
 app.title.short: SpaceChem
 app.type: game
 modifier: niol
 pkg.filename: com.zachtronicsindustries.android.spacechem.humblebundle
 pkg.source: humblebundle
-pkg.version: —
-review.rating: —
-review.status: juste créé
+pkg.version: 1011m (=12)
+review.rating: +
+review.status: didacticiel
 review.summary: —
-tags: videogame
+tags: videogame puzzle
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

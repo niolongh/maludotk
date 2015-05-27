@@ -1,11 +1,11 @@
-app.credits: —
-app.title.full: FF:FOD
+app.credits: Tin Man Games
+app.title.full: Fighting Fantasy [03] The Forest of Doom
 app.title.short: FF:FOD
 app.type: game
 modifier: niol
 pkg.filename: au.com.tinmangames.fightingfantasy.forestofdoom.humble
 pkg.source: humblebundle
-pkg.version: —
+pkg.version: 1.2990 (=52990)
 review.rating: —
 review.status: juste créé
 review.summary: —

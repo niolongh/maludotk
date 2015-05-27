@@ -1,13 +1,13 @@
-app.credits: —
-app.title.full: Aaaaaaaaaa!
+app.credits: Dejobaan Games, LLC
+app.title.full: AaaaaAAaaaAAAaaAAAAaAAAAA!!!
 app.title.short: Aaaaaaaaaa!
 app.type: game
 modifier: niol
 pkg.filename: com.dejobaangames.awesome.humble
 pkg.source: humblebundle
-pkg.version: —
-review.rating: —
-review.status: juste créé
+pkg.version: 1.6 (=26)
+review.rating: +
+review.status: un peu testé
 review.summary: —
 tags: videogame dexterity [[obstacle runner]] [[sky diving]]
 test.hw.model: Asus Transformer Prime TF201

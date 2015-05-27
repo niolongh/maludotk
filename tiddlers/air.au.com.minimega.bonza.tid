@@ -1,15 +1,15 @@
-app.credits: —
+app.credits: MiniMega
 app.title.full: Bonza
 app.title.short: Bonza
 app.type: game
 modifier: niol
 pkg.filename: air.au.com.minimega.bonza
-pkg.source: com.android.vending
-pkg.version: —
-review.rating: —
-review.status: juste créé
+pkg.source: com.amazon.venezia
+pkg.version: 1.6.11 (=1006011)
+review.rating: +
+review.status: beaucoup joué
 review.summary: —
-tags: videogame
+tags: videogame puzzle [[word game]] crossword
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

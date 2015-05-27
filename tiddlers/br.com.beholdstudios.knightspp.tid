@@ -1,15 +1,15 @@
-app.credits: —
-app.title.full: Pen and Paper
+app.credits: Paradox Interactive
+app.title.full: Knights of Pen & Paper +1
 app.title.short: Pen and Paper
 app.type: game
 modifier: niol
 pkg.filename: br.com.beholdstudios.knightspp
 pkg.source: humblebundle
-pkg.version: —
+pkg.version: 2.20 (=220)
 review.rating: —
 review.status: juste créé
 review.summary: —
-tags: videogame
+tags: videogame rpg
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

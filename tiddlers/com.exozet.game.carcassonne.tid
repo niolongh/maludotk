@@ -1,12 +1,12 @@
-app.credits: —
+app.credits: Exocet
 app.title.full: Carcassonne
 app.title.short: Carcassonne
 app.type: game
 modifier: niol
 pkg.filename: com.exozet.game.carcassonne
 pkg.source: humblebundle
-pkg.version: —
-review.rating: —
+pkg.version: 2.0.1f13020 (=13021)
+review.rating: +
 review.status: juste créé
 review.summary: —
 tags: videogame [[boardgame conversion]]

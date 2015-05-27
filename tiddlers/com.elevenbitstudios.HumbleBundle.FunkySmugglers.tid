@@ -1,11 +1,11 @@
 app.credits: 11 bit studios
 app.title.full: Funky Smugglers
-app.title.short: Funky Smugglers
+app.title.short: Smugglers
 app.type: game
 modifier: niol
 pkg.filename: com.elevenbitstudios.HumbleBundle.FunkySmugglers
 pkg.source: humblebundle
-pkg.version: —
+pkg.version: 1.06 (=70)
 review.rating: —
 review.status: juste créé
 review.summary: —

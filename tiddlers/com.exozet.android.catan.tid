@@ -1,11 +1,11 @@
-app.credits: —
+app.credits: USM
 app.title.full: Catan
 app.title.short: Catan
 app.type: game
 modifier: niol
 pkg.filename: com.exozet.android.catan
 pkg.source: humblebundle
-pkg.version: —
+pkg.version: 4.1.0 (=41003)
 review.rating: —
 review.status: juste créé
 review.summary: —

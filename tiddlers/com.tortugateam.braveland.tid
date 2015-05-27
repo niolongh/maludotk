@@ -1,15 +1,15 @@
-app.credits: —
+app.credits: Tortuga Team
 app.title.full: Braveland
 app.title.short: Braveland
 app.type: game
 modifier: niol
 pkg.filename: com.tortugateam.braveland
 pkg.source: com.amazon.venezia
-pkg.version: —
+pkg.version: 1.1 (=1)
 review.rating: —
 review.status: juste créé
 review.summary: —
-tags: videogame
+tags: videogame [[turn-based]] tactics
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

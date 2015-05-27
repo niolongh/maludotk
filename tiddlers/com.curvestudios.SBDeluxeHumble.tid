@@ -1,13 +1,13 @@
 app.credits: Curve Studios
 app.title.full: Stealth Bastard Deluxe
-app.title.short: Stealth Bastard Deluxe
+app.title.short: SB Deluxe
 app.type: game
 modifier: niol
 pkg.filename: com.curvestudios.SBDeluxeHumble
 pkg.source: humblebundle
-pkg.version: —
-review.rating: —
-review.status: juste créé
+pkg.version: 1.63.9 (=1063009)
+review.rating: +
+review.status: un peu testé
 review.summary: —
 tags: videogame stealth
 test.hw.model: Asus Transformer Prime TF201

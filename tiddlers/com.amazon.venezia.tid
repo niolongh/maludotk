@@ -4,8 +4,8 @@ app.title.short: Appstore
 app.type: non-game
 modifier: niol
 pkg.filename: com.amazon.venezia
-pkg.source: web=http://www.amazon.com/
-pkg.version: —
+pkg.source: com.amazon.venezia
+pkg.version: release-16.0001.890.0C_646000110 (=646000110)
 review.rating: —
 review.status: juste créé
 review.summary: —

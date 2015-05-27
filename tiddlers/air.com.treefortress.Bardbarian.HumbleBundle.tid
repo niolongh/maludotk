@@ -1,13 +1,13 @@
-app.credits: —
+app.credits: TreeFortress Games
 app.title.full: Bardbarian - Humble Bundle Edition
 app.title.short: Bardbarian - Humble Bundle Edition
 app.type: game
 modifier: niol
 pkg.filename: air.com.treefortress.Bardbarian.HumbleBundle
 pkg.source: humblebundle
-pkg.version: —
+pkg.version: 1.4.7 (=1004007)
 review.rating: —
-review.status: juste créé
+review.status: à peine testé
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201

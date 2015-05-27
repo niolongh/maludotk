@@ -5,7 +5,7 @@ app.type: game
 modifier: niol
 pkg.filename: com.worms2armageddon.app.humble
 pkg.source: humblebundle
-pkg.version: —
+pkg.version: 1.4.1 (=17)
 review.rating: 5
 review.status: juste créé
 review.summary: —

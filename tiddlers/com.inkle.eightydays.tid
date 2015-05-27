@@ -1,11 +1,11 @@
-app.credits: —
+app.credits: inkle Ltd
 app.title.full: 80 Days
 app.title.short: 80 Days
 app.type: game
 modifier: niol
 pkg.filename: com.inkle.eightydays
-pkg.source: com.amazon.venezia
-pkg.version: —
+pkg.source: humblebundle
+pkg.version: 1.0.6 (=1060)
 review.rating: —
 review.status: juste créé
 review.summary: —

@@ -5,7 +5,7 @@ app.type: non-game
 modifier: niol
 pkg.filename: ru.zdevs.zarchiver
 pkg.source: com.android.vending
-pkg.version: —
+pkg.version: 0.8.3 (=830)
 review.rating: 5
 review.status: juste créé
 review.summary: —

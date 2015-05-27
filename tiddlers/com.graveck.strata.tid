@@ -5,7 +5,7 @@ app.type: game
 modifier: niol
 pkg.filename: com.graveck.strata
 pkg.source: humblebundle
-pkg.version: —
+pkg.version: 1.2.1 (=20140106)
 review.rating: —
 review.status: juste créé
 review.summary: —

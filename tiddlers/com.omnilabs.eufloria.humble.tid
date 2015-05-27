@@ -1,15 +1,15 @@
-app.credits: Omni Systems
+app.credits: Omni System Limited
 app.title.full: Eufloria HD
-app.title.short: Eufloria HD
+app.title.short: Eufloria
 app.type: game
 modifier: niol
 pkg.filename: com.omnilabs.eufloria.humble
 pkg.source: humblebundle
-pkg.version: —
-review.rating: —
-review.status: juste créé
+pkg.version: 1.0.12hb (=1369427402)
+review.rating: +
+review.status: un peu testé
 review.summary: —
-tags: videogame [[realtime strategy]] galcon-like
+tags: videogame [[real-time]] strategy [[galcon-like]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

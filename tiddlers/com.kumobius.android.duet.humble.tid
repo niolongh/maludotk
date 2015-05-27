@@ -1,13 +1,13 @@
-app.credits: —
+app.credits: Kumobius
 app.title.full: Duet Premium
 app.title.short: Duet Premium
 app.type: game
 modifier: niol
 pkg.filename: com.kumobius.android.duet.humble
 pkg.source: humblebundle
-pkg.version: —
-review.rating: —
-review.status: juste créé
+pkg.version: 2.2.0 (=122)
+review.rating: 4
+review.status: pas mal testé
 review.summary: —
 tags: videogame [[obstacle runner]]
 test.hw.model: Asus Transformer Prime TF201
