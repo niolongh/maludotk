@@ -7,9 +7,9 @@ pkg.filename: com.google.android.gms
 pkg.source: com.android.vending
 pkg.version: 7.3.29 (1866531-032) (=7329032)
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]]
+tags: non-videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

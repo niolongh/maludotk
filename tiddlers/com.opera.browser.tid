@@ -7,9 +7,9 @@ pkg.filename: com.opera.browser
 pkg.source: com.android.vending
 pkg.version: 28.0.1764.90386 (=1600590386)
 review.rating: 5
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]] freeware browser
+tags: non-videogame freeware browser
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

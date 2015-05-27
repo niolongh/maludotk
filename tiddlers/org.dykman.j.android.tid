@@ -7,9 +7,9 @@ pkg.filename: org.dykman.j.android
 pkg.source: web=https://github.com/mdykman/jconsole_for_android
 pkg.version: —
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]] programming
+tags: non-videogame programming
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

@@ -7,9 +7,9 @@ pkg.filename: de.onyxbits.listmyapps
 pkg.source: com.android.vending
 pkg.version: 3.6 (=16)
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]] [[application manager]] list
+tags: non-videogame [[application manager]] list
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

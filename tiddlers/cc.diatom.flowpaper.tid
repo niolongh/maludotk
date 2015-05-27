@@ -7,9 +7,9 @@ pkg.filename: cc.diatom.flowpaper
 pkg.source: com.amazon.venezia
 pkg.version: 1.10 (=11)
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]]
+tags: non-videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

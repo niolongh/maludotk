@@ -7,9 +7,9 @@ pkg.filename: com.imoblife.barcodescan_plug_in
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]] util [[barcode scanner]]
+tags: non-videogame util [[barcode scanner]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

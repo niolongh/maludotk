@@ -7,9 +7,9 @@ pkg.filename: com.buckman.magnatune
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]] audio music store
+tags: non-videogame audio music store
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

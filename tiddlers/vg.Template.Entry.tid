@@ -4,9 +4,9 @@ type: text/vnd.tiddlywiki
 
 \define editbutton()
 <span title="edit details">
-<$button 
-  set="$:/temp/vg.DB_vg.Template.Edit" 
-  setTo={{!!title}} 
+<$button
+  set="$:/temp/vg.DB_vg.Template.Edit"
+  setTo={{!!title}}
   class="btn-invisible"
 >
 {{$:/core/images/edit-button}}
@@ -15,23 +15,23 @@ type: text/vnd.tiddlywiki
 \end
 
 \define editfield()
-<$reveal 
-  state="$:/temp/vg.DB_vg.Template.Edit" 
-  text={{!!title}} 
+<$reveal
+  state="$:/temp/vg.DB_vg.Template.Edit"
+  text={{!!title}}
   type="match"
 >
 {{!!title||vg.Template.Edit}}
-<$button 
-  set="$:/temp/vg.DB_vg.Template.Edit" 
-  setTo="" 
+<$button
+  set="$:/temp/vg.DB_vg.Template.Edit"
+  setTo=""
   class="btn-invisible"
 >
 {{$:/core/images/done-button}}
 </$button>
 &nbsp;
-<$button 
-  param={{$:/temp/vg.DB_vg.Template.Edit}} 
-  message="tw-delete-tiddler" 
+<$button
+  param={{$:/temp/vg.DB_vg.Template.Edit}}
+  message="tw-delete-tiddler"
   class="btn-invisible"
 >
 {{$:/core/images/delete-button}}

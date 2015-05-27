@@ -7,9 +7,9 @@ pkg.filename: mobi.infolife.appbackup
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 5
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]] backup
+tags: non-videogame backup
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

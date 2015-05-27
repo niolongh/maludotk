@@ -1,10 +1,10 @@
 modified: 20150323204928983
-tags: 
+tags:
 type: text/vnd.tiddlywiki
 
-<$edit-text 
-  tiddler="$:/temp/vg.DB_vg.Template.Edit" 
-  tag="input" 
+<$edit-text
+  tiddler="$:/temp/vg.DB_vg.Template.Edit"
+  tag="input"
   type="text"
 />
 <$button class=<<tv-config-toolbar-class>>>

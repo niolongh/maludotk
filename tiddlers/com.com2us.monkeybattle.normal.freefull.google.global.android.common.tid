@@ -7,7 +7,7 @@ pkg.filename: com.com2us.monkeybattle.normal.freefull.google.global.android.comm
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: 1
-review.status: juste créé
+review.status: —
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201
@@ -16,4 +16,4 @@ test.os.family: android
 test.os.version: 4.1.1
 type: text/vnd.tiddlywiki
 
-Ne fonctionne pas sur l'Asus Transformer Prime. 
+Ne fonctionne pas sur l'Asus Transformer Prime.

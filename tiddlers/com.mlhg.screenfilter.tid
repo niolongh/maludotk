@@ -7,9 +7,9 @@ pkg.filename: com.mlhg.screenfilter
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]] [[display manager]] filter
+tags: non-videogame [[display manager]] filter
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

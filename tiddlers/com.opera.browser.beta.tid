@@ -8,9 +8,9 @@ pkg.filename: com.opera.browser.beta
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]] Internet [[web browser]]
+tags: non-videogame Internet [[web browser]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

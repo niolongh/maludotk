@@ -4,7 +4,7 @@ app.title.short: Dotello
 app.type: game
 modifier: niol
 pkg.filename: com.bulkypix.dotello
-pkg.source: 
+pkg.source:
 pkg.version: 1.2 (=1428584358)
 review.rating: 2
 review.status: test minimal

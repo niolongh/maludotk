@@ -1,10 +1,10 @@
 modified: 20150421182459329
-tags: 
+tags:
 type: text/vnd.tiddlywiki
 
-<$edit-text 
-  tiddler="$:/temp/vg.list-this-tag" 
-  tag="input" 
+<$edit-text
+  tiddler="$:/temp/vg.list-this-tag"
+  tag="input"
   type="text"
 />
 <$button class=<<tv-config-toolbar-class>>>

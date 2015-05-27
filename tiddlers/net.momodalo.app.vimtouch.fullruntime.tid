@@ -7,9 +7,9 @@ pkg.filename: net.momodalo.app.vimtouch.fullruntime
 pkg.source: com.android.vending
 pkg.version: 1.0 (=1)
 review.rating: 5
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]] [[text editor]] freeware
+tags: non-videogame [[text editor]] freeware
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

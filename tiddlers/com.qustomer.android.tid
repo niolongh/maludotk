@@ -7,9 +7,9 @@ pkg.filename: com.qustomer.android
 pkg.source: com.android.vending
 pkg.version: 1.3.5 (=14)
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]]
+tags: non-videogame
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

@@ -7,9 +7,9 @@ pkg.filename: com.nolanlawson.logcat
 pkg.source: com.android.vending
 pkg.version: 1.6.0 (=43)
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]] [[log viewer]]
+tags: non-videogame [[log viewer]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

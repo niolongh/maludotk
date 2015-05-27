@@ -4,10 +4,10 @@ app.title.short: Joe Danger
 app.type: game
 modifier: niol
 pkg.filename: uk.co.hellogames.jdtouch
-pkg.source: 
+pkg.source:
 pkg.version: 0.0.33 (=33)
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201

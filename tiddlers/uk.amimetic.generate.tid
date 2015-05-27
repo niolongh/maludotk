@@ -7,9 +7,9 @@ pkg.filename: uk.amimetic.generate
 pkg.source: com.android.vending
 pkg.version: 2 (=7)
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]] programming [[visual art]]
+tags: non-videogame programming [[visual art]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

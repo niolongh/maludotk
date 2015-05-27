@@ -7,9 +7,9 @@ pkg.filename: com.google.code.twisty
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]] [[interactive fiction]] interpreter
+tags: non-videogame [[interactive fiction]] interpreter
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

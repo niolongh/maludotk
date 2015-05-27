@@ -7,9 +7,9 @@ pkg.filename: ru.zdevs.zarchiver
 pkg.source: com.android.vending
 pkg.version: 0.8.3 (=830)
 review.rating: 5
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]] archiver donationware
+tags: non-videogame archiver donationware
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

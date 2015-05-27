@@ -4,10 +4,10 @@ app.title.short: Tilt to Live 2
 app.type: game
 modifier: niol
 pkg.filename: com.onemanleft.tilttolive2
-pkg.source: 
+pkg.source:
 pkg.version: 1.2.8 (=20)
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
 tags: videogame
 test.hw.model: Asus Transformer Prime TF201

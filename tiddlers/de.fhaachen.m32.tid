@@ -7,9 +7,9 @@ pkg.filename: de.fhaachen.m32
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]] programming
+tags: non-videogame programming
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

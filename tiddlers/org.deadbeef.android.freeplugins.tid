@@ -7,9 +7,9 @@ pkg.filename: org.deadbeef.android.freeplugins
 pkg.source: com.android.vending
 pkg.version: —
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]] [[audio player]] extension
+tags: non-videogame [[audio player]] extension
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android

@@ -7,9 +7,9 @@ pkg.filename: com.buak.Link2SD
 pkg.source: com.android.vending
 pkg.version: 4.0.11 (=351)
 review.rating: —
-review.status: juste créé
+review.status: —
 review.summary: —
-tags: [[non-game software]] [[application manager]]
+tags: non-videogame [[application manager]]
 test.hw.model: Asus Transformer Prime TF201
 test.hw.type: tablette
 test.os.family: android
